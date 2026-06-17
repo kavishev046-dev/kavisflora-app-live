@@ -2,6 +2,7 @@
   {
     "id": "1",
     "scientificName": "Araucaria heterophylla",
+    "commonName": "Norfolk Island Pine",
     "localName": "Mti wa Krismasi",
     "tribeNames": {
       "Kichaga": "Mkiringa",
@@ -21,6 +22,7 @@
   {
     "id": "2",
     "scientificName": "Acacia nilotica",
+    "commonName": "Gum Arabic Tree",
     "localName": "Mkaa",
     "tribeNames": {
       "Kichaga": "Mkangale",
@@ -28,7 +30,7 @@
       "Kihaya": "Ekyanga",
       "Kizaramo": "Mkangale"
     },
-    "category": "Medicinal",
+    "category": "Medicinal, Bee folders trees, Livestock folders",
     "conservationStatus": "Least Concern",
     "description": "A thorny tree with yellow flowers, used for charcoal and traditional medicine. Common in Tanzania's dry savanna regions.",
     "ethnobotany": "Bark used for toothache, gum for cough. Charcoal for cooking. Gum used in traditional crafts.",
@@ -40,6 +42,7 @@
   {
     "id": "3",
     "scientificName": "Mangifera indica",
+    "commonName": "Mango",
     "localName": "Mwembe",
     "tribeNames": {
       "Kichaga": "Mwerembe",
@@ -47,7 +50,7 @@
       "Kihaya": "Omwembe",
       "Kizaramo": "Mwembe"
     },
-    "category": "Fruits",
+    "category": "Fruits, Shade, Urban and settlement trees",
     "conservationStatus": "Least Concern",
     "description": "A large evergreen tree producing sweet mango fruits. One of the most cultivated fruit trees in Tanzania, valued for its delicious fruits and shade.",
     "ethnobotany": "Fruits eaten fresh or used in juices. Leaves used in traditional ceremonies. Wood used for furniture.",
@@ -59,6 +62,7 @@
   {
     "id": "4",
     "scientificName": "Azadirachta indica",
+    "commonName": "Neem",
     "localName": "Mwarobaini",
     "tribeNames": {
       "Kichaga": "Mronge",
@@ -66,7 +70,7 @@
       "Kihaya": "Omurobaini",
       "Kizaramo": "Mwarobaini"
     },
-    "category": "Medicinal",
+    "category": "Medicinal, Urban and settlement trees, Shade",
     "conservationStatus": "Least Concern",
     "description": "Known as the 'village pharmacy'. All parts have medicinal properties. Widely planted in Tanzania for its numerous health benefits.",
     "ethnobotany": "Leaves used for malaria, bark for fever, oil for skin conditions. Used by Chaga and Pare tribes.",
@@ -78,6 +82,7 @@
   {
     "id": "5",
     "scientificName": "Ficus sycomorus",
+    "commonName": "Sycamore Fig",
     "localName": "Mnyunyu",
     "tribeNames": {
       "Kichaga": "Mkuyu",
@@ -85,7 +90,7 @@
       "Kihaya": "Omukuyu",
       "Kizaramo": "Mkuyu"
     },
-    "category": "Shade",
+    "category": "Shade, Fruits, Water Source Protection Trees",
     "conservationStatus": "Least Concern",
     "description": "A large fig tree with spreading branches, providing shade and edible fruit. Sacred in many Tanzanian communities.",
     "ethnobotany": "Fruits eaten fresh, leaves used as fodder. Sacred tree in many communities. Bark used for traditional medicine.",
@@ -97,6 +102,7 @@
   {
     "id": "6",
     "scientificName": "Milicia excelsa",
+    "commonName": "African Teak",
     "localName": "Mvule",
     "tribeNames": {
       "Kichaga": "Mvule",
@@ -116,6 +122,7 @@
   {
     "id": "7",
     "scientificName": "Brachystegia spiciformis",
+    "commonName": "Miombo",
     "localName": "Miombo",
     "tribeNames": {
       "Kichaga": "Mshambarai",
@@ -123,7 +130,7 @@
       "Kihaya": "Omushambarai",
       "Kizaramo": "Miombo"
     },
-    "category": "Forest",
+    "category": "Forest, Bee folders trees, Timber",
     "conservationStatus": "Least Concern",
     "description": "Miombo woodland tree, source of firewood. Dominant tree in central African woodlands, covering vast areas of Tanzania.",
     "ethnobotany": "Firewood and charcoal. Edible caterpillars associated with this tree are a source of protein for local communities.",
@@ -135,6 +142,7 @@
   {
     "id": "8",
     "scientificName": "Erythrina abyssinica",
+    "commonName": "Red Hot Poker Tree",
     "localName": "Mryiri",
     "tribeNames": {
       "Kichaga": "Mryiri",
@@ -142,7 +150,7 @@
       "Kihaya": "Omuryiri",
       "Kizaramo": "Mryiri"
     },
-    "category": "Ornamental",
+    "category": "Ornamental, Medicinal, Bee folders trees",
     "conservationStatus": "Least Concern",
     "description": "Red flowering medicinal tree. Blooms bright red flowers during dry season. Found in Tanzania's highlands and savanna regions.",
     "ethnobotany": "Bark used for malaria and stomach problems. Used as a living fence in rural areas.",
@@ -154,6 +162,7 @@
   {
     "id": "9",
     "scientificName": "Combretum molle",
+    "commonName": "Velvet Leaf Combretum",
     "localName": "Mlama",
     "tribeNames": {
       "Kichaga": "Mlama",
@@ -161,7 +170,7 @@
       "Kihaya": "Omulama",
       "Kizaramo": "Mlama"
     },
-    "category": "Medicinal",
+    "category": "Medicinal, Bee folders trees",
     "conservationStatus": "Least Concern",
     "description": "Medicinal indigenous tree common in savanna woodlands. Used by traditional healers in Tanzania.",
     "ethnobotany": "Roots and bark for diarrhea and cough. Wood for traditional tools and utensils.",
@@ -173,6 +182,7 @@
   {
     "id": "10",
     "scientificName": "Markhamia lutea",
+    "commonName": "Yellow Markhamia",
     "localName": "Mlombwa",
     "tribeNames": {
       "Kichaga": "Mlombwa",
@@ -180,7 +190,7 @@
       "Kihaya": "Omulombwa",
       "Kizaramo": "Mlombwa"
     },
-    "category": "Ornamental",
+    "category": "Ornamental, Shade",
     "conservationStatus": "Least Concern",
     "description": "Yellow flowering ornamental tree. Grows well in highland areas and is popular in urban landscaping.",
     "ethnobotany": "Used as a shade tree, flowers attract bees. Wood for carving and light construction.",
@@ -192,6 +202,7 @@
   {
     "id": "11",
     "scientificName": "Adansonia digitata",
+    "commonName": "Baobab",
     "localName": "Baobab",
     "tribeNames": {
       "Kichaga": "Mbuyu",
@@ -199,7 +210,7 @@
       "Kihaya": "Omubuyu",
       "Kizaramo": "Mbuyu"
     },
-    "category": "Fruits",
+    "category": "Fruits, Bee folders trees, Water Source Protection Trees",
     "conservationStatus": "Least Concern",
     "description": "Large fruit tree with nutrient-rich fruits. Can live for over 1,000 years. Known as the 'Tree of Life' in Africa.",
     "ethnobotany": "Fruits rich in vitamin C, leaves eaten as vegetable, bark for rope and traditional cloth.",
@@ -211,6 +222,7 @@
   {
     "id": "12",
     "scientificName": "Sclerocarya birrea",
+    "commonName": "Marula",
     "localName": "Mngongo",
     "tribeNames": {
       "Kichaga": "Mngongo",
@@ -230,6 +242,7 @@
   {
     "id": "13",
     "scientificName": "Citrus sinensis",
+    "commonName": "Sweet Orange",
     "localName": "Chungwa",
     "tribeNames": {
       "Kichaga": "Mchungwa",
@@ -249,6 +262,7 @@
   {
     "id": "14",
     "scientificName": "Coffea arabica",
+    "commonName": "Arabica Coffee",
     "localName": "Kahawa",
     "tribeNames": {
       "Kichaga": "Mkahawa",
@@ -268,6 +282,7 @@
   {
     "id": "15",
     "scientificName": "Carica papaya",
+    "commonName": "Papaya",
     "localName": "Papai",
     "tribeNames": {
       "Kichaga": "Mpapai",
@@ -287,6 +302,7 @@
   {
     "id": "16",
     "scientificName": "Albizia lebbeck",
+    "commonName": "Woman's Tongue Tree",
     "localName": "Mzingiri",
     "tribeNames": {
       "Kichaga": "Mzingiri",
@@ -294,7 +310,7 @@
       "Kihaya": "Omuzingiri",
       "Kizaramo": "Mzingiri"
     },
-    "category": "Shade",
+    "category": "Shade, Urban and settlement trees, Timber",
     "conservationStatus": "Least Concern",
     "description": "Shade and timber tree widely planted in urban areas. Known for its spreading canopy and attractive foliage.",
     "ethnobotany": "Provides shade, wood for furniture. Leaves used as fodder. Bark used in traditional medicine.",
@@ -306,6 +322,7 @@
   {
     "id": "17",
     "scientificName": "Delonix regia",
+    "commonName": "Flamboyant",
     "localName": "Flamboyant",
     "tribeNames": {
       "Kichaga": "Mkakaya",
@@ -313,7 +330,7 @@
       "Kihaya": "Omukakaya",
       "Kizaramo": "Flamboyant"
     },
-    "category": "Ornamental",
+    "category": "Ornamental, Urban and settlement trees, Shade",
     "conservationStatus": "Least Concern",
     "description": "Ornamental tree with bright red flowers. One of the most beautiful flowering trees, widely planted in tropical regions.",
     "ethnobotany": "Planted for beauty, provides shade. Not native but widely loved for its spectacular blooms.",
@@ -325,6 +342,7 @@
   {
     "id": "18",
     "scientificName": "Terminalia catappa",
+    "commonName": "Indian Almond",
     "localName": "Mkwaju",
     "tribeNames": {
       "Kichaga": "Mkwaju",
@@ -332,7 +350,7 @@
       "Kihaya": "Omukwaju",
       "Kizaramo": "Mkwaju"
     },
-    "category": "Fruits",
+    "category": "Fruits, Urban and settlement trees, Shade",
     "conservationStatus": "Least Concern",
     "description": "Large tropical fruit tree common along coastal areas. Produces almond-like seeds and provides excellent shade.",
     "ethnobotany": "Almond-like seeds edible. Leaves used for liver problems. Wood for light construction.",
@@ -344,6 +362,7 @@
   {
     "id": "19",
     "scientificName": "Acacia xanthophloea",
+    "commonName": "Fever Tree",
     "localName": "Mgunga / Fever Tree",
     "tribeNames": {
       "Kichaga": "Mgunga",
@@ -351,7 +370,7 @@
       "Kihaya": "Omugunga",
       "Kizaramo": "Mgunga"
     },
-    "category": "Medicinal",
+    "category": "Medicinal, Water Source Protection Trees",
     "conservationStatus": "Least Concern",
     "description": "Distinctive greenish-yellow bark, grows near water sources. Known for its medicinal properties and unique appearance.",
     "ethnobotany": "Bark used for treating fevers, wood for fencing. Also used in traditional rituals.",
@@ -363,6 +382,7 @@
   {
     "id": "20",
     "scientificName": "Dalbergia melanoxylon",
+    "commonName": "African Blackwood",
     "localName": "Mpingo / African Blackwood",
     "tribeNames": {
       "Kichaga": "Mpingo",
@@ -370,7 +390,7 @@
       "Kihaya": "Omupingo",
       "Kizaramo": "Mpingo"
     },
-    "category": "Timber",
+    "category": "Timber, Bee folders trees",
     "conservationStatus": "Vulnerable",
     "description": "Highly valuable timber tree producing black, dense wood. Used for musical instruments and fine furniture.",
     "ethnobotany": "Wood used for musical instruments, carvings, and fine furniture. Bark used in traditional medicine.",
@@ -382,6 +402,7 @@
   {
     "id": "21",
     "scientificName": "Entandrophragma utile",
+    "commonName": "Sipo Mahogany",
     "localName": "Mkangazi / Sipo Mahogany",
     "tribeNames": {
       "Kichaga": "Mkangazi",
@@ -401,6 +422,7 @@
   {
     "id": "22",
     "scientificName": "Faidherbia albida",
+    "commonName": "Apple-ring Acacia",
     "localName": "Mkole / Apple-ring Acacia",
     "tribeNames": {
       "Kichaga": "Mkole",
@@ -408,7 +430,7 @@
       "Kihaya": "Omukole",
       "Kizaramo": "Mkole"
     },
-    "category": "Agroforestry",
+    "category": "Agroforestry, Shade, Livestock folders",
     "conservationStatus": "Least Concern",
     "description": "Unique tree that sheds leaves during the rainy season. Valuable for agroforestry and soil improvement.",
     "ethnobotany": "Leaves used as fodder, wood for construction, pods for animal feed. Improves soil fertility.",
@@ -420,6 +442,7 @@
   {
     "id": "23",
     "scientificName": "Vachellia tortilis",
+    "commonName": "Umbrella Thorn",
     "localName": "Mgunga (Umbrella Thorn)",
     "tribeNames": {
       "Kichaga": "Mgunga",
@@ -427,7 +450,7 @@
       "Kihaya": "Omugunga",
       "Kizaramo": "Mgunga"
     },
-    "category": "Savanna",
+    "category": "Savanna, Bee folders trees, Livestock folders",
     "conservationStatus": "Least Concern",
     "description": "Iconic umbrella-shaped tree of African savannas. Provides shade and food for wildlife.",
     "ethnobotany": "Wood used for fencing, bark for tanning, gum for food. Also used as livestock fodder.",
@@ -439,6 +462,7 @@
   {
     "id": "24",
     "scientificName": "Zanthoxylum chalybeum",
+    "commonName": "Knobwood",
     "localName": "Mjafari / Knobwood",
     "tribeNames": {
       "Kichaga": "Mjafari",
@@ -458,6 +482,7 @@
   {
     "id": "25",
     "scientificName": "Tamarindus indica",
+    "commonName": "Tamarind",
     "localName": "Mkwaju",
     "tribeNames": {
       "Kichaga": "Mkwaju",
@@ -477,6 +502,7 @@
   {
     "id": "26",
     "scientificName": "Sclerocarya birrea",
+    "commonName": "Marula",
     "localName": "Mng'ongo",
     "tribeNames": {
       "Kichaga": "Mng'ongo",
@@ -496,6 +522,7 @@
   {
     "id": "27",
     "scientificName": "Pterocarpus angolensis",
+    "commonName": "African Teak",
     "localName": "Mninga",
     "tribeNames": {
       "Kichaga": "Mninga",
@@ -515,6 +542,7 @@
   {
     "id": "28",
     "scientificName": "Annona senegalensis",
+    "commonName": "Soursop",
     "localName": "Mtomoko",
     "tribeNames": {
       "Kichaga": "Mtomoko",
@@ -522,7 +550,7 @@
       "Kihaya": "Omutomoko",
       "Kizaramo": "Mtomoko"
     },
-    "category": "Fruits",
+    "category": "Fruits, Urban and settlement trees",
     "conservationStatus": "Least Concern",
     "description": "Fruit tree producing sweet fruits similar to soursop. Found in the wild and semi-cultivated.",
     "ethnobotany": "Fruits eaten fresh, leaves and roots used for treating fever. Also used in traditional rituals.",
@@ -534,6 +562,7 @@
   {
     "id": "29",
     "scientificName": "Aloe vera",
+    "commonName": "Aloe Vera",
     "localName": "Shubiri",
     "tribeNames": {
       "Kichaga": "Shubiri",
@@ -553,6 +582,7 @@
   {
     "id": "30",
     "scientificName": "Kigelia africana",
+    "commonName": "Sausage Tree",
     "localName": "Mwegea / Sausage Tree",
     "tribeNames": {
       "Kichaga": "Mwegea",
@@ -560,7 +590,7 @@
       "Kihaya": "Omwegea",
       "Kizaramo": "Mwegea"
     },
-    "category": "Medicinal",
+    "category": "Medicinal, Bee folders trees",
     "conservationStatus": "Least Concern",
     "description": "Tree producing large sausage-shaped fruits. Used in traditional medicine for various skin conditions.",
     "ethnobotany": "Fruits used for treating skin diseases and diabetes. Also used in traditional rituals.",
@@ -572,6 +602,7 @@
   {
     "id": "31",
     "scientificName": "Combretum molle",
+    "commonName": "Velvet Leaf Combretum",
     "localName": "Mlama",
     "tribeNames": {
       "Kichaga": "Mlama",
@@ -579,7 +610,7 @@
       "Kihaya": "Omulama",
       "Kizaramo": "Mlama"
     },
-    "category": "Bee folders trees",
+    "category": "Bee folders trees, Medicinal, Livestock folders",
     "conservationStatus": "Least Concern",
     "description": "A tree that produces flowers rich in nectar, important for beekeeping and honey production.",
     "ethnobotany": "Bark used for cough and fever medicine. Flowers are a source of high-quality honey.",
@@ -591,6 +622,7 @@
   {
     "id": "32",
     "scientificName": "Combretum zeyheri",
+    "commonName": "Large-fruited Combretum",
     "localName": "Mlyasenga",
     "tribeNames": {
       "Kichaga": "Mlyasenga",
@@ -610,6 +642,7 @@
   {
     "id": "33",
     "scientificName": "Dalbergia melanoxylon",
+    "commonName": "African Blackwood",
     "localName": "Mpingo",
     "tribeNames": {
       "Kichaga": "Mpingo",
@@ -617,7 +650,7 @@
       "Kihaya": "Omupingo",
       "Kizaramo": "Mpingo"
     },
-    "category": "Bee folders trees",
+    "category": "Bee folders trees, Timber",
     "conservationStatus": "Vulnerable",
     "description": "Valuable tree producing small flowers with a sweet fragrance that attracts bees in large numbers.",
     "ethnobotany": "Flowers used by bees for honey production. Wood used for musical instruments.",
@@ -629,6 +662,7 @@
   {
     "id": "34",
     "scientificName": "Acacia nilotica",
+    "commonName": "Gum Arabic Tree",
     "localName": "Mkaa",
     "tribeNames": {
       "Kichaga": "Mkangale",
@@ -636,7 +670,7 @@
       "Kihaya": "Ekyanga",
       "Kizaramo": "Mkangale"
     },
-    "category": "Bee folders trees",
+    "category": "Bee folders trees, Medicinal, Livestock folders",
     "conservationStatus": "Least Concern",
     "description": "A tree with yellow flowers rich in pollen and nectar, important for beekeeping.",
     "ethnobotany": "Flowers are a good source of honey. Bark used for toothache and cough.",
@@ -648,6 +682,7 @@
   {
     "id": "35",
     "scientificName": "Acacia mellifera",
+    "commonName": "Black Thorn",
     "localName": "Mkambala",
     "tribeNames": {
       "Kichaga": "Mkambala",
@@ -655,7 +690,7 @@
       "Kihaya": "Omukambala",
       "Kizaramo": "Mkambala"
     },
-    "category": "Bee folders trees",
+    "category": "Bee folders trees, Livestock folders",
     "conservationStatus": "Least Concern",
     "description": "A tree with sweet-smelling flowers that attract bees from long distances.",
     "ethnobotany": "Flowers used for beekeeping. Bark used for treating diarrhea.",
@@ -667,6 +702,7 @@
   {
     "id": "36",
     "scientificName": "Brachystegia spiciformis",
+    "commonName": "Miombo",
     "localName": "Mkwee",
     "tribeNames": {
       "Kichaga": "Mshambarai",
@@ -674,7 +710,7 @@
       "Kihaya": "Omushambarai",
       "Kizaramo": "Miombo"
     },
-    "category": "Bee folders trees",
+    "category": "Bee folders trees, Forest, Timber",
     "conservationStatus": "Least Concern",
     "description": "A major tree in miombo woodlands, producing honey that is famous worldwide.",
     "ethnobotany": "A major source of honey, with a large market. The tree is important for beekeeping.",
@@ -686,6 +722,7 @@
   {
     "id": "37",
     "scientificName": "Brachystegia boehmii",
+    "commonName": "Miombo",
     "localName": "Muyombo",
     "tribeNames": {
       "Kichaga": "Muyombo",
@@ -693,7 +730,7 @@
       "Kihaya": "Omuyombo",
       "Kizaramo": "Muyombo"
     },
-    "category": "Bee folders trees",
+    "category": "Bee folders trees, Forest",
     "conservationStatus": "Least Concern",
     "description": "A miombo tree that produces flowers rich in nectar, important for beekeeping.",
     "ethnobotany": "Produces high-quality honey. Bark used for cough medicine.",
@@ -705,6 +742,7 @@
   {
     "id": "38",
     "scientificName": "Julbernardia globiflora",
+    "commonName": "Miombo",
     "localName": "Mseta",
     "tribeNames": {
       "Kichaga": "Mseta",
@@ -712,7 +750,7 @@
       "Kihaya": "Omuseta",
       "Kizaramo": "Mseta"
     },
-    "category": "Bee folders trees",
+    "category": "Bee folders trees, Forest",
     "conservationStatus": "Least Concern",
     "description": "A miombo tree producing flowers rich in nectar, important for beekeeping and honey production.",
     "ethnobotany": "A source of honey. Bark used for toothache and oral hygiene.",
@@ -724,6 +762,7 @@
   {
     "id": "39",
     "scientificName": "Markhamia obtusifolia",
+    "commonName": "Yellow Markhamia",
     "localName": "Muguvani",
     "tribeNames": {
       "Kichaga": "Muguvani",
@@ -731,7 +770,7 @@
       "Kihaya": "Omuguvani",
       "Kizaramo": "Muguvani"
     },
-    "category": "Bee folders trees",
+    "category": "Bee folders trees, Urban and settlement trees, Ornamental",
     "conservationStatus": "Least Concern",
     "description": "A small tree with large yellow flowers, a good source of pollen for bees.",
     "ethnobotany": "Flowers attract bees and birds. The tree is good for landscaping and beekeeping.",
@@ -743,6 +782,7 @@
   {
     "id": "40",
     "scientificName": "Lannea schweinfurthii",
+    "commonName": "False Marula",
     "localName": "Mgulumo",
     "tribeNames": {
       "Kichaga": "Mgulumo",
@@ -750,7 +790,7 @@
       "Kihaya": "Omugulumo",
       "Kizaramo": "Mgulumo"
     },
-    "category": "Bee folders trees",
+    "category": "Bee folders trees, Fruits",
     "conservationStatus": "Least Concern",
     "description": "A tree producing flowers rich in nectar, important for beekeeping in dry areas.",
     "ethnobotany": "Honey from this tree has a light color and sweet taste. Bark used in traditional medicine.",
@@ -762,6 +802,7 @@
   {
     "id": "41",
     "scientificName": "Acacia tortilis",
+    "commonName": "Umbrella Thorn",
     "localName": "Mgunga",
     "tribeNames": {
       "Kichaga": "Mgunga",
@@ -769,7 +810,7 @@
       "Kihaya": "Omugunga",
       "Kizaramo": "Mgunga"
     },
-    "category": "Bee folders trees",
+    "category": "Bee folders trees, Savanna, Livestock folders",
     "conservationStatus": "Least Concern",
     "description": "A tree with yellow flowers rich in pollen, important for bees in dry areas.",
     "ethnobotany": "Flowers are a source of honey. Pods used for livestock fodder.",
@@ -781,6 +822,7 @@
   {
     "id": "42",
     "scientificName": "Adansonia digitata",
+    "commonName": "Baobab",
     "localName": "Baobab / Mbuyu",
     "tribeNames": {
       "Kichaga": "Mbuyu",
@@ -788,7 +830,7 @@
       "Kihaya": "Omubuyu",
       "Kizaramo": "Mbuyu"
     },
-    "category": "Bee folders trees",
+    "category": "Bee folders trees, Fruits, Water Source Protection Trees",
     "conservationStatus": "Least Concern",
     "description": "A large tree producing large white flowers rich in nectar. The flowers bloom at night and attract bees.",
     "ethnobotany": "Fruits rich in vitamin C, leaves eaten as vegetable, bark for rope.",
@@ -800,6 +842,7 @@
   {
     "id": "43",
     "scientificName": "Erythrina abyssinica",
+    "commonName": "Red Hot Poker Tree",
     "localName": "Mryiri",
     "tribeNames": {
       "Kichaga": "Mryiri",
@@ -807,7 +850,7 @@
       "Kihaya": "Omuryiri",
       "Kizaramo": "Mryiri"
     },
-    "category": "Bee folders trees",
+    "category": "Bee folders trees, Ornamental, Medicinal",
     "conservationStatus": "Least Concern",
     "description": "A tree with bright red flowers rich in nectar. The flowers attract bees and birds in large numbers.",
     "ethnobotany": "Flowers attract bees. Bark used for malaria and stomach problems.",
@@ -819,6 +862,7 @@
   {
     "id": "44",
     "scientificName": "Kigelia africana",
+    "commonName": "Sausage Tree",
     "localName": "Mwegea / Sausage Tree",
     "tribeNames": {
       "Kichaga": "Mwegea",
@@ -826,7 +870,7 @@
       "Kihaya": "Omwegea",
       "Kizaramo": "Mwegea"
     },
-    "category": "Bee folders trees",
+    "category": "Bee folders trees, Medicinal",
     "conservationStatus": "Least Concern",
     "description": "A tree producing large red flowers rich in nectar. The flowers bloom at night and attract bees.",
     "ethnobotany": "Flowers used by bees. Fruits used for skin treatments and diabetes.",
@@ -838,6 +882,7 @@
   {
     "id": "45",
     "scientificName": "Schotia brachypetala",
+    "commonName": "Weeping Boer-bean",
     "localName": "Mkombi",
     "tribeNames": {
       "Kichaga": "Mkombi",
@@ -845,7 +890,7 @@
       "Kihaya": "Omukombi",
       "Kizaramo": "Mkombi"
     },
-    "category": "Bee folders trees",
+    "category": "Bee folders trees, Ornamental, Shade",
     "conservationStatus": "Least Concern",
     "description": "A tree producing red flowers rich in nectar. Produces large amounts of honey during the flowering season.",
     "ethnobotany": "Flowers attract bees. Wood used for furniture.",
@@ -857,6 +902,7 @@
   {
     "id": "46",
     "scientificName": "Grewia similis",
+    "commonName": "Raisin Bush",
     "localName": "Mkole",
     "tribeNames": {
       "Kichaga": "Mkole",
@@ -864,7 +910,7 @@
       "Kihaya": "Omukole",
       "Kizaramo": "Mkole"
     },
-    "category": "Livestock folders",
+    "category": "Livestock folders, Urban and settlement trees",
     "conservationStatus": "Least Concern",
     "description": "A tree highly preferred by livestock, especially goats. Has a preference score of 1.8 (high) and good digestibility.",
     "ethnobotany": "Excellent fodder for livestock, fruits eaten by birds, bark used for medicine.",
@@ -876,6 +922,7 @@
   {
     "id": "47",
     "scientificName": "Haplocoelum foliolosum",
+    "commonName": "Mkole",
     "localName": "Mkole (aina)",
     "tribeNames": {
       "Kichaga": "Mkole",
@@ -895,6 +942,7 @@
   {
     "id": "48",
     "scientificName": "Grewia bicolor",
+    "commonName": "Raisin Bush",
     "localName": "Mkole",
     "tribeNames": {
       "Kichaga": "Mkole",
@@ -902,7 +950,7 @@
       "Kihaya": "Omukole",
       "Kizaramo": "Mkole"
     },
-    "category": "Livestock folders",
+    "category": "Livestock folders, Urban and settlement trees",
     "conservationStatus": "Least Concern",
     "description": "A tree or shrub used as livestock fodder, especially for goats and sheep. Has multiple uses (fodder, medicine, food).",
     "ethnobotany": "Leaves used as fodder, fruits eaten by birds, bark used for medicine.",
@@ -914,6 +962,7 @@
   {
     "id": "49",
     "scientificName": "Combretum hereroense",
+    "commonName": "Russet-leaved Combretum",
     "localName": "Mlama (aina)",
     "tribeNames": {
       "Kichaga": "Mlama",
@@ -921,7 +970,7 @@
       "Kihaya": "Omulama",
       "Kizaramo": "Mlama"
     },
-    "category": "Livestock folders",
+    "category": "Livestock folders, Bee folders trees",
     "conservationStatus": "Least Concern",
     "description": "A tree recommended by pastoralists as livestock fodder, especially for cattle and goats.",
     "ethnobotany": "Excellent fodder, leaves and small branches eaten by all livestock.",
@@ -933,6 +982,7 @@
   {
     "id": "50",
     "scientificName": "Acacia tortilis",
+    "commonName": "Umbrella Thorn",
     "localName": "Mgunga",
     "tribeNames": {
       "Kichaga": "Mgunga",
@@ -940,7 +990,7 @@
       "Kihaya": "Omugunga",
       "Kizaramo": "Mgunga"
     },
-    "category": "Livestock folders",
+    "category": "Livestock folders, Savanna, Bee folders trees",
     "conservationStatus": "Least Concern",
     "description": "An important tree for livestock fodder, especially during the dry season. Leaves and pods are eaten by goats and cattle.",
     "ethnobotany": "Excellent fodder for livestock, wood for construction, bark for tanning.",
@@ -952,6 +1002,7 @@
   {
     "id": "51",
     "scientificName": "Cordia sinensis",
+    "commonName": "Sandpaper Tree",
     "localName": "Mdavi",
     "tribeNames": {
       "Kichaga": "Mdavi",
@@ -959,7 +1010,7 @@
       "Kihaya": "Omudavi",
       "Kizaramo": "Mdavi"
     },
-    "category": "Livestock folders",
+    "category": "Livestock folders, Fruits, Urban and settlement trees",
     "conservationStatus": "Least Concern",
     "description": "A small to medium tree used as livestock fodder. Has many uses (food, medicine, fodder).",
     "ethnobotany": "Fruits eaten, leaves are fodder, bark used for toothache.",
@@ -971,6 +1022,7 @@
   {
     "id": "52",
     "scientificName": "Acacia nilotica",
+    "commonName": "Gum Arabic Tree",
     "localName": "Mkaa",
     "tribeNames": {
       "Kichaga": "Mkangale",
@@ -978,7 +1030,7 @@
       "Kihaya": "Ekyanga",
       "Kizaramo": "Mkangale"
     },
-    "category": "Livestock folders",
+    "category": "Livestock folders, Medicinal, Bee folders trees",
     "conservationStatus": "Least Concern",
     "description": "A tree producing pods and leaves that are preferred by livestock, especially during the dry season.",
     "ethnobotany": "Pods used as fodder, bark for toothache and cough.",
@@ -990,6 +1042,7 @@
   {
     "id": "53",
     "scientificName": "Acacia mellifera",
+    "commonName": "Black Thorn",
     "localName": "Mkambala",
     "tribeNames": {
       "Kichaga": "Mkambala",
@@ -997,7 +1050,7 @@
       "Kihaya": "Omukambala",
       "Kizaramo": "Mkambala"
     },
-    "category": "Livestock folders",
+    "category": "Livestock folders, Bee folders trees",
     "conservationStatus": "Least Concern",
     "description": "A tree producing leaves rich in protein, important for livestock fodder during the dry season.",
     "ethnobotany": "Excellent fodder for cattle and goats, wood for firewood.",
@@ -1009,6 +1062,7 @@
   {
     "id": "54",
     "scientificName": "Dichrostachys cinerea",
+    "commonName": "Sickle Bush",
     "localName": "Mtunduru",
     "tribeNames": {
       "Kichaga": "Mtunduru",
@@ -1016,7 +1070,7 @@
       "Kihaya": "Omutunduru",
       "Kizaramo": "Mtunduru"
     },
-    "category": "Livestock folders",
+    "category": "Livestock folders, Savanna",
     "conservationStatus": "Least Concern",
     "description": "A shrub or small tree used as fodder for goats and sheep, especially during the dry season.",
     "ethnobotany": "Leaves eaten by livestock, wood for high-quality firewood and charcoal.",
@@ -1028,6 +1082,7 @@
   {
     "id": "55",
     "scientificName": "Acacia senegal",
+    "commonName": "Gum Arabic Tree",
     "localName": "Mgunga (Gum Arabic)",
     "tribeNames": {
       "Kichaga": "Mgunga",
@@ -1047,6 +1102,7 @@
   {
     "id": "56",
     "scientificName": "Grewia forbesii",
+    "commonName": "Raisin Bush",
     "localName": "Mpelemele",
     "tribeNames": {
       "Kichaga": "Mpelemele",
@@ -1066,6 +1122,7 @@
   {
     "id": "57",
     "scientificName": "Acacia abyssinica",
+    "commonName": "Abyssinian Acacia",
     "localName": "Mgunga mweupe",
     "tribeNames": {
       "Kichaga": "Mgunga",
@@ -1073,7 +1130,7 @@
       "Kihaya": "Omugunga",
       "Kizaramo": "Mgunga"
     },
-    "category": "Livestock folders",
+    "category": "Livestock folders, Urban and settlement trees",
     "conservationStatus": "Least Concern",
     "description": "A tree producing protein-rich leaves, important for livestock fodder.",
     "ethnobotany": "Excellent fodder, wood for construction, bark for medicine.",
@@ -1085,6 +1142,7 @@
   {
     "id": "58",
     "scientificName": "Bauhinia thonningii",
+    "commonName": "Camel's Foot",
     "localName": "Mkandambili",
     "tribeNames": {
       "Kichaga": "Mkandambili",
@@ -1092,7 +1150,7 @@
       "Kihaya": "Omukandambili",
       "Kizaramo": "Mkandambili"
     },
-    "category": "Livestock folders",
+    "category": "Livestock folders, Ornamental",
     "conservationStatus": "Least Concern",
     "description": "A small tree used as livestock fodder, especially during the dry season.",
     "ethnobotany": "Leaves eaten by livestock, bark used for cough medicine.",
@@ -1104,6 +1162,7 @@
   {
     "id": "59",
     "scientificName": "Burkea africana",
+    "commonName": "African Burkea",
     "localName": "Mfuti",
     "tribeNames": {
       "Kichaga": "Mfuti",
@@ -1123,6 +1182,7 @@
   {
     "id": "60",
     "scientificName": "Terminalia brownii",
+    "commonName": "Brown Terminalia",
     "localName": "Mdwendwe",
     "tribeNames": {
       "Kichaga": "Mdwendwe",
@@ -1142,6 +1202,7 @@
    {
     "id": "61",
     "scientificName": "Afzelia quanzensis",
+    "commonName": "Pod Mahogany",
     "localName": "Mkola",
     "tribeNames": {
       "Kichaga": "Mkola",
@@ -1161,6 +1222,7 @@
   {
     "id": "62",
     "scientificName": "Albizia anthelmintica",
+    "commonName": "Wormbark Albizia",
     "localName": "Mkalala",
     "tribeNames": {
       "Kichaga": "Mkalala",
@@ -1180,6 +1242,7 @@
   {
     "id": "63",
     "scientificName": "Bauhinia petersiana",
+    "commonName": "Butterfly Bauhinia",
     "localName": "Mkombwa",
     "tribeNames": {
       "Kichaga": "Mkombwa",
@@ -1187,7 +1250,7 @@
       "Kihaya": "Omukombwa",
       "Kizaramo": "Mkombwa"
     },
-    "category": "Ornamental",
+    "category": "Ornamental, Shade",
     "conservationStatus": "Least Concern",
     "description": "A beautiful ornamental tree with distinctive butterfly-shaped leaves and white flowers. Native to eastern Africa.",
     "ethnobotany": "Planted for shade and ornament. Leaves used as fodder. Wood for light construction.",
@@ -1199,6 +1262,7 @@
   {
     "id": "64",
     "scientificName": "Cassia siamea",
+    "commonName": "Siamese Cassia",
     "localName": "Mjohoro",
     "tribeNames": {
       "Kichaga": "Mjohoro",
@@ -1206,7 +1270,7 @@
       "Kihaya": "Omujohoro",
       "Kizaramo": "Mjohoro"
     },
-    "category": "Urban and settlement trees",
+    "category": "Urban and settlement trees, Shade, Bee folders trees",
     "conservationStatus": "Least Concern",
     "description": "A fast-growing evergreen tree widely planted in urban areas for shade and as a living fence. Native to Southeast Asia but naturalized in Tanzania.",
     "ethnobotany": "Provides excellent shade. Wood used for furniture and construction. Leaves used as green manure.",
@@ -1218,6 +1282,7 @@
   {
     "id": "65",
     "scientificName": "Commiphora africana",
+    "commonName": "African Myrrh",
     "localName": "Mtono",
     "tribeNames": {
       "Kichaga": "Mtono",
@@ -1237,6 +1302,7 @@
   {
     "id": "66",
     "scientificName": "Cordia africana",
+    "commonName": "East African Cordia",
     "localName": "Mdavi mweupe",
     "tribeNames": {
       "Kichaga": "Mdavi",
@@ -1244,7 +1310,7 @@
       "Kihaya": "Omudavi",
       "Kizaramo": "Mdavi"
     },
-    "category": "Fruits",
+    "category": "Fruits, Water Source Protection Trees, Timber",
     "conservationStatus": "Least Concern",
     "description": "A medium-sized tree producing sweet, edible fruits. Common in Tanzania's highlands and along rivers.",
     "ethnobotany": "Fruits eaten fresh. Wood used for furniture and carving. Leaves used as fodder.",
@@ -1256,6 +1322,7 @@
   {
     "id": "67",
     "scientificName": "Croton sylvaticus",
+    "commonName": "Forest Croton",
     "localName": "Mkarakara mwitu",
     "tribeNames": {
       "Kichaga": "Mkarakara",
@@ -1275,6 +1342,7 @@
   {
     "id": "68",
     "scientificName": "Dalbergia arbutifolia",
+    "commonName": "Rosewood",
     "localName": "Mgiha",
     "tribeNames": {
       "Kichaga": "Mgiha",
@@ -1294,6 +1362,7 @@
   {
     "id": "69",
     "scientificName": "Dichrostachys cinerea",
+    "commonName": "Sickle Bush",
     "localName": "Mtunduru",
     "tribeNames": {
       "Kichaga": "Mtunduru",
@@ -1301,7 +1370,7 @@
       "Kihaya": "Omutunduru",
       "Kizaramo": "Mtunduru"
     },
-    "category": "Savanna",
+    "category": "Savanna, Livestock folders",
     "conservationStatus": "Least Concern",
     "description": "A thorny shrub or small tree found in savanna regions. Provides browse for livestock and habitat for wildlife.",
     "ethnobotany": "Leaves used as fodder. Wood for high-quality firewood and charcoal. Used as a natural fence.",
@@ -1313,6 +1382,7 @@
   {
     "id": "70",
     "scientificName": "Diospyros mespiliformis",
+    "commonName": "African Ebony",
     "localName": "Mgiriti",
     "tribeNames": {
       "Kichaga": "Mgiriti",
@@ -1320,7 +1390,7 @@
       "Kihaya": "Omugiriti",
       "Kizaramo": "Mgiriti"
     },
-    "category": "Fruits",
+    "category": "Fruits, Timber",
     "conservationStatus": "Least Concern",
     "description": "A large evergreen tree producing sweet, edible fruits similar to persimmons. Common along rivers and in miombo woodlands.",
     "ethnobotany": "Fruits eaten fresh or dried. Wood for construction and furniture. Bark for traditional medicine.",
@@ -1332,6 +1402,7 @@
   {
     "id": "71",
     "scientificName": "Dombeya kirkii",
+    "commonName": "Dombeya",
     "localName": "Mlolwa mweupe",
     "tribeNames": {
       "Kichaga": "Mlolwa",
@@ -1351,6 +1422,7 @@
   {
     "id": "72",
     "scientificName": "Ficus ingens",
+    "commonName": "Red-leaved Fig",
     "localName": "Mkuyu mweupe",
     "tribeNames": {
       "Kichaga": "Mkuyu",
@@ -1358,7 +1430,7 @@
       "Kihaya": "Omukuyu",
       "Kizaramo": "Mkuyu"
     },
-    "category": "Shade",
+    "category": "Shade, Water Source Protection Trees",
     "conservationStatus": "Least Concern",
     "description": "A large fig tree providing excellent shade. Found in rocky areas and along rivers in Tanzania.",
     "ethnobotany": "Provides shade. Fruits eaten by birds and wildlife. Bark for traditional medicine.",
@@ -1370,6 +1442,7 @@
   {
     "id": "73",
     "scientificName": "Gardenia ternifolia",
+    "commonName": "Gardenia",
     "localName": "Mkandarusi",
     "tribeNames": {
       "Kichaga": "Mkandarusi",
@@ -1389,6 +1462,7 @@
   {
     "id": "74",
     "scientificName": "Grewia mollis",
+    "commonName": "Raisin Bush",
     "localName": "Mpelemele",
     "tribeNames": {
       "Kichaga": "Mpelemele",
@@ -1396,7 +1470,7 @@
       "Kihaya": "Omugelemele",
       "Kizaramo": "Mpelemele"
     },
-    "category": "Agroforestry",
+    "category": "Agroforestry, Livestock folders",
     "conservationStatus": "Least Concern",
     "description": "A small tree or shrub used in agroforestry for soil improvement and livestock fodder.",
     "ethnobotany": "Leaves used as fodder. Bark for rope and medicine. Fruits eaten by wildlife.",
@@ -1408,6 +1482,7 @@
   {
     "id": "75",
     "scientificName": "Khaya senegalensis",
+    "commonName": "African Mahogany",
     "localName": "Mkangazi wa Senegal",
     "tribeNames": {
       "Kichaga": "Mkangazi",
@@ -1415,7 +1490,7 @@
       "Kihaya": "Omukangazi",
       "Kizaramo": "Mkangazi"
     },
-    "category": "Timber",
+    "category": "Timber, Shade",
     "conservationStatus": "Vulnerable",
     "description": "A large mahogany tree producing high-quality timber. Widely planted for its valuable wood.",
     "ethnobotany": "High-quality timber for furniture, boats, and construction. Bark used in traditional medicine.",
@@ -1427,6 +1502,7 @@
   {
     "id": "76",
     "scientificName": "Lannea stuhlmannii",
+    "commonName": "False Marula",
     "localName": "Mkole mwekundu",
     "tribeNames": {
       "Kichaga": "Mkole",
@@ -1446,6 +1522,7 @@
   {
     "id": "77",
     "scientificName": "Lonchocarpus bussei",
+    "commonName": "Lonchocarpus",
     "localName": "Mkole bussei",
     "tribeNames": {
       "Kichaga": "Mkole",
@@ -1465,6 +1542,7 @@
   {
     "id": "78",
     "scientificName": "Manilkara discolor",
+    "commonName": "Sapodilla",
     "localName": "Msambia mweupe",
     "tribeNames": {
       "Kichaga": "Msambia",
@@ -1472,7 +1550,7 @@
       "Kihaya": "Omusambia",
       "Kizaramo": "Msambia"
     },
-    "category": "Fruits",
+    "category": "Fruits, Timber",
     "conservationStatus": "Least Concern",
     "description": "A medium-sized tree producing sweet, edible fruits. Found in Tanzania's coastal forests.",
     "ethnobotany": "Fruits eaten fresh. Wood for construction and furniture. Latex used in traditional medicine.",
@@ -1484,6 +1562,7 @@
   {
     "id": "79",
     "scientificName": "Monotes engleri",
+    "commonName": "Monotes",
     "localName": "Mkole engleri",
     "tribeNames": {
       "Kichaga": "Mkole",
@@ -1503,6 +1582,7 @@
   {
     "id": "80",
     "scientificName": "Olea welwitschii",
+    "commonName": "Wild Olive",
     "localName": "Mzeituni mwitu",
     "tribeNames": {
       "Kichaga": "Mzeituni",
@@ -1510,7 +1590,7 @@
       "Kihaya": "Omuzaituni",
       "Kizaramo": "Mzeituni"
     },
-    "category": "Fruits",
+    "category": "Fruits, Water Source Protection Trees",
     "conservationStatus": "Least Concern",
     "description": "A wild olive tree producing small, edible fruits. Found in Tanzania's highlands and dry forests.",
     "ethnobotany": "Fruits eaten fresh or pressed for oil. Wood for carving and furniture.",
@@ -1522,6 +1602,7 @@
   {
     "id": "81",
     "scientificName": "Pericopsis angolensis",
+    "commonName": "Angolan Pericopsis",
     "localName": "Mkole perikopsis",
     "tribeNames": {
       "Kichaga": "Mkole",
@@ -1541,6 +1622,7 @@
   {
     "id": "82",
     "scientificName": "Piliostigma reticulatum",
+    "commonName": "Camel's Foot",
     "localName": "Mkole reticulatum",
     "tribeNames": {
       "Kichaga": "Mkole",
@@ -1548,7 +1630,7 @@
       "Kihaya": "Omukole",
       "Kizaramo": "Mkole"
     },
-    "category": "Agroforestry",
+    "category": "Agroforestry, Livestock folders",
     "conservationStatus": "Least Concern",
     "description": "A small tree used in agroforestry for soil improvement, shade, and fodder. Common in Tanzania's dry savannas.",
     "ethnobotany": "Leaves used as fodder. Pods for animal feed. Bark for traditional medicine.",
@@ -1560,6 +1642,7 @@
   {
     "id": "83",
     "scientificName": "Protea gaguedi",
+    "commonName": "Protea",
     "localName": "Mprotea",
     "tribeNames": {
       "Kichaga": "Mprotea",
@@ -1579,6 +1662,7 @@
   {
     "id": "84",
     "scientificName": "Pterocarpus tinctorius",
+    "commonName": "Red Sandalwood",
     "localName": "Mninga mwekundu",
     "tribeNames": {
       "Kichaga": "Mninga",
@@ -1598,6 +1682,7 @@
   {
     "id": "85",
     "scientificName": "Rhus pyroides",
+    "commonName": "Rhus",
     "localName": "Mkole sumu",
     "tribeNames": {
       "Kichaga": "Mkole",
@@ -1617,6 +1702,7 @@
   {
     "id": "86",
     "scientificName": "Saba comorensis",
+    "commonName": "Saba Fruit",
     "localName": "Mkole saba",
     "tribeNames": {
       "Kichaga": "Mkole",
@@ -1624,7 +1710,7 @@
       "Kihaya": "Omukole",
       "Kizaramo": "Mkole"
     },
-    "category": "Fruits",
+    "category": "Fruits, Water Source Protection Trees",
     "conservationStatus": "Least Concern",
     "description": "A climbing shrub or small tree producing sweet, edible fruits. Found along rivers and in forest edges.",
     "ethnobotany": "Fruits eaten fresh. Leaves used as fodder. Bark for traditional medicine.",
@@ -1636,6 +1722,7 @@
   {
     "id": "87",
     "scientificName": "Schrebera trichoclada",
+    "commonName": "Schrebera",
     "localName": "Mwahama",
     "tribeNames": {
       "Kichaga": "Mwahama",
@@ -1655,6 +1742,7 @@
   {
     "id": "88",
     "scientificName": "Spirostachys africana",
+    "commonName": "Tamboti",
     "localName": "Mkole spirostachys",
     "tribeNames": {
       "Kichaga": "Mkole",
@@ -1674,6 +1762,7 @@
   {
     "id": "89",
     "scientificName": "Steganotaenia araliacea",
+    "commonName": "Carrot Tree",
     "localName": "Mkole stegano",
     "tribeNames": {
       "Kichaga": "Mkole",
@@ -1693,6 +1782,7 @@
   {
     "id": "90",
     "scientificName": "Sterculia quinqueloba",
+    "commonName": "Star Chestnut",
     "localName": "Moza",
     "tribeNames": {
       "Kichaga": "Moza",
@@ -1712,6 +1802,7 @@
   {
     "id": "91",
     "scientificName": "Strychnos spinosa",
+    "commonName": "Spiny Monkey Orange",
     "localName": "Mkole spinosa",
     "tribeNames": {
       "Kichaga": "Mkole",
@@ -1731,6 +1822,7 @@
   {
     "id": "92",
     "scientificName": "Syzygium guineense",
+    "commonName": "Waterberry",
     "localName": "Mzambarau mwitu",
     "tribeNames": {
       "Kichaga": "Mzambarau",
@@ -1738,7 +1830,7 @@
       "Kihaya": "Omuzambarau",
       "Kizaramo": "Mzambarau"
     },
-    "category": "Fruits",
+    "category": "Fruits, Water Source Protection Trees",
     "conservationStatus": "Least Concern",
     "description": "A medium-sized tree producing sweet, edible fruits. Found along rivers and in highland forests.",
     "ethnobotany": "Fruits eaten fresh or used in drinks. Wood for construction and furniture.",
@@ -1750,6 +1842,7 @@
   {
     "id": "93",
     "scientificName": "Tamarindus indica",
+    "commonName": "Tamarind",
     "localName": "Mkwaju",
     "tribeNames": {
       "Kichaga": "Mkwaju",
@@ -1769,6 +1862,7 @@
   {
     "id": "94",
     "scientificName": "Tarenna graveolens",
+    "commonName": "Tarenna",
     "localName": "Mkole tare",
     "tribeNames": {
       "Kichaga": "Mkole",
@@ -1788,6 +1882,7 @@
   {
     "id": "95",
     "scientificName": "Trichilia emetica",
+    "commonName": "Natal Mahogany",
     "localName": "Mkole trichilia",
     "tribeNames": {
       "Kichaga": "Mkole",
@@ -1795,7 +1890,7 @@
       "Kihaya": "Omukole",
       "Kizaramo": "Mkole"
     },
-    "category": "Fruits",
+    "category": "Fruits, Timber",
     "conservationStatus": "Least Concern",
     "description": "A tree producing oil-rich fruits used in cosmetics and traditional medicine. Found in Tanzania's forests.",
     "ethnobotany": "Fruits used for oil. Bark for traditional medicine. Wood for construction.",
@@ -1807,6 +1902,7 @@
   {
     "id": "96",
     "scientificName": "Uapaca kirkiana",
+    "commonName": "Sugar Plum",
     "localName": "Mkole uapaca",
     "tribeNames": {
       "Kichaga": "Mkole",
@@ -1826,6 +1922,7 @@
   {
     "id": "97",
     "scientificName": "Vangueria infausta",
+    "commonName": "African Medlar",
     "localName": "Mkole vangueria",
     "tribeNames": {
       "Kichaga": "Mkole",
@@ -1833,7 +1930,7 @@
       "Kihaya": "Omukole",
       "Kizaramo": "Mkole"
     },
-    "category": "Fruits",
+    "category": "Fruits, Water Source Protection Trees",
     "conservationStatus": "Least Concern",
     "description": "A small tree producing sweet, edible fruits. Found in Tanzania's dry woodlands and savannas.",
     "ethnobotany": "Fruits eaten fresh. Wood for firewood. Bark for traditional medicine.",
@@ -1845,6 +1942,7 @@
   {
     "id": "98",
     "scientificName": "Vitex doniana",
+    "commonName": "Black Plum",
     "localName": "Mkole vitex",
     "tribeNames": {
       "Kichaga": "Mkole",
@@ -1852,7 +1950,7 @@
       "Kihaya": "Omukole",
       "Kizaramo": "Mkole"
     },
-    "category": "Fruits",
+    "category": "Fruits, Water Source Protection Trees",
     "conservationStatus": "Least Concern",
     "description": "A tree producing sweet, edible fruits used in traditional dishes. Found in Tanzania's forests and woodlands.",
     "ethnobotany": "Fruits eaten fresh or used in cooking. Wood for construction. Bark for traditional medicine.",
@@ -1864,6 +1962,7 @@
   {
     "id": "99",
     "scientificName": "Ximenia caffra",
+    "commonName": "Sour Plum",
     "localName": "Mkole ximenia",
     "tribeNames": {
       "Kichaga": "Mkole",
@@ -1883,6 +1982,7 @@
   {
     "id": "100",
     "scientificName": "Ziziphus mucronata",
+    "commonName": "Buffalo Thorn",
     "localName": "Mkunazi mwitu",
     "tribeNames": {
       "Kichaga": "Mkunazi",
@@ -1890,7 +1990,7 @@
       "Kihaya": "Omukunazi",
       "Kizaramo": "Mkunazi"
     },
-    "category": "Fruits",
+    "category": "Fruits, Livestock folders",
     "conservationStatus": "Least Concern",
     "description": "A spiny tree producing sweet, edible fruits. Found in Tanzania's savannas and along rivers.",
     "ethnobotany": "Fruits eaten fresh. Wood for fencing and construction. Leaves used as fodder.",
@@ -1902,6 +2002,7 @@
     {
     "id": "101",
     "scientificName": "Senna siamea",
+    "commonName": "Siamese Cassia",
     "localName": "Mjohoro",
     "tribeNames": {
       "Kichaga": "Mjohoro",
@@ -1909,7 +2010,7 @@
       "Kihaya": "Omujohoro",
       "Kizaramo": "Mjohoro"
     },
-    "category": "Urban and settlement trees",
+    "category": "Urban and settlement trees, Shade, Bee folders trees",
     "conservationStatus": "Least Concern",
     "description": "A fast-growing evergreen tree widely planted in urban areas for shade and as a living fence. Common in Morogoro and Dar es Salaam municipalities.",
     "ethnobotany": "Provides excellent shade. Wood used for furniture and construction. Leaves used as green manure. Drought tolerant and adaptable.",
@@ -1921,6 +2022,7 @@
   {
     "id": "102",
     "scientificName": "Azadirachta indica",
+    "commonName": "Neem",
     "localName": "Mwarobaini",
     "tribeNames": {
       "Kichaga": "Mronge",
@@ -1928,7 +2030,7 @@
       "Kihaya": "Omurobaini",
       "Kizaramo": "Mwarobaini"
     },
-    "category": "Urban and settlement trees",
+    "category": "Urban and settlement trees, Medicinal, Shade",
     "conservationStatus": "Least Concern",
     "description": "One of the most common urban trees in Tanzania. Provides shade, medicinal properties, and natural pest control. Dominant in Dar es Salaam's urban forests.",
     "ethnobotany": "Kivuli, dawa ya malaria na ngozi, kukinga wadudu. Known as the 'village pharmacy'.",
@@ -1940,6 +2042,7 @@
   {
     "id": "103",
     "scientificName": "Polyalthia longifolia",
+    "commonName": "Dangling Tree",
     "localName": "Mti wa dangling",
     "tribeNames": {
       "Kichaga": "Mti wa dangling",
@@ -1947,7 +2050,7 @@
       "Kihaya": "Omuti wa dangling",
       "Kizaramo": "Mti wa dangling"
     },
-    "category": "Urban and settlement trees",
+    "category": "Urban and settlement trees, Shade",
     "conservationStatus": "Least Concern",
     "description": "A tall, slender tree widely planted along roadsides and in urban gardens. Provides excellent shade without damaging pavements.",
     "ethnobotany": "Mapambo na kivuli, mti huu hauna mizizi inayoharibu miundo.",
@@ -1959,6 +2062,7 @@
   {
     "id": "104",
     "scientificName": "Leucaena leucocephala",
+    "commonName": "Leucaena",
     "localName": "Mleuca",
     "tribeNames": {
       "Kichaga": "Mleuca",
@@ -1966,7 +2070,7 @@
       "Kihaya": "Omuleuca",
       "Kizaramo": "Mleuca"
     },
-    "category": "Urban and settlement trees",
+    "category": "Urban and settlement trees, Agroforestry, Livestock folders",
     "conservationStatus": "Least Concern",
     "description": "A fast-growing tree used for shade, fodder, and timber. Common in Morogoro Municipality and urban areas of Tanzania.",
     "ethnobotany": "Kivuli, malisho kwa mifugo, mbao kwa kuni, majani ni mbolea.",
@@ -1978,6 +2082,7 @@
   {
     "id": "105",
     "scientificName": "Pithecelobium dulce",
+    "commonName": "Manila Tamarind",
     "localName": "Mkwaju mwitu",
     "tribeNames": {
       "Kichaga": "Mkwaju mwitu",
@@ -1985,7 +2090,7 @@
       "Kihaya": "Omukwaju mwitu",
       "Kizaramo": "Mkwaju mwitu"
     },
-    "category": "Urban and settlement trees",
+    "category": "Urban and settlement trees, Fruits",
     "conservationStatus": "Least Concern",
     "description": "A fast-growing tree providing shade and edible fruits. Common in urban areas and settlements across Tanzania.",
     "ethnobotany": "Kivuli, matunda huliwa, gome hutumika kwa dawa.",
@@ -1997,6 +2102,7 @@
   {
     "id": "106",
     "scientificName": "Terminalia catappa",
+    "commonName": "Indian Almond",
     "localName": "Mkwaju / Indian Almond",
     "tribeNames": {
       "Kichaga": "Mkwaju",
@@ -2004,7 +2110,7 @@
       "Kihaya": "Omukwaju",
       "Kizaramo": "Mkwaju"
     },
-    "category": "Urban and settlement trees",
+    "category": "Urban and settlement trees, Shade, Fruits",
     "conservationStatus": "Least Concern",
     "description": "A popular shade tree in Zanzibar and coastal cities. Provides biocooling benefits and is well-adapted to urban environments.",
     "ethnobotany": "Kivuli kikubwa, matunda huliwa, majani hutumika kwa dawa za ini.",
@@ -2016,6 +2122,7 @@
   {
     "id": "107",
     "scientificName": "Melia azedarach",
+    "commonName": "Chinaberry",
     "localName": "Mmelia / Mwarubaini nusu",
     "tribeNames": {
       "Kichaga": "Mmelia",
@@ -2023,7 +2130,7 @@
       "Kihaya": "Omumelia",
       "Kizaramo": "Mmelia"
     },
-    "category": "Urban and settlement trees",
+    "category": "Urban and settlement trees, Shade",
     "conservationStatus": "Least Concern",
     "description": "A popular ornamental tree in towns, providing quick shade. Recommended for fuel and pole production in dry areas of Tanzania.",
     "ethnobotany": "Firewood, poles, timber (furniture), medicine (leaves), bee forage, shade, ornamental, insecticide.",
@@ -2035,6 +2142,7 @@
   {
     "id": "108",
     "scientificName": "Mangifera indica",
+    "commonName": "Mango",
     "localName": "Mwembe",
     "tribeNames": {
       "Kichaga": "Mwerembe",
@@ -2042,7 +2150,7 @@
       "Kihaya": "Omwembe",
       "Kizaramo": "Mwembe"
     },
-    "category": "Urban and settlement trees",
+    "category": "Urban and settlement trees, Fruits, Shade",
     "conservationStatus": "Least Concern",
     "description": "One of the most common fruit and shade trees in urban areas. Provides food, shade, and cooling benefits in cities.",
     "ethnobotany": "Matunda huliwa, kivuli, majani hutumika kwa sherehe.",
@@ -2054,6 +2162,7 @@
   {
     "id": "109",
     "scientificName": "Albizia lebbeck",
+    "commonName": "Woman's Tongue Tree",
     "localName": "Mzingiri",
     "tribeNames": {
       "Kichaga": "Mzingiri",
@@ -2061,7 +2170,7 @@
       "Kihaya": "Omuzingiri",
       "Kizaramo": "Mzingiri"
     },
-    "category": "Urban and settlement trees",
+    "category": "Urban and settlement trees, Shade, Timber",
     "conservationStatus": "Least Concern",
     "description": "A large shade tree planted in urban squares, schools, and settlements. Provides excellent cooling and shade.",
     "ethnobotany": "Kivuli kikubwa, mbao kwa samani, majani kama malisho.",
@@ -2073,6 +2182,7 @@
   {
     "id": "110",
     "scientificName": "Millingtonia hortensis",
+    "commonName": "Jasmine Tree",
     "localName": "Mti wa jasmine",
     "tribeNames": {
       "Kichaga": "Mjasmine",
@@ -2080,7 +2190,7 @@
       "Kihaya": "Omujasmine",
       "Kizaramo": "Mjasmine"
     },
-    "category": "Urban and settlement trees",
+    "category": "Urban and settlement trees, Ornamental",
     "conservationStatus": "Least Concern",
     "description": "A common street tree in Dar es Salaam. Has fragrant white flowers that open at night and provides good shade.",
     "ethnobotany": "Planted for ornament and shade. Flowers have a pleasant fragrance.",
@@ -2092,6 +2202,7 @@
   {
     "id": "111",
     "scientificName": "Grewia bicolor",
+    "commonName": "Raisin Bush",
     "localName": "Mkole",
     "tribeNames": {
       "Kichaga": "Mkole",
@@ -2099,7 +2210,7 @@
       "Kihaya": "Omukole",
       "Kizaramo": "Mkole"
     },
-    "category": "Urban and settlement trees",
+    "category": "Urban and settlement trees, Livestock folders",
     "conservationStatus": "Least Concern",
     "description": "A hardy shrub or tree with bright yellow flowers. Suitable for home yards, open spaces, and hedging in urban areas.",
     "ethnobotany": "Medicinal plant, fruits are edible, used for hedging. Good for planting in home yards.",
@@ -2111,6 +2222,7 @@
   {
     "id": "112",
     "scientificName": "Ochna kirkii",
+    "commonName": "Ochna",
     "localName": "Mkakaya / Ochna",
     "tribeNames": {
       "Kichaga": "Mkakaya",
@@ -2118,7 +2230,7 @@
       "Kihaya": "Omukakaya",
       "Kizaramo": "Mkakaya"
     },
-    "category": "Urban and settlement trees",
+    "category": "Urban and settlement trees, Ornamental",
     "conservationStatus": "Least Concern",
     "description": "A shrub or small tree with bright yellow flowers and red sepals. Native to East Africa and popular as an ornamental plant.",
     "ethnobotany": "Planted for ornament. Attractive flowers and fruits.",
@@ -2130,6 +2242,7 @@
   {
     "id": "113",
     "scientificName": "Markhamia obtusifolia",
+    "commonName": "Yellow Markhamia",
     "localName": "Muguvani",
     "tribeNames": {
       "Kichaga": "Muguvani",
@@ -2137,7 +2250,7 @@
       "Kihaya": "Omuguvani",
       "Kizaramo": "Muguvani"
     },
-    "category": "Urban and settlement trees",
+    "category": "Urban and settlement trees, Bee folders trees, Ornamental",
     "conservationStatus": "Least Concern",
     "description": "A shrub or small to medium tree with striking yellow flowers. Suitable for planting in town reserves and home gardens.",
     "ethnobotany": "Used for hedging and ornamental purposes. Attracts bees and birds.",
@@ -2149,6 +2262,7 @@
   {
     "id": "114",
     "scientificName": "Mimusops obtusifolia",
+    "commonName": "Mimusops",
     "localName": "Mgama",
     "tribeNames": {
       "Kichaga": "Mgama",
@@ -2156,7 +2270,7 @@
       "Kihaya": "Omugama",
       "Kizaramo": "Mgama"
     },
-    "category": "Urban and settlement trees",
+    "category": "Urban and settlement trees, Shade",
     "conservationStatus": "Least Concern",
     "description": "A shrub or branched tree up to 20 m tall. Suitable for planting in home gardens and town reserves.",
     "ethnobotany": "Provides shade and ornamental value. Wood used for construction.",
@@ -2168,6 +2282,7 @@
   {
     "id": "115",
     "scientificName": "Thespesia populnea",
+    "commonName": "Portia Tree",
     "localName": "Mitakawa / Portia Tree",
     "tribeNames": {
       "Kichaga": "Mitakawa",
@@ -2175,7 +2290,7 @@
       "Kihaya": "Omu Mitakawa",
       "Kizaramo": "Mitakawa"
     },
-    "category": "Urban and settlement trees",
+    "category": "Urban and settlement trees, Ornamental",
     "conservationStatus": "Least Concern",
     "description": "A flowering coastal tree up to 10 m in height. Good for planting in town reserves and public spaces.",
     "ethnobotany": "Provides shade and ornamental yellow flowers. Wood used for construction.",
@@ -2187,6 +2302,7 @@
   {
     "id": "116",
     "scientificName": "Albizia petersiana",
+    "commonName": "Peacock Flower",
     "localName": "Mkenge",
     "tribeNames": {
       "Kichaga": "Mkenge",
@@ -2194,7 +2310,7 @@
       "Kihaya": "Omukenge",
       "Kizaramo": "Mkenge"
     },
-    "category": "Urban and settlement trees",
+    "category": "Urban and settlement trees, Shade, Bee folders trees",
     "conservationStatus": "Least Concern",
     "description": "A deciduous tree or shrub up to 20m tall. Suitable for planting in open spaces such as school yards or hospital precincts.",
     "ethnobotany": "Good shade tree. Wood for construction and furniture.",
@@ -2206,6 +2322,7 @@
   {
     "id": "117",
     "scientificName": "Annona senegalensis",
+    "commonName": "Soursop",
     "localName": "Mtomoko",
     "tribeNames": {
       "Kichaga": "Mtomoko",
@@ -2213,7 +2330,7 @@
       "Kihaya": "Omutomoko",
       "Kizaramo": "Mtomoko"
     },
-    "category": "Urban and settlement trees",
+    "category": "Urban and settlement trees, Fruits",
     "conservationStatus": "Least Concern",
     "description": "A shrub or small tree with attractive edible fruits. Suitable for home gardens, public open spaces, and town reserves.",
     "ethnobotany": "Fruits eaten fresh, leaves and roots used for treating fever.",
@@ -2225,6 +2342,7 @@
   {
     "id": "118",
     "scientificName": "Bridelia micrantha",
+    "commonName": "Coast Goldleaf",
     "localName": "Mkolele",
     "tribeNames": {
       "Kichaga": "Mkolele",
@@ -2232,7 +2350,7 @@
       "Kihaya": "Omukolele",
       "Kizaramo": "Mkolele"
     },
-    "category": "Urban and settlement trees",
+    "category": "Urban and settlement trees, Water Source Protection Trees",
     "conservationStatus": "Least Concern",
     "description": "A medium-sized tree suitable for planting in town reserves and urban green spaces.",
     "ethnobotany": "Provides shade and timber. Fruits attract birds to urban gardens.",
@@ -2244,6 +2362,7 @@
   {
     "id": "119",
     "scientificName": "Cassia abbreviata",
+    "commonName": "Long-pod Cassia",
     "localName": "Mchunzi",
     "tribeNames": {
       "Kichaga": "Mchunzi",
@@ -2263,6 +2382,7 @@
   {
     "id": "120",
     "scientificName": "Baphia kirkii",
+    "commonName": "Baphia",
     "localName": "Mpande",
     "tribeNames": {
       "Kichaga": "Mpande",
@@ -2270,7 +2390,7 @@
       "Kihaya": "Omupande",
       "Kizaramo": "Mpande"
     },
-    "category": "Urban and settlement trees",
+    "category": "Urban and settlement trees, Ornamental",
     "conservationStatus": "Least Concern",
     "description": "A rare tree that grows very well and fast, with sweet-smelling flowers. Suitable for town reserves and botanical gardens.",
     "ethnobotany": "Ornamental tree with fragrant flowers. Timber for carving.",
@@ -2282,6 +2402,7 @@
   {
     "id": "121",
     "scientificName": "Cyphostemma adenocaule",
+    "commonName": "Mwengele",
     "localName": "Mwengele",
     "tribeNames": {
       "Kichaga": "Mwengele",
@@ -2301,6 +2422,7 @@
   {
     "id": "122",
     "scientificName": "Dypsis pembana",
+    "commonName": "Pemba Palm",
     "localName": "Mpapindi",
     "tribeNames": {
       "Kichaga": "Mpapindi",
@@ -2320,6 +2442,7 @@
   {
     "id": "123",
     "scientificName": "Encephalartos hildebrandtii",
+    "commonName": "Cycad",
     "localName": "Mkwanga Msapo",
     "tribeNames": {
       "Kichaga": "Mkwanga",
@@ -2339,6 +2462,7 @@
   {
     "id": "124",
     "scientificName": "Euclea divinorum",
+    "commonName": "Toothbrush Tree",
     "localName": "Mdaa / Mswaki",
     "tribeNames": {
       "Kichaga": "Mdaa",
@@ -2346,7 +2470,7 @@
       "Kihaya": "Omudaa",
       "Kizaramo": "Mdaa"
     },
-    "category": "Urban and settlement trees",
+    "category": "Urban and settlement trees, Bee folders trees",
     "conservationStatus": "Least Concern",
     "description": "An evergreen shrub or small tree up to 9 m high. Fruits attract birds; flowers attract insects. Suitable for town reserves, home yards, and botanical gardens.",
     "ethnobotany": "Fruits attract birds. Used as a toothbrush tree (mswaki).",
@@ -2358,6 +2482,7 @@
   {
     "id": "125",
     "scientificName": "Euphorbia tirucalli",
+    "commonName": "Pencil Cactus",
     "localName": "Mpolo",
     "tribeNames": {
       "Kichaga": "Mpolo",
@@ -2377,6 +2502,7 @@
   {
     "id": "126",
     "scientificName": "Flacourtia indica",
+    "commonName": "Governor's Plum",
     "localName": "Mng'unga / Governor's Plum",
     "tribeNames": {
       "Kichaga": "Mng'unga",
@@ -2384,7 +2510,7 @@
       "Kihaya": "Omung'unga",
       "Kizaramo": "Mng'unga"
     },
-    "category": "Urban and settlement trees",
+    "category": "Urban and settlement trees, Fruits",
     "conservationStatus": "Least Concern",
     "description": "A shrub or small tree with attractive fruit. Useful in hedging and border-planting in urban gardens.",
     "ethnobotany": "Attractive fruit. Used for hedging and border-planting.",
@@ -2396,6 +2522,7 @@
   {
     "id": "127",
     "scientificName": "Flueggea virosa",
+    "commonName": "White Berry",
     "localName": "Mkwamba",
     "tribeNames": {
       "Kichaga": "Mkwamba",
@@ -2415,6 +2542,7 @@
   {
     "id": "128",
     "scientificName": "Gardenia transvenulosa",
+    "commonName": "Gardenia",
     "localName": "Memandembo",
     "tribeNames": {
       "Kichaga": "Memandembo",
@@ -2422,7 +2550,7 @@
       "Kihaya": "Omu memandembo",
       "Kizaramo": "Memandembo"
     },
-    "category": "Urban and settlement trees",
+    "category": "Urban and settlement trees, Ornamental",
     "conservationStatus": "Least Concern",
     "description": "An ornamental shrub with yellow resin. Good for home and botanical gardens in urban areas.",
     "ethnobotany": "Ornamental shrub for home and botanical gardens.",
@@ -2434,6 +2562,7 @@
   {
     "id": "129",
     "scientificName": "Hibiscus chizopetalus",
+    "commonName": "Hibiscus",
     "localName": "Mgongonyoka",
     "tribeNames": {
       "Kichaga": "Mgongonyoka",
@@ -2441,7 +2570,7 @@
       "Kihaya": "Omugongonyoka",
       "Kizaramo": "Mgongonyoka"
     },
-    "category": "Urban and settlement trees",
+    "category": "Urban and settlement trees, Ornamental",
     "conservationStatus": "Least Concern",
     "description": "A plant that should replace the commonly grown Chinese hibiscus. Always flowering with showy flowers. Suitable for road islands and home gardens.",
     "ethnobotany": "Ornamental plant with showy, always-blooming flowers.",
@@ -2453,6 +2582,7 @@
   {
     "id": "130",
     "scientificName": "Hyphaene compressa",
+    "commonName": "East African Doum Palm",
     "localName": "Micoma Mkoche / East African Doum Palm",
     "tribeNames": {
       "Kichaga": "Micoma",
@@ -2468,6 +2598,1145 @@
     "funFact": "This palm is unique because it branches, unlike most other palm species.",
     "climateImpact": "Drought tolerant. Grows well in coastal urban areas.",
     "commonDiseases": ["Leaf spot", "Root rot"]
+  },
+   {
+    "id": "131",
+    "scientificName": "Acalypha volkensii",
+    "commonName": "Acalypha",
+    "localName": "Mkole wa Volkens",
+    "tribeNames": {
+      "Kichaga": "Mkole wa Volkens",
+      "Kisukuma": "Ntundu ya Mkole wa Volkens",
+      "Kihaya": "Omukole wa Volkens",
+      "Kizaramo": "Mkole wa Volkens"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A perennial herb or shrub with significant bee forage value. Its flowers provide abundant nectar and pollen, contributing to honey production [citation:1][citation:3].",
+    "ethnobotany": "Used in traditional medicine. Its leaves and roots are used to treat various ailments.",
+    "imagePath": "assets/images/tree_131.jpg",
+    "funFact": "This plant is a rich source of nectar and is often visited by honey bees during the flowering season.",
+    "climateImpact": "Moderately drought tolerant. Prefers well-drained soils.",
+    "commonDiseases": ["Leaf spot", "Aphids"]
+  },
+  {
+    "id": "132",
+    "scientificName": "Achyranthes aspera",
+    "commonName": "Chaff Flower",
+    "localName": "Mkole mwitu",
+    "tribeNames": {
+      "Kichaga": "Mkole mwitu",
+      "Kisukuma": "Ntundu ya Mkole mwitu",
+      "Kihaya": "Omukole mwitu",
+      "Kizaramo": "Mkole mwitu"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A common herbaceous plant in disturbed areas. Its small flowers are a valuable forage source for bees, providing nectar and pollen [citation:3][citation:4].",
+    "ethnobotany": "Used in traditional medicine to treat wounds and skin conditions. Leaves are used as a diuretic.",
+    "imagePath": "assets/images/tree_132.jpg",
+    "funFact": "Often considered a weed, but it is a vital food source for bees in dry seasons.",
+    "climateImpact": "Highly drought tolerant. Thrives in disturbed soils.",
+    "commonDiseases": ["Powdery mildew", "Leaf spot"]
+  },
+  {
+    "id": "133",
+    "scientificName": "Albizia petersiana",
+    "commonName": "Peacock Flower",
+    "localName": "Mkenge",
+    "tribeNames": {
+      "Kichaga": "Mkenge",
+      "Kisukuma": "Ntundu ya Mkenge",
+      "Kihaya": "Omukenge",
+      "Kizaramo": "Mkenge"
+    },
+    "category": "Bee folders trees, Shade",
+    "conservationStatus": "Least Concern",
+    "description": "A deciduous tree up to 20m tall. Its flowers are a rich source of nectar and pollen for honey bees [citation:1][citation:3].",
+    "ethnobotany": "Provides timber for construction and furniture. Bark used in traditional medicine.",
+    "imagePath": "assets/images/tree_133.jpg",
+    "funFact": "The tree's flowers are highly attractive to bees and contribute to high-quality honey production.",
+    "climateImpact": "Moderately drought tolerant. Prefers well-drained soils.",
+    "commonDiseases": ["Leaf spot", "Root rot"]
+  },
+  {
+    "id": "134",
+    "scientificName": "Allophyllus africanus",
+    "commonName": "Allophyllus",
+    "localName": "Mkole Afrika",
+    "tribeNames": {
+      "Kichaga": "Mkole Afrika",
+      "Kisukuma": "Ntundu ya Mkole Afrika",
+      "Kihaya": "Omukole Afrika",
+      "Kizaramo": "Mkole Afrika"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A shrub or small tree with flowers rich in nectar. It is a key plant species for honey bees, providing a significant source of forage [citation:1].",
+    "ethnobotany": "Wood used for fuel and small construction. Leaves and bark used in traditional medicine.",
+    "imagePath": "assets/images/tree_134.jpg",
+    "funFact": "The nectar from this plant produces honey with a distinct amber color.",
+    "climateImpact": "Drought tolerant. Grows in a variety of soil types.",
+    "commonDiseases": ["Leaf spot", "Scale insects"]
+  },
+  {
+    "id": "135",
+    "scientificName": "Allophyllus ferrugineus",
+    "commonName": "Allophyllus",
+    "localName": "Mkole ferrugineus",
+    "tribeNames": {
+      "Kichaga": "Mkole ferrugineus",
+      "Kisukuma": "Ntundu ya Mkole ferrugineus",
+      "Kihaya": "Omukole ferrugineus",
+      "Kizaramo": "Mkole ferrugineus"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A shrub with reddish-brown leaves and yellow flowers. Its flowers are highly attractive to bees, providing a reliable source of nectar [citation:1][citation:3].",
+    "ethnobotany": "Used in traditional medicine. Leaves and bark are used for treating various ailments.",
+    "imagePath": "assets/images/tree_135.jpg",
+    "funFact": "The red-brown leaves of this shrub make it easily identifiable in the wild.",
+    "climateImpact": "Drought tolerant. Prefers well-drained soils.",
+    "commonDiseases": ["Leaf spot", "Powdery mildew"]
+  },
+  {
+    "id": "136",
+    "scientificName": "Asparagus racemosus",
+    "commonName": "Asparagus",
+    "localName": "Mkole mwitu",
+    "tribeNames": {
+      "Kichaga": "Mkole mwitu",
+      "Kisukuma": "Ntundu ya Mkole mwitu",
+      "Kihaya": "Omukole mwitu",
+      "Kizaramo": "Mkole mwitu"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A climbing shrub with small flowers. It is a valuable forage plant for honey bees, especially in dry seasons [citation:3].",
+    "ethnobotany": "Used in traditional medicine. Roots are used to treat digestive issues.",
+    "imagePath": "assets/images/tree_136.jpg",
+    "funFact": "The plant's flowers are a rich source of nectar and are highly attractive to bees.",
+    "climateImpact": "Drought tolerant. Thrives in dry woodlands.",
+    "commonDiseases": ["Leaf spot", "Root rot"]
+  },
+  {
+    "id": "137",
+    "scientificName": "Aspilia mossambicensis",
+    "commonName": "Aspilia",
+    "localName": "Mkole mossambicensis",
+    "tribeNames": {
+      "Kichaga": "Mkole mossambicensis",
+      "Kisukuma": "Ntundu ya Mkole mossambicensis",
+      "Kihaya": "Omukole mossambicensis",
+      "Kizaramo": "Mkole mossambicensis"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A perennial shrub with yellow flowers. Its flowers are a good source of nectar and pollen, supporting honey bee colonies [citation:3].",
+    "ethnobotany": "Used in traditional medicine to treat wounds and skin infections.",
+    "imagePath": "assets/images/tree_137.jpg",
+    "funFact": "The flowers bloom throughout the year, providing a consistent forage source for bees.",
+    "climateImpact": "Moderately drought tolerant. Prefers well-drained soils.",
+    "commonDiseases": ["Leaf spot", "Aphids"]
+  },
+  {
+    "id": "138",
+    "scientificName": "Aspilia pluriseta",
+    "commonName": "Aspilia",
+    "localName": "Mkole pluriseta",
+    "tribeNames": {
+      "Kichaga": "Mkole pluriseta",
+      "Kisukuma": "Ntundu ya Mkole pluriseta",
+      "Kihaya": "Omukole pluriseta",
+      "Kizaramo": "Mkole pluriseta"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A herbaceous plant with bright yellow flowers. It is an important forage plant for bees, especially in areas where other flowering plants are scarce [citation:3].",
+    "ethnobotany": "Leaves and flowers used in traditional medicine.",
+    "imagePath": "assets/images/tree_138.jpg",
+    "funFact": "The plant's abundance in nature provides a reliable food source for honey bees.",
+    "climateImpact": "Drought tolerant. Grows in disturbed areas.",
+    "commonDiseases": ["Powdery mildew", "Leaf spot"]
+  },
+  {
+    "id": "139",
+    "scientificName": "Asystasia gangetica",
+    "commonName": "Chinese Violet",
+    "localName": "Mkole gangetica",
+    "tribeNames": {
+      "Kichaga": "Mkole gangetica",
+      "Kisukuma": "Ntundu ya Mkole gangetica",
+      "Kihaya": "Omukole gangetica",
+      "Kizaramo": "Mkole gangetica"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A creeping herb with tubular flowers. Its flowers are a valuable source of nectar for honey bees, especially in the early morning [citation:3].",
+    "ethnobotany": "Used in traditional medicine for treating skin conditions.",
+    "imagePath": "assets/images/tree_139.jpg",
+    "funFact": "This plant is often used as a ground cover and is an excellent forage plant for bees.",
+    "climateImpact": "Moderately drought tolerant. Prefers moist soils.",
+    "commonDiseases": ["Leaf spot", "Aphids"]
+  },
+  {
+    "id": "140",
+    "scientificName": "Azima tetracantha",
+    "commonName": "Azima",
+    "localName": "Mkole azima",
+    "tribeNames": {
+      "Kichaga": "Mkole azima",
+      "Kisukuma": "Ntundu ya Mkole azima",
+      "Kihaya": "Omukole azima",
+      "Kizaramo": "Mkole azima"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A spiny shrub with small white flowers. It is a forage plant for bees, providing nectar and pollen in dry areas [citation:1][citation:3].",
+    "ethnobotany": "Used in traditional medicine. Leaves and roots used for treating various ailments.",
+    "imagePath": "assets/images/tree_140.jpg",
+    "funFact": "Despite its spines, the plant is a vital source of food for honey bees.",
+    "climateImpact": "Highly drought tolerant. Thrives in arid conditions.",
+    "commonDiseases": ["Scale insects", "Leaf spot"]
+  },
+  {
+    "id": "141",
+    "scientificName": "Bothriocline longipes",
+    "commonName": "Bothriocline",
+    "localName": "Mkole longipes",
+    "tribeNames": {
+      "Kichaga": "Mkole longipes",
+      "Kisukuma": "Ntundu ya Mkole longipes",
+      "Kihaya": "Omukole longipes",
+      "Kizaramo": "Mkole longipes"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A perennial herb with small purple flowers. Its flowers are a good source of nectar and are commonly foraged by honey bees [citation:1][citation:3][citation:4].",
+    "ethnobotany": "Used in traditional medicine. Leaves and roots used for treating fevers.",
+    "imagePath": "assets/images/tree_141.jpg",
+    "funFact": "This plant is often found in grasslands and is a favorite of honey bees during the rainy season.",
+    "climateImpact": "Moderately drought tolerant. Prefers well-drained soils.",
+    "commonDiseases": ["Powdery mildew", "Leaf spot"]
+  },
+  {
+    "id": "142",
+    "scientificName": "Carissa edulis",
+    "commonName": "Carissa",
+    "localName": "Mtomoko mwitu",
+    "tribeNames": {
+      "Kichaga": "Mtomoko mwitu",
+      "Kisukuma": "Ntundu ya Mtomoko mwitu",
+      "Kihaya": "Omutomoko mwitu",
+      "Kizaramo": "Mtomoko mwitu"
+    },
+    "category": "Bee folders trees, Fruits",
+    "conservationStatus": "Least Concern",
+    "description": "A shrub with edible fruits and fragrant white flowers. The flowers attract bees, making it a valuable forage plant [citation:3].",
+    "ethnobotany": "Fruits eaten fresh. Roots used in traditional medicine to treat stomach issues.",
+    "imagePath": "assets/images/tree_142.jpg",
+    "funFact": "The fragrant flowers are highly attractive to bees and other pollinators.",
+    "climateImpact": "Drought tolerant. Grows in various soil types.",
+    "commonDiseases": ["Leaf spot", "Fruit fly"]
+  },
+  {
+    "id": "143",
+    "scientificName": "Cassipourea malosana",
+    "commonName": "Cassipourea",
+    "localName": "Mkole malosana",
+    "tribeNames": {
+      "Kichaga": "Mkole malosana",
+      "Kisukuma": "Ntundu ya Mkole malosana",
+      "Kihaya": "Omukole malosana",
+      "Kizaramo": "Mkole malosana"
+    },
+    "category": "Bee folders trees, Water Source Protection Trees",
+    "conservationStatus": "Least Concern",
+    "description": "A tree with simple leaves and small flowers. The flowers are a source of nectar for honey bees [citation:1].",
+    "ethnobotany": "Wood is used in construction and for making tools. Leaves used in traditional medicine.",
+    "imagePath": "assets/images/tree_143.jpg",
+    "funFact": "This tree is a key forage resource for bees in forested areas.",
+    "climateImpact": "Requires moist conditions. Grows near water sources.",
+    "commonDiseases": ["Leaf spot", "Root rot"]
+  },
+  {
+    "id": "144",
+    "scientificName": "Celosia trigyna",
+    "commonName": "Celosia",
+    "localName": "Mkole trigyna",
+    "tribeNames": {
+      "Kichaga": "Mkole trigyna",
+      "Kisukuma": "Ntundu ya Mkole trigyna",
+      "Kihaya": "Omukole trigyna",
+      "Kizaramo": "Mkole trigyna"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A herbaceous plant with terminal inflorescences. Its flowers are a good source of nectar for honey bees [citation:3].",
+    "ethnobotany": "Used in traditional medicine. Leaves and roots used for treating various ailments.",
+    "imagePath": "assets/images/tree_144.jpg",
+    "funFact": "The plant's bright flowers attract bees and other pollinators.",
+    "climateImpact": "Drought tolerant. Grows in disturbed areas.",
+    "commonDiseases": ["Leaf spot", "Aphids"]
+  },
+  {
+    "id": "145",
+    "scientificName": "Chaetacme aristata",
+    "commonName": "Chaetacme",
+    "localName": "Mkole aristata",
+    "tribeNames": {
+      "Kichaga": "Mkole aristata",
+      "Kisukuma": "Ntundu ya Mkole aristata",
+      "Kihaya": "Omukole aristata",
+      "Kizaramo": "Mkole aristata"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A tree or shrub with yellow flowers. The flowers are visited by honey bees for nectar [citation:1][citation:3].",
+    "ethnobotany": "Wood used for firewood and construction. Leaves used in traditional medicine.",
+    "imagePath": "assets/images/tree_145.jpg",
+    "funFact": "The tree's yellow flowers are a colorful addition to woodland areas.",
+    "climateImpact": "Drought tolerant. Grows in a variety of habitats.",
+    "commonDiseases": ["Leaf spot", "Scale insects"]
+  },
+  {
+    "id": "146",
+    "scientificName": "Chionanthus battiscombei",
+    "commonName": "Chionanthus",
+    "localName": "Mkole battiscombei",
+    "tribeNames": {
+      "Kichaga": "Mkole battiscombei",
+      "Kisukuma": "Ntundu ya Mkole battiscombei",
+      "Kihaya": "Omukole battiscombei",
+      "Kizaramo": "Mkole battiscombei"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A tree with white or cream-colored flowers. The flowers are a valuable source of nectar for honey bees [citation:1][citation:3].",
+    "ethnobotany": "Wood used for construction and carving. Leaves used in traditional medicine.",
+    "imagePath": "assets/images/tree_146.jpg",
+    "funFact": "The tree's flowers are known to attract bees from long distances.",
+    "climateImpact": "Moderately drought tolerant. Prefers well-drained soils.",
+    "commonDiseases": ["Leaf spot", "Root rot"]
+  },
+  {
+    "id": "147",
+    "scientificName": "Cineraria deltoides",
+    "commonName": "Cineraria",
+    "localName": "Mkole deltoides",
+    "tribeNames": {
+      "Kichaga": "Mkole deltoides",
+      "Kisukuma": "Ntundu ya Mkole deltoides",
+      "Kihaya": "Omukole deltoides",
+      "Kizaramo": "Mkole deltoides"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A herbaceous plant with yellow flowers. It is visited by bees for its nectar and pollen [citation:3].",
+    "ethnobotany": "Used in traditional medicine for treating respiratory issues.",
+    "imagePath": "assets/images/tree_147.jpg",
+    "funFact": "The plant's vibrant yellow flowers stand out in natural vegetation.",
+    "climateImpact": "Moderately drought tolerant. Prefers moist soils.",
+    "commonDiseases": ["Powdery mildew", "Leaf spot"]
+  },
+  {
+    "id": "148",
+    "scientificName": "Commicarpus pedunculosus",
+    "commonName": "Commicarpus",
+    "localName": "Mkole pedunculosus",
+    "tribeNames": {
+      "Kichaga": "Mkole pedunculosus",
+      "Kisukuma": "Ntundu ya Mkole pedunculosus",
+      "Kihaya": "Omukole pedunculosus",
+      "Kizaramo": "Mkole pedunculosus"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A herbaceous plant with small flowers. The flowers are a source of nectar for honey bees [citation:3].",
+    "ethnobotany": "Used in traditional medicine. Roots used for treating wounds.",
+    "imagePath": "assets/images/tree_148.jpg",
+    "funFact": "This plant is often found in disturbed areas and is a vital food source for bees.",
+    "climateImpact": "Drought tolerant. Thrives in sandy soils.",
+    "commonDiseases": ["Leaf spot", "Root rot"]
+  },
+  {
+    "id": "149",
+    "scientificName": "Conyza bonariensis",
+    "commonName": "Conyza",
+    "localName": "Mkole bonariensis",
+    "tribeNames": {
+      "Kichaga": "Mkole bonariensis",
+      "Kisukuma": "Ntundu ya Mkole bonariensis",
+      "Kihaya": "Omukole bonariensis",
+      "Kizaramo": "Mkole bonariensis"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A herbaceous weed with small white flowers. Its flowers provide nectar to honey bees, especially in degraded areas [citation:3].",
+    "ethnobotany": "Used in traditional medicine for treating wounds.",
+    "imagePath": "assets/images/tree_149.jpg",
+    "funFact": "Despite being a weed, this plant is a key forage species for bees in disturbed habitats.",
+    "climateImpact": "Drought tolerant. Grows in a variety of habitats.",
+    "commonDiseases": ["Powdery mildew", "Leaf spot"]
+  },
+  {
+    "id": "150",
+    "scientificName": "Crassocephalum montuosum",
+    "commonName": "Crassocephalum",
+    "localName": "Mkole montuosum",
+    "tribeNames": {
+      "Kichaga": "Mkole montuosum",
+      "Kisukuma": "Ntundu ya Mkole montuosum",
+      "Kihaya": "Omukole montuosum",
+      "Kizaramo": "Mkole montuosum"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "An erect herb with yellow flowers. The flowers are a good source of nectar for honey bees [citation:3].",
+    "ethnobotany": "Used in traditional medicine for treating skin conditions.",
+    "imagePath": "assets/images/tree_150.jpg",
+    "funFact": "This plant is a common forage resource for bees in fallow lands.",
+    "climateImpact": "Moderately drought tolerant. Prefers well-drained soils.",
+    "commonDiseases": ["Leaf spot", "Aphids"]
+  },
+  {
+    "id": "151",
+    "scientificName": "Crotalaria axillaris",
+    "commonName": "Crotalaria",
+    "localName": "Mkole axillaris",
+    "tribeNames": {
+      "Kichaga": "Mkole axillaris",
+      "Kisukuma": "Ntundu ya Mkole axillaris",
+      "Kihaya": "Omukole axillaris",
+      "Kizaramo": "Mkole axillaris"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A shrub with yellow flowers. Its flowers are heavily foraged by honey bees for nectar and pollen [citation:3].",
+    "ethnobotany": "Leaves and roots used in traditional medicine.",
+    "imagePath": "assets/images/tree_151.jpg",
+    "funFact": "The bright yellow flowers are highly attractive to bees and other pollinators.",
+    "climateImpact": "Drought tolerant. Grows in sandy and rocky soils.",
+    "commonDiseases": ["Leaf spot", "Powdery mildew"]
+  },
+  {
+    "id": "152",
+    "scientificName": "Crotalaria incana",
+    "commonName": "Crotalaria",
+    "localName": "Mkole incana",
+    "tribeNames": {
+      "Kichaga": "Mkole incana",
+      "Kisukuma": "Ntundu ya Mkole incana",
+      "Kihaya": "Omukole incana",
+      "Kizaramo": "Mkole incana"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A shrub with yellow flowers. It is an important forage plant for honey bees, especially in open woodlands [citation:3].",
+    "ethnobotany": "Used in traditional medicine. Leaves and seeds used for treating various ailments.",
+    "imagePath": "assets/images/tree_152.jpg",
+    "funFact": "The plant is known for its nitrogen-fixing properties, enriching soil fertility.",
+    "climateImpact": "Drought tolerant. Grows in poor soils.",
+    "commonDiseases": ["Leaf spot", "Aphids"]
+  },
+  {
+    "id": "153",
+    "scientificName": "Crotalaria (pubescent fruits)",
+    "commonName": "Crotalaria",
+    "localName": "Mkole wa pubescent",
+    "tribeNames": {
+      "Kichaga": "Mkole wa pubescent",
+      "Kisukuma": "Ntundu ya Mkole wa pubescent",
+      "Kihaya": "Omukole wa pubescent",
+      "Kizaramo": "Mkole wa pubescent"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A shrub species with pubescent (hairy) fruits and yellow flowers. The flowers attract bees and provide a good source of nectar [citation:3].",
+    "ethnobotany": "Used in traditional medicine.",
+    "imagePath": "assets/images/tree_153.jpg",
+    "funFact": "The pubescent fruits help the plant adapt to dry environments.",
+    "climateImpact": "Drought tolerant. Grows in well-drained soils.",
+    "commonDiseases": ["Leaf spot", "Powdery mildew"]
+  },
+  {
+    "id": "154",
+    "scientificName": "Cussonia holstii",
+    "commonName": "Cabbage Tree",
+    "localName": "Mkombi",
+    "tribeNames": {
+      "Kichaga": "Mkombi",
+      "Kisukuma": "Ntundu ya Mkombi",
+      "Kihaya": "Omukombi",
+      "Kizaramo": "Mkombi"
+    },
+    "category": "Bee folders trees, Medicinal",
+    "conservationStatus": "Least Concern",
+    "description": "A tree with a distinctive umbrella-shaped canopy. Its flowers are a source of nectar for honey bees [citation:1][citation:3].",
+    "ethnobotany": "Wood used for construction. Roots and bark used in traditional medicine.",
+    "imagePath": "assets/images/tree_154.jpg",
+    "funFact": "This tree is often used as a shade tree and is a favorite of bees during flowering.",
+    "climateImpact": "Moderately drought tolerant. Prefers well-drained soils.",
+    "commonDiseases": ["Leaf spot", "Root rot"]
+  },
+  {
+    "id": "155",
+    "scientificName": "Cyathula cylindrica",
+    "commonName": "Cyathula",
+    "localName": "Mkole cylindrica",
+    "tribeNames": {
+      "Kichaga": "Mkole cylindrica",
+      "Kisukuma": "Ntundu ya Mkole cylindrica",
+      "Kihaya": "Omukole cylindrica",
+      "Kizaramo": "Mkole cylindrica"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A herbaceous plant with small flowers. It provides nectar and pollen to honey bees, contributing to bee forage diversity [citation:3].",
+    "ethnobotany": "Used in traditional medicine. Roots used for treating wounds.",
+    "imagePath": "assets/images/tree_155.jpg",
+    "funFact": "This plant is often found in grasslands and is an important food source for bees.",
+    "climateImpact": "Moderately drought tolerant. Prefers moist soils.",
+    "commonDiseases": ["Leaf spot", "Powdery mildew"]
+  },
+  {
+    "id": "156",
+    "scientificName": "Cyathula uncinulata",
+    "commonName": "Cyathula",
+    "localName": "Mkole uncinulata",
+    "tribeNames": {
+      "Kichaga": "Mkole uncinulata",
+      "Kisukuma": "Ntundu ya Mkole uncinulata",
+      "Kihaya": "Omukole uncinulata",
+      "Kizaramo": "Mkole uncinulata"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A herbaceous plant with hooked spines and small flowers. The flowers are a source of nectar for honey bees [citation:3].",
+    "ethnobotany": "Used in traditional medicine. Leaves and roots used for treating various ailments.",
+    "imagePath": "assets/images/tree_156.jpg",
+    "funFact": "The hooked spines help the plant disperse its seeds by attaching to animals.",
+    "climateImpact": "Drought tolerant. Grows in disturbed areas.",
+    "commonDiseases": ["Leaf spot", "Aphids"]
+  },
+  {
+    "id": "157",
+    "scientificName": "Cyphostemma adenocaule",
+    "commonName": "Cyphostemma",
+    "localName": "Mwengele",
+    "tribeNames": {
+      "Kichaga": "Mwengele",
+      "Kisukuma": "Ntundu ya Mwengele",
+      "Kihaya": "Omuwengele",
+      "Kizaramo": "Mwengele"
+    },
+    "category": "Bee folders trees, Urban and settlement trees",
+    "conservationStatus": "Least Concern",
+    "description": "A climbing herb with small flowers. The flowers are visited by honey bees and other pollinators [citation:3].",
+    "ethnobotany": "Used in traditional medicine for treating wounds.",
+    "imagePath": "assets/images/tree_157.jpg",
+    "funFact": "This climber adds vertical structure to vegetation and supports bee populations.",
+    "climateImpact": "Moderately drought tolerant. Prefers moist soils.",
+    "commonDiseases": ["Leaf spot", "Root rot"]
+  },
+  {
+    "id": "158",
+    "scientificName": "Dalbergia lactea",
+    "commonName": "Dalbergia",
+    "localName": "Mkole lactea",
+    "tribeNames": {
+      "Kichaga": "Mkole lactea",
+      "Kisukuma": "Ntundu ya Mkole lactea",
+      "Kihaya": "Omukole lactea",
+      "Kizaramo": "Mkole lactea"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A woody climber with small white flowers. Its flowers are a source of nectar for honey bees [citation:1][citation:3].",
+    "ethnobotany": "Used in traditional medicine. Leaves and bark used for treating various ailments.",
+    "imagePath": "assets/images/tree_158.jpg",
+    "funFact": "The plant's white flowers stand out against the green foliage, attracting bees.",
+    "climateImpact": "Moderately drought tolerant. Prefers well-drained soils.",
+    "commonDiseases": ["Leaf spot", "Scale insects"]
+  },
+  {
+    "id": "159",
+    "scientificName": "Desmodium repandum",
+    "commonName": "Desmodium",
+    "localName": "Mkole repandum",
+    "tribeNames": {
+      "Kichaga": "Mkole repandum",
+      "Kisukuma": "Ntundu ya Mkole repandum",
+      "Kihaya": "Omukole repandum",
+      "Kizaramo": "Mkole repandum"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A herbaceous plant with pink or purple flowers. The flowers attract honey bees and contribute to bee forage [citation:3].",
+    "ethnobotany": "Used in traditional medicine for treating skin conditions.",
+    "imagePath": "assets/images/tree_159.jpg",
+    "funFact": "This plant is often found in grasslands and is a vital food source for bees.",
+    "climateImpact": "Moderately drought tolerant. Prefers moist soils.",
+    "commonDiseases": ["Leaf spot", "Powdery mildew"]
+  },
+  {
+    "id": "160",
+    "scientificName": "Dipsacus pinnatifidus",
+    "commonName": "Teasel",
+    "localName": "Mkole pinnatifidus",
+    "tribeNames": {
+      "Kichaga": "Mkole pinnatifidus",
+      "Kisukuma": "Ntundu ya Mkole pinnatifidus",
+      "Kihaya": "Omukole pinnatifidus",
+      "Kizaramo": "Mkole pinnatifidus"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A herbaceous plant with inflorescences that attract bees. Its flowers provide nectar to honey bees [citation:3].",
+    "ethnobotany": "Used in traditional medicine for treating wounds.",
+    "imagePath": "assets/images/tree_160.jpg",
+    "funFact": "This plant is known for its distinctive flower heads, which are a favorite of bees.",
+    "climateImpact": "Moderately drought tolerant. Prefers well-drained soils.",
+    "commonDiseases": ["Leaf spot", "Aphids"]
+  },
+  {
+    "id": "161",
+    "scientificName": "Drymaria cordata",
+    "commonName": "Drymaria",
+    "localName": "Mkole cordata",
+    "tribeNames": {
+      "Kichaga": "Mkole cordata",
+      "Kisukuma": "Ntundu ya Mkole cordata",
+      "Kihaya": "Omukole cordata",
+      "Kizaramo": "Mkole cordata"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A creeping herb with small white flowers. The flowers are a source of nectar for honey bees [citation:3].",
+    "ethnobotany": "Used in traditional medicine for treating wounds.",
+    "imagePath": "assets/images/tree_161.jpg",
+    "funFact": "This plant's low-growing habit provides forage for bees in open areas.",
+    "climateImpact": "Drought tolerant. Grows in disturbed areas.",
+    "commonDiseases": ["Leaf spot", "Powdery mildew"]
+  },
+  {
+    "id": "162",
+    "scientificName": "Ehretia cymosa",
+    "commonName": "Ehretia",
+    "localName": "Mkole cymosa",
+    "tribeNames": {
+      "Kichaga": "Mkole cymosa",
+      "Kisukuma": "Ntundu ya Mkole cymosa",
+      "Kihaya": "Omukole cymosa",
+      "Kizaramo": "Mkole cymosa"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A tree or shrub with small white flowers. Its flowers are visited by honey bees for nectar [citation:1][citation:3].",
+    "ethnobotany": "Wood used for construction. Leaves used in traditional medicine.",
+    "imagePath": "assets/images/tree_162.jpg",
+    "funFact": "The tree's flowers are a key forage resource for bees in woodland areas.",
+    "climateImpact": "Moderately drought tolerant. Prefers well-drained soils.",
+    "commonDiseases": ["Leaf spot", "Root rot"]
+  },
+  {
+    "id": "163",
+    "scientificName": "Elaeodendron buchananii",
+    "commonName": "Elaeodendron",
+    "localName": "Mkole buchananii",
+    "tribeNames": {
+      "Kichaga": "Mkole buchananii",
+      "Kisukuma": "Ntundu ya Mkole buchananii",
+      "Kihaya": "Omukole buchananii",
+      "Kizaramo": "Mkole buchananii"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A tree with small flowers that provide nectar for honey bees. It is a noted forage species in forested areas [citation:1].",
+    "ethnobotany": "Wood used for construction and carving. Leaves used in traditional medicine.",
+    "imagePath": "assets/images/tree_163.jpg",
+    "funFact": "This tree is a valuable source of forage for bees in natural forests.",
+    "climateImpact": "Moderately drought tolerant. Prefers well-drained soils.",
+    "commonDiseases": ["Leaf spot", "Root rot"]
+  },
+  {
+    "id": "164",
+    "scientificName": "Erythrococca fischeri",
+    "commonName": "Erythrococca",
+    "localName": "Mkole fischeri",
+    "tribeNames": {
+      "Kichaga": "Mkole fischeri",
+      "Kisukuma": "Ntundu ya Mkole fischeri",
+      "Kihaya": "Omukole fischeri",
+      "Kizaramo": "Mkole fischeri"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A shrub or small tree with flowers that are a source of nectar for honey bees [citation:1].",
+    "ethnobotany": "Used in traditional medicine. Leaves and bark used for treating various ailments.",
+    "imagePath": "assets/images/tree_164.jpg",
+    "funFact": "The plant's flowers provide an important forage resource for bees in woodland areas.",
+    "climateImpact": "Moderately drought tolerant. Prefers well-drained soils.",
+    "commonDiseases": ["Leaf spot", "Scale insects"]
+  },
+  {
+    "id": "165",
+    "scientificName": "Euclea divinorum",
+    "commonName": "Toothbrush Tree",
+    "localName": "Mdaa / Mswaki",
+    "tribeNames": {
+      "Kichaga": "Mdaa",
+      "Kisukuma": "Ntundu ya Mdaa",
+      "Kihaya": "Omudaa",
+      "Kizaramo": "Mdaa"
+    },
+    "category": "Bee folders trees, Urban and settlement trees",
+    "conservationStatus": "Least Concern",
+    "description": "An evergreen shrub or small tree up to 9 m high. Its flowers attract insects, including bees, making it a valuable forage plant [citation:1].",
+    "ethnobotany": "Branches are traditionally used as a toothbrush (mswaki). Fruits attract birds.",
+    "imagePath": "assets/images/tree_165.jpg",
+    "funFact": "This plant is known as the toothbrush tree and also serves as an important bee forage species.",
+    "climateImpact": "Drought tolerant.",
+    "commonDiseases": ["Leaf spot", "Scale insects"]
+  },
+  {
+    "id": "166",
+    "scientificName": "Euryops chrysanthemoides",
+    "commonName": "Euryops",
+    "localName": "Mkole chrysanthemoides",
+    "tribeNames": {
+      "Kichaga": "Mkole chrysanthemoides",
+      "Kisukuma": "Ntundu ya Mkole chrysanthemoides",
+      "Kihaya": "Omukole chrysanthemoides",
+      "Kizaramo": "Mkole chrysanthemoides"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A shrub with yellow daisy-like flowers. The flowers are a good source of nectar for honey bees [citation:3].",
+    "ethnobotany": "Used as an ornamental plant. Leaves and flowers used in traditional medicine.",
+    "imagePath": "assets/images/tree_166.jpg",
+    "funFact": "This plant's bright yellow flowers are a favorite of bees and other pollinators.",
+    "climateImpact": "Moderately drought tolerant. Prefers well-drained soils.",
+    "commonDiseases": ["Leaf spot", "Aphids"]
+  },
+  {
+    "id": "167",
+    "scientificName": "Exotheca abyssinica",
+    "commonName": "Exotheca",
+    "localName": "Mkole abyssinica",
+    "tribeNames": {
+      "Kichaga": "Mkole abyssinica",
+      "Kisukuma": "Ntundu ya Mkole abyssinica",
+      "Kihaya": "Omukole abyssinica",
+      "Kizaramo": "Mkole abyssinica"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A grass species that is foraged by honey bees, providing pollen and nectar [citation:3].",
+    "ethnobotany": "Used as fodder for livestock. The grass is also used for thatching.",
+    "imagePath": "assets/images/tree_167.jpg",
+    "funFact": "This grass is an important forage source for bees in grassland areas.",
+    "climateImpact": "Drought tolerant. Grows in various soil types.",
+    "commonDiseases": ["Leaf spot", "Powdery mildew"]
+  },
+  {
+    "id": "168",
+    "scientificName": "Fagaropsis angolensis",
+    "commonName": "Fagaropsis",
+    "localName": "Mkole angolensis",
+    "tribeNames": {
+      "Kichaga": "Mkole angolensis",
+      "Kisukuma": "Ntundu ya Mkole angolensis",
+      "Kihaya": "Omukole angolensis",
+      "Kizaramo": "Mkole angolensis"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A tree with small flowers that are a source of nectar for honey bees [citation:1].",
+    "ethnobotany": "Wood used for construction and furniture. Bark used in traditional medicine.",
+    "imagePath": "assets/images/tree_168.jpg",
+    "funFact": "The tree's flowers attract bees, making it a valuable part of the forest ecosystem.",
+    "climateImpact": "Moderately drought tolerant. Prefers well-drained soils.",
+    "commonDiseases": ["Leaf spot", "Root rot"]
+  },
+  {
+    "id": "169",
+    "scientificName": "Galinsoga parviflora",
+    "commonName": "Galinsoga",
+    "localName": "Mkole parviflora",
+    "tribeNames": {
+      "Kichaga": "Mkole parviflora",
+      "Kisukuma": "Ntundu ya Mkole parviflora",
+      "Kihaya": "Omukole parviflora",
+      "Kizaramo": "Mkole parviflora"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A herbaceous weed with small white flowers. The flowers are a good source of nectar for honey bees [citation:3].",
+    "ethnobotany": "Used in traditional medicine for treating wounds.",
+    "imagePath": "assets/images/tree_169.jpg",
+    "funFact": "This plant is often found in disturbed areas and is an important forage source for bees.",
+    "climateImpact": "Drought tolerant. Grows in a variety of habitats.",
+    "commonDiseases": ["Powdery mildew", "Leaf spot"]
+  },
+  {
+    "id": "170",
+    "scientificName": "Helichrysum kirkii",
+    "commonName": "Helichrysum",
+    "localName": "Mkole kirkii",
+    "tribeNames": {
+      "Kichaga": "Mkole kirkii",
+      "Kisukuma": "Ntundu ya Mkole kirkii",
+      "Kihaya": "Omukole kirkii",
+      "Kizaramo": "Mkole kirkii"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A herbaceous plant with yellow flowers. The flowers are visited by honey bees for nectar [citation:3].",
+    "ethnobotany": "Used in traditional medicine. Leaves and flowers used for treating various ailments.",
+    "imagePath": "assets/images/tree_170.jpg",
+    "funFact": "This plant is a common forage resource for bees in highland areas.",
+    "climateImpact": "Moderately drought tolerant. Prefers well-drained soils.",
+    "commonDiseases": ["Leaf spot", "Aphids"]
+  },
+  {
+    "id": "171",
+    "scientificName": "Helinus mystacinus",
+    "commonName": "Helinus",
+    "localName": "Mkole mystacinus",
+    "tribeNames": {
+      "Kichaga": "Mkole mystacinus",
+      "Kisukuma": "Ntundu ya Mkole mystacinus",
+      "Kihaya": "Omukole mystacinus",
+      "Kizaramo": "Mkole mystacinus"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A climbing shrub with small flowers. The flowers are a source of nectar for honey bees [citation:1].",
+    "ethnobotany": "Used in traditional medicine. Roots and leaves used for treating various ailments.",
+    "imagePath": "assets/images/tree_171.jpg",
+    "funFact": "This climber provides forage for bees in forest edge habitats.",
+    "climateImpact": "Moderately drought tolerant. Prefers moist soils.",
+    "commonDiseases": ["Leaf spot", "Root rot"]
+  },
+  {
+    "id": "172",
+    "scientificName": "Hoslundia opposita",
+    "commonName": "Hoslundia",
+    "localName": "Mkole opposita",
+    "tribeNames": {
+      "Kichaga": "Mkole opposita",
+      "Kisukuma": "Ntundu ya Mkole opposita",
+      "Kihaya": "Omukole opposita",
+      "Kizaramo": "Mkole opposita"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A shrub with aromatic leaves and small flowers. The flowers are a source of nectar for honey bees [citation:1].",
+    "ethnobotany": "Used in traditional medicine. Leaves and roots used for treating various ailments.",
+    "imagePath": "assets/images/tree_172.jpg",
+    "funFact": "The aromatic leaves of this plant are used to repel insects.",
+    "climateImpact": "Drought tolerant. Grows in a variety of habitats.",
+    "commonDiseases": ["Leaf spot", "Scale insects"]
+  },
+  {
+    "id": "173",
+    "scientificName": "Ilex mitis",
+    "commonName": "Ilex",
+    "localName": "Mkole mitis",
+    "tribeNames": {
+      "Kichaga": "Mkole mitis",
+      "Kisukuma": "Ntundu ya Mkole mitis",
+      "Kihaya": "Omukole mitis",
+      "Kizaramo": "Mkole mitis"
+    },
+    "category": "Bee folders trees, Water Source Protection Trees",
+    "conservationStatus": "Least Concern",
+    "description": "A tree with small white flowers. The flowers are a source of nectar for honey bees [citation:1].",
+    "ethnobotany": "Wood used for construction. Leaves used in traditional medicine.",
+    "imagePath": "assets/images/tree_173.jpg",
+    "funFact": "This tree is a valuable forage resource for bees in forested areas.",
+    "climateImpact": "Requires moist conditions. Grows near water sources.",
+    "commonDiseases": ["Leaf spot", "Root rot"]
+  },
+  {
+    "id": "174",
+    "scientificName": "Impatiens meruensis",
+    "commonName": "Impatiens",
+    "localName": "Mkole meruensis",
+    "tribeNames": {
+      "Kichaga": "Mkole meruensis",
+      "Kisukuma": "Ntundu ya Mkole meruensis",
+      "Kihaya": "Omukole meruensis",
+      "Kizaramo": "Mkole meruensis"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A herbaceous plant with pink or white flowers. The flowers attract bees and provide a source of nectar [citation:3].",
+    "ethnobotany": "Used as an ornamental plant. Leaves and flowers used in traditional medicine.",
+    "imagePath": "assets/images/tree_174.jpg",
+    "funFact": "This plant is often found in moist, shaded areas and is a favorite of bees.",
+    "climateImpact": "Requires moist conditions. Prefers shade.",
+    "commonDiseases": ["Leaf spot", "Powdery mildew"]
+  },
+  {
+    "id": "175",
+    "scientificName": "Indigofera trita",
+    "commonName": "Indigofera",
+    "localName": "Mkole trita",
+    "tribeNames": {
+      "Kichaga": "Mkole trita",
+      "Kisukuma": "Ntundu ya Mkole trita",
+      "Kihaya": "Omukole trita",
+      "Kizaramo": "Mkole trita"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A shrub with pink or purple flowers. The flowers attract bees and provide a source of nectar [citation:3].",
+    "ethnobotany": "Used in traditional medicine. Leaves and roots used for treating various ailments.",
+    "imagePath": "assets/images/tree_175.jpg",
+    "funFact": "This plant is known for its nitrogen-fixing properties.",
+    "climateImpact": "Drought tolerant. Grows in sandy and rocky soils.",
+    "commonDiseases": ["Leaf spot", "Aphids"]
+  },
+  {
+    "id": "176",
+    "scientificName": "Ipomoea wightii",
+    "commonName": "Ipomoea",
+    "localName": "Mkole wightii",
+    "tribeNames": {
+      "Kichaga": "Mkole wightii",
+      "Kisukuma": "Ntundu ya Mkole wightii",
+      "Kihaya": "Omukole wightii",
+      "Kizaramo": "Mkole wightii"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A climbing herb with pink or white flowers. The flowers are a source of nectar for honey bees [citation:3].",
+    "ethnobotany": "Used in traditional medicine. Leaves and roots used for treating various ailments.",
+    "imagePath": "assets/images/tree_176.jpg",
+    "funFact": "This plant's climbing habit adds vertical structure to vegetation.",
+    "climateImpact": "Moderately drought tolerant. Prefers moist soils.",
+    "commonDiseases": ["Leaf spot", "Powdery mildew"]
+  },
+  {
+    "id": "177",
+    "scientificName": "Jasminum fluminense",
+    "commonName": "Jasmine",
+    "localName": "Mkole fluminense",
+    "tribeNames": {
+      "Kichaga": "Mkole fluminense",
+      "Kisukuma": "Ntundu ya Mkole fluminense",
+      "Kihaya": "Omukole fluminense",
+      "Kizaramo": "Mkole fluminense"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A climbing shrub with fragrant white flowers. The flowers attract bees and provide a source of nectar [citation:3].",
+    "ethnobotany": "Used as an ornamental plant. Flowers are used in traditional medicine.",
+    "imagePath": "assets/images/tree_177.jpg",
+    "funFact": "The fragrant flowers are highly attractive to bees and other pollinators.",
+    "climateImpact": "Moderately drought tolerant. Prefers well-drained soils.",
+    "commonDiseases": ["Leaf spot", "Scale insects"]
+  },
+  {
+    "id": "178",
+    "scientificName": "Justicia flava",
+    "commonName": "Justicia",
+    "localName": "Mkole flava",
+    "tribeNames": {
+      "Kichaga": "Mkole flava",
+      "Kisukuma": "Ntundu ya Mkole flava",
+      "Kihaya": "Omukole flava",
+      "Kizaramo": "Mkole flava"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A herbaceous plant with yellow flowers. The flowers are a source of nectar for honey bees [citation:3].",
+    "ethnobotany": "Used in traditional medicine. Leaves and roots used for treating various ailments.",
+    "imagePath": "assets/images/tree_178.jpg",
+    "funFact": "The bright yellow flowers are a favorite of bees and other pollinators.",
+    "climateImpact": "Moderately drought tolerant. Prefers moist soils.",
+    "commonDiseases": ["Leaf spot", "Aphids"]
+  },
+  {
+    "id": "179",
+    "scientificName": "Lagenaria abyssinica",
+    "commonName": "Gourd",
+    "localName": "Mkole abyssinica",
+    "tribeNames": {
+      "Kichaga": "Mkole abyssinica",
+      "Kisukuma": "Ntundu ya Mkole abyssinica",
+      "Kihaya": "Omukole abyssinica",
+      "Kizaramo": "Mkole abyssinica"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A climbing herb with white flowers. The flowers are a source of nectar for honey bees [citation:3].",
+    "ethnobotany": "Used in traditional medicine. Fruits used for making containers.",
+    "imagePath": "assets/images/tree_179.jpg",
+    "funFact": "This plant is known for its large, gourd-like fruits.",
+    "climateImpact": "Drought tolerant. Grows in disturbed areas.",
+    "commonDiseases": ["Leaf spot", "Powdery mildew"]
+  },
+  {
+    "id": "180",
+    "scientificName": "Maesa lanceolata",
+    "commonName": "Maesa",
+    "localName": "Mkole lanceolata",
+    "tribeNames": {
+      "Kichaga": "Mkole lanceolata",
+      "Kisukuma": "Ntundu ya Mkole lanceolata",
+      "Kihaya": "Omukole lanceolata",
+      "Kizaramo": "Mkole lanceolata"
+    },
+    "category": "Bee folders trees, Water Source Protection Trees",
+    "conservationStatus": "Least Concern",
+    "description": "A shrub or small tree with small white flowers. The flowers are a source of nectar for honey bees [citation:1].",
+    "ethnobotany": "Wood used for construction. Leaves used in traditional medicine.",
+    "imagePath": "assets/images/tree_180.jpg",
+    "funFact": "This plant is an important forage resource for bees in forested areas.",
+    "climateImpact": "Moderately drought tolerant. Prefers well-drained soils.",
+    "commonDiseases": ["Leaf spot", "Root rot"]
+  },
+  {
+    "id": "181",
+    "scientificName": "Maytenus heterophylla",
+    "commonName": "Maytenus",
+    "localName": "Mkole heterophylla",
+    "tribeNames": {
+      "Kichaga": "Mkole heterophylla",
+      "Kisukuma": "Ntundu ya Mkole heterophylla",
+      "Kihaya": "Omukole heterophylla",
+      "Kizaramo": "Mkole heterophylla"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A shrub or small tree with small flowers. The flowers are a source of nectar for honey bees [citation:1].",
+    "ethnobotany": "Wood used for construction. Leaves used in traditional medicine.",
+    "imagePath": "assets/images/tree_181.jpg",
+    "funFact": "This plant is a valuable forage resource for bees in dry woodlands.",
+    "climateImpact": "Drought tolerant. Grows in various soil types.",
+    "commonDiseases": ["Leaf spot", "Scale insects"]
+  },
+  {
+    "id": "182",
+    "scientificName": "Maytenus undata",
+    "commonName": "Maytenus",
+    "localName": "Mkole undata",
+    "tribeNames": {
+      "Kichaga": "Mkole undata",
+      "Kisukuma": "Ntundu ya Mkole undata",
+      "Kihaya": "Omukole undata",
+      "Kizaramo": "Mkole undata"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A shrub or small tree with small flowers. The flowers are a source of nectar for honey bees [citation:1].",
+    "ethnobotany": "Wood used for construction. Leaves used in traditional medicine.",
+    "imagePath": "assets/images/tree_182.jpg",
+    "funFact": "This plant is a valuable forage resource for bees in dry woodlands.",
+    "climateImpact": "Drought tolerant. Grows in various soil types.",
+    "commonDiseases": ["Leaf spot", "Scale insects"]
+  },
+  {
+    "id": "183",
+    "scientificName": "Melinis minutiflora",
+    "commonName": "Melinis",
+    "localName": "Mkole minutiflora",
+    "tribeNames": {
+      "Kichaga": "Mkole minutiflora",
+      "Kisukuma": "Ntundu ya Mkole minutiflora",
+      "Kihaya": "Omukole minutiflora",
+      "Kizaramo": "Mkole minutiflora"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A grass species that is foraged by honey bees, providing pollen and nectar [citation:3].",
+    "ethnobotany": "Used as fodder for livestock. The grass is also used for thatching.",
+    "imagePath": "assets/images/tree_183.jpg",
+    "funFact": "This grass is an important forage source for bees in grassland areas.",
+    "climateImpact": "Drought tolerant. Grows in various soil types.",
+    "commonDiseases": ["Leaf spot", "Powdery mildew"]
+  },
+  {
+    "id": "184",
+    "scientificName": "Mikania cordata",
+    "commonName": "Mikania",
+    "localName": "Mkole cordata",
+    "tribeNames": {
+      "Kichaga": "Mkole cordata",
+      "Kisukuma": "Ntundu ya Mkole cordata",
+      "Kihaya": "Omukole cordata",
+      "Kizaramo": "Mkole cordata"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A climbing herb with small white flowers. The flowers are a source of nectar for honey bees [citation:3].",
+    "ethnobotany": "Used in traditional medicine. Leaves used for treating wounds.",
+    "imagePath": "assets/images/tree_184.jpg",
+    "funFact": "This plant is often found in disturbed areas and is an important forage source for bees.",
+    "climateImpact": "Moderately drought tolerant. Prefers moist soils.",
+    "commonDiseases": ["Leaf spot", "Powdery mildew"]
+  },
+  {
+    "id": "185",
+    "scientificName": "Momordica foetida",
+    "commonName": "Momordica",
+    "localName": "Mkole foetida",
+    "tribeNames": {
+      "Kichaga": "Mkole foetida",
+      "Kisukuma": "Ntundu ya Mkole foetida",
+      "Kihaya": "Omukole foetida",
+      "Kizaramo": "Mkole foetida"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A climbing herb with yellow flowers. The flowers are a source of nectar for honey bees [citation:3][citation:4].",
+    "ethnobotany": "Used in traditional medicine. Fruits and leaves used for treating various ailments.",
+    "imagePath": "assets/images/tree_185.jpg",
+    "funFact": "This plant is known for its distinctive, foul-smelling fruits.",
+    "climateImpact": "Drought tolerant. Grows in disturbed areas.",
+    "commonDiseases": ["Leaf spot", "Powdery mildew"]
+  },
+  {
+    "id": "186",
+    "scientificName": "Mystroxylon aethiopicum",
+    "commonName": "Mystroxylon",
+    "localName": "Mkole aethiopicum",
+    "tribeNames": {
+      "Kichaga": "Mkole aethiopicum",
+      "Kisukuma": "Ntundu ya Mkole aethiopicum",
+      "Kihaya": "Omukole aethiopicum",
+      "Kizaramo": "Mkole aethiopicum"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A tree with small flowers that provide nectar for honey bees. It is a noted forage species in forested areas [citation:1].",
+    "ethnobotany": "Wood used for construction and carving. Leaves used in traditional medicine.",
+    "imagePath": "assets/images/tree_186.jpg",
+    "funFact": "This tree is a valuable source of forage for bees in natural forests.",
+    "climateImpact": "Moderately drought tolerant. Prefers well-drained soils.",
+    "commonDiseases": ["Leaf spot", "Root rot"]
+  },
+  {
+    "id": "187",
+    "scientificName": "Olea capensis",
+    "commonName": "Olea",
+    "localName": "Mkole capensis",
+    "tribeNames": {
+      "Kichaga": "Mkole capensis",
+      "Kisukuma": "Ntundu ya Mkole capensis",
+      "Kihaya": "Omukole capensis",
+      "Kizaramo": "Mkole capensis"
+    },
+    "category": "Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A tree with small white flowers. The flowers are a source of nectar for honey bees [citation:1].",
+    "ethnobotany": "Wood used for construction and furniture. Leaves used in traditional medicine.",
+    "imagePath": "assets/images/tree_187.jpg",
+    "funFact": "This tree is a valuable forage resource for bees in forested areas.",
+    "climateImpact": "Moderately drought tolerant. Prefers well-drained soils.",
+    "commonDiseases": ["Leaf spot", "Root rot"]
   }
 ]
- 
