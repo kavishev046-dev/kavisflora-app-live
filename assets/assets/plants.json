@@ -10,7 +10,7 @@
       "Kihaya": "Ekirinja",
       "Kizaramo": "Mkiringa"
     },
-    "category": "Ornamental",
+    "category": "Ornamental trees",
     "conservationStatus": "Least Concern",
     "description": "An evergreen tree with symmetrical branches, widely used as a Christmas decoration. Native to Norfolk Island and popular in coastal landscaping.",
     "ethnobotany": "Soft wood used for crafts and ornaments. Planted for ornamental purposes in gardens and along roadsides.",
@@ -30,7 +30,7 @@
       "Kihaya": "Ekyanga",
       "Kizaramo": "Mkangale"
     },
-    "category": "Medicinal, Bee folders trees, Livestock folders",
+    "category": "Medicinal plants, Bee folders trees, Livestock folders trees",
     "conservationStatus": "Least Concern",
     "description": "A thorny tree with yellow flowers, used for charcoal and traditional medicine. Common in Tanzania's dry savanna regions.",
     "ethnobotany": "Bark used for toothache, gum for cough. Charcoal for cooking. Gum used in traditional crafts.",
@@ -50,7 +50,7 @@
       "Kihaya": "Omwembe",
       "Kizaramo": "Mwembe"
     },
-    "category": "Fruits, Shade, Urban and settlement trees",
+    "category": "Fruits trees, Shade trees, Urban and settlement trees",
     "conservationStatus": "Least Concern",
     "description": "A large evergreen tree producing sweet mango fruits. One of the most cultivated fruit trees in Tanzania, valued for its delicious fruits and shade.",
     "ethnobotany": "Fruits eaten fresh or used in juices. Leaves used in traditional ceremonies. Wood used for furniture.",
@@ -70,7 +70,7 @@
       "Kihaya": "Omurobaini",
       "Kizaramo": "Mwarobaini"
     },
-    "category": "Medicinal, Urban and settlement trees, Shade",
+    "category": "Medicinal plants, Urban and settlement trees, Shade trees",
     "conservationStatus": "Least Concern",
     "description": "Known as the 'village pharmacy'. All parts have medicinal properties. Widely planted in Tanzania for its numerous health benefits.",
     "ethnobotany": "Leaves used for malaria, bark for fever, oil for skin conditions. Used by Chaga and Pare tribes.",
@@ -90,7 +90,7 @@
       "Kihaya": "Omukuyu",
       "Kizaramo": "Mkuyu"
     },
-    "category": "Shade, Fruits, Water Source Protection Trees",
+    "category": "Shade trees, Fruits trees, Water Source Protection Trees",
     "conservationStatus": "Least Concern",
     "description": "A large fig tree with spreading branches, providing shade and edible fruit. Sacred in many Tanzanian communities.",
     "ethnobotany": "Fruits eaten fresh, leaves used as fodder. Sacred tree in many communities. Bark used for traditional medicine.",
@@ -110,7 +110,7 @@
       "Kihaya": "Omuvule",
       "Kizaramo": "Mvule"
     },
-    "category": "Timber",
+    "category": "Timber trees",
     "conservationStatus": "Near Threatened",
     "description": "Valuable timber tree. One of the most important timber trees in Africa, prized for its durable and termite-resistant wood.",
     "ethnobotany": "High-quality timber for furniture and construction. Bark used for traditional medicine.",
@@ -130,7 +130,7 @@
       "Kihaya": "Omushambarai",
       "Kizaramo": "Miombo"
     },
-    "category": "Forest, Bee folders trees, Timber",
+    "category": "Miombo woodland species, Bee folders trees, Timber trees",
     "conservationStatus": "Least Concern",
     "description": "Miombo woodland tree, source of firewood. Dominant tree in central African woodlands, covering vast areas of Tanzania.",
     "ethnobotany": "Firewood and charcoal. Edible caterpillars associated with this tree are a source of protein for local communities.",
@@ -150,7 +150,7 @@
       "Kihaya": "Omuryiri",
       "Kizaramo": "Mryiri"
     },
-    "category": "Ornamental, Medicinal, Bee folders trees",
+    "category": "Ornamental trees, Medicinal plants, Bee folders trees",
     "conservationStatus": "Least Concern",
     "description": "Red flowering medicinal tree. Blooms bright red flowers during dry season. Found in Tanzania's highlands and savanna regions.",
     "ethnobotany": "Bark used for malaria and stomach problems. Used as a living fence in rural areas.",
@@ -170,7 +170,7 @@
       "Kihaya": "Omulama",
       "Kizaramo": "Mlama"
     },
-    "category": "Medicinal, Bee folders trees",
+    "category": "Medicinal plants, Bee folders trees",
     "conservationStatus": "Least Concern",
     "description": "Medicinal indigenous tree common in savanna woodlands. Used by traditional healers in Tanzania.",
     "ethnobotany": "Roots and bark for diarrhea and cough. Wood for traditional tools and utensils.",
@@ -190,7 +190,7 @@
       "Kihaya": "Omulombwa",
       "Kizaramo": "Mlombwa"
     },
-    "category": "Ornamental, Shade",
+    "category": "Ornamental trees, Shade trees",
     "conservationStatus": "Least Concern",
     "description": "Yellow flowering ornamental tree. Grows well in highland areas and is popular in urban landscaping.",
     "ethnobotany": "Used as a shade tree, flowers attract bees. Wood for carving and light construction.",
@@ -210,7 +210,7 @@
       "Kihaya": "Omubuyu",
       "Kizaramo": "Mbuyu"
     },
-    "category": "Fruits, Bee folders trees, Arid forest trees and Shrubs",
+    "category": "Fruits trees, Bee folders trees, Arid forest trees and Shrubs",
     "conservationStatus": "Least Concern",
     "description": "Large fruit tree with nutrient-rich fruits. Can live for over 1,000 years. Known as the 'Tree of Life' in Africa.",
     "ethnobotany": "Fruits rich in vitamin C, leaves eaten as vegetable, bark for rope and traditional cloth.",
@@ -223,14 +223,14 @@
     "id": "12",
     "scientificName": "Sclerocarya birrea",
     "commonName": "Marula",
-    "localName": "Mngongo",
+    "localName": "Mng'ongo",
     "tribeNames": {
       "Kichaga": "Mngongo",
       "Kisukuma": "Ntundu ya Mngongo",
       "Kihaya": "Omungongo",
       "Kizaramo": "Mngongo"
     },
-    "category": "Fruits",
+    "category": "Fruits trees",
     "conservationStatus": "Least Concern",
     "description": "Oil-rich fruit tree known as the 'marula tree'. Produces fruits used for juice, beer, and oil extraction.",
     "ethnobotany": "Fruits used for juice and traditional beer, kernels for oil. Bark for dysentery treatment.",
@@ -250,7 +250,7 @@
       "Kihaya": "Omuchungwa",
       "Kizaramo": "Chungwa"
     },
-    "category": "Fruits",
+    "category": "Fruits trees",
     "conservationStatus": "Least Concern",
     "description": "Sweet orange tree. One of the most cultivated fruit trees in Tanzania, prized for its juicy and nutritious fruits.",
     "ethnobotany": "Fruits eaten fresh or juiced. Leaves used for fever treatment in traditional medicine.",
@@ -270,7 +270,7 @@
       "Kihaya": "Omukahawa",
       "Kizaramo": "Kahawa"
     },
-    "category": "Fruits",
+    "category": "Fruits trees",
     "conservationStatus": "Vulnerable",
     "description": "Coffee plant, used by many tribes. Tanzania is famous for its Arabica coffee, especially from the Kilimanjaro region.",
     "ethnobotany": "Beans roasted for coffee. Leaves used for tea in some communities. Coffee is a major cash crop.",
@@ -290,7 +290,7 @@
       "Kihaya": "Omupapai",
       "Kizaramo": "Papai"
     },
-    "category": "Fruits",
+    "category": "Fruits trees",
     "conservationStatus": "Least Concern",
     "description": "Fast-growing tropical tree producing large, sweet fruits. Widely cultivated in Tanzania for its delicious papayas.",
     "ethnobotany": "Fruits eaten raw, leaves used for tenderizing meat and treating malaria in traditional medicine.",
@@ -310,7 +310,7 @@
       "Kihaya": "Omuzingiri",
       "Kizaramo": "Mzingiri"
     },
-    "category": "Shade, Urban and settlement trees, Timber",
+    "category": "Shade trees, Urban and settlement trees, Timber trees",
     "conservationStatus": "Least Concern",
     "description": "Shade and timber tree widely planted in urban areas. Known for its spreading canopy and attractive foliage.",
     "ethnobotany": "Provides shade, wood for furniture. Leaves used as fodder. Bark used in traditional medicine.",
@@ -330,7 +330,7 @@
       "Kihaya": "Omukakaya",
       "Kizaramo": "Flamboyant"
     },
-    "category": "Ornamental, Urban and settlement trees, Shade",
+    "category": "Ornamental trees, Urban and settlement trees, Shade trees",
     "conservationStatus": "Least Concern",
     "description": "Ornamental tree with bright red flowers. One of the most beautiful flowering trees, widely planted in tropical regions.",
     "ethnobotany": "Planted for beauty, provides shade. Not native but widely loved for its spectacular blooms.",
@@ -350,7 +350,7 @@
       "Kihaya": "Omukwaju",
       "Kizaramo": "Mkwaju"
     },
-    "category": "Fruits, Urban and settlement trees, Shade",
+    "category": "Fruits trees, Urban and settlement trees, Shade trees",
     "conservationStatus": "Least Concern",
     "description": "Large tropical fruit tree common along coastal areas. Produces almond-like seeds and provides excellent shade.",
     "ethnobotany": "Almond-like seeds edible. Leaves used for liver problems. Wood for light construction.",
@@ -370,7 +370,7 @@
       "Kihaya": "Omugunga",
       "Kizaramo": "Mgunga"
     },
-    "category": "Medicinal, Water Source Protection Trees",
+    "category": "Medicinal plant, Water Source Protection Trees",
     "conservationStatus": "Least Concern",
     "description": "Distinctive greenish-yellow bark, grows near water sources. Known for its medicinal properties and unique appearance.",
     "ethnobotany": "Bark used for treating fevers, wood for fencing. Also used in traditional rituals.",
@@ -390,7 +390,7 @@
       "Kihaya": "Omupingo",
       "Kizaramo": "Mpingo"
     },
-    "category": "Timber, Bee folders trees",
+    "category": "Timber trees, Bee folders trees",
     "conservationStatus": "Vulnerable",
     "description": "Highly valuable timber tree producing black, dense wood. Used for musical instruments and fine furniture.",
     "ethnobotany": "Wood used for musical instruments, carvings, and fine furniture. Bark used in traditional medicine.",
@@ -410,7 +410,7 @@
       "Kihaya": "Omukangazi",
       "Kizaramo": "Mkangazi"
     },
-    "category": "Timber",
+    "category": "Timber trees",
     "conservationStatus": "Vulnerable",
     "description": "Large mahogany tree prized for its high-quality timber. Found in Tanzania's tropical forests.",
     "ethnobotany": "Wood used for furniture, doors. Bark used in traditional medicine. Timber is exported internationally.",
@@ -430,7 +430,7 @@
       "Kihaya": "Omukole",
       "Kizaramo": "Mkole"
     },
-    "category": "Agroforestry, Shade, Livestock folders",
+    "category": "Agroforestry trees, Shade trees, Livestock folders trees",
     "conservationStatus": "Least Concern",
     "description": "Unique tree that sheds leaves during the rainy season. Valuable for agroforestry and soil improvement.",
     "ethnobotany": "Leaves used as fodder, wood for construction, pods for animal feed. Improves soil fertility.",
@@ -450,7 +450,7 @@
       "Kihaya": "Omugunga",
       "Kizaramo": "Mgunga"
     },
-    "category": "Bee folders trees, Livestock folders",
+    "category": "Bee folders trees, Arid forest trees and shrubs, Livestock folders trees ",
     "conservationStatus": "Least Concern",
     "description": "Iconic umbrella-shaped tree of African savannas. Provides shade and food for wildlife.",
     "ethnobotany": "Wood used for fencing, bark for tanning, gum for food. Also used as livestock fodder.",
@@ -470,7 +470,7 @@
       "Kihaya": "Omujafari",
       "Kizaramo": "Mjafari"
     },
-    "category": "Medicinal",
+    "category": "Medicinal plant",
     "conservationStatus": "Least Concern",
     "description": "Aromatic tree with knobbly bark, used widely in traditional medicine. Common in Tanzania's dry woodlands.",
     "ethnobotany": "Bark and leaves used for malaria, stomach problems, and toothaches. Also used as a spice.",
@@ -490,7 +490,7 @@
       "Kihaya": "Omukwaju",
       "Kizaramo": "Mkwaju"
     },
-    "category": "Fruits",
+    "category": "Fruits trees",
     "conservationStatus": "Least Concern",
     "description": "Large fruit tree producing sweet and sour fruits. Commonly used to make beverages and traditional dishes.",
     "ethnobotany": "Fruits used for food and drinks. Bark used for treating diarrhea. Wood for furniture.",
@@ -510,7 +510,7 @@
       "Kihaya": "Omung'ongo",
       "Kizaramo": "Mng'ongo"
     },
-    "category": "Fruits",
+    "category": "Fruits trees",
     "conservationStatus": "Least Concern",
     "description": "Oil-rich fruit tree known as the marula tree. Produces fruits used for juice, beer, and oil extraction.",
     "ethnobotany": "Fruits used for juice and traditional beer, kernels for oil. Bark used for treating dysentery.",
@@ -530,7 +530,7 @@
       "Kihaya": "Omuninga",
       "Kizaramo": "Mninga"
     },
-    "category": "Timber",
+    "category": "Timber plants",
     "conservationStatus": "Vulnerable",
     "description": "Native tree producing hard, valuable timber. Known as 'African teak' for its durability and beauty.",
     "ethnobotany": "Wood used for furniture, houses, and canoes. Bark used in traditional medicine.",
@@ -550,7 +550,7 @@
       "Kihaya": "Omutomoko",
       "Kizaramo": "Mtomoko"
     },
-    "category": "Fruits, Urban and settlement trees",
+    "category": "Fruits trees, Urban and settlement trees",
     "conservationStatus": "Least Concern",
     "description": "Fruit tree producing sweet fruits similar to soursop. Found in the wild and semi-cultivated.",
     "ethnobotany": "Fruits eaten fresh, leaves and roots used for treating fever. Also used in traditional rituals.",
@@ -570,7 +570,7 @@
       "Kihaya": "Ekishubiri",
       "Kizaramo": "Shubiri"
     },
-    "category": "Medicinal",
+    "category": "Medicinal plants",
     "conservationStatus": "Least Concern",
     "description": "Succulent plant widely used in cosmetics and skincare. Known for its healing properties.",
     "ethnobotany": "Gel from leaves used for burns, skin wounds, and hair growth. Also used in traditional medicine.",
@@ -590,7 +590,7 @@
       "Kihaya": "Omwegea",
       "Kizaramo": "Mwegea"
     },
-    "category": "Medicinal, Bee folders trees",
+    "category": "Medicinal plants, Bee folders trees",
     "conservationStatus": "Least Concern",
     "description": "Tree producing large sausage-shaped fruits. Used in traditional medicine for various skin conditions.",
     "ethnobotany": "Fruits used for treating skin diseases and diabetes. Also used in traditional rituals.",
@@ -610,7 +610,7 @@
       "Kihaya": "Omulama",
       "Kizaramo": "Mlama"
     },
-    "category": "Bee folders trees, Medicinal, Livestock folders",
+    "category": "Bee folders trees, Medicinal plants, Livestock folders trees",
     "conservationStatus": "Least Concern",
     "description": "A tree that produces flowers rich in nectar, important for beekeeping and honey production.",
     "ethnobotany": "Bark used for cough and fever medicine. Flowers are a source of high-quality honey.",
@@ -650,7 +650,7 @@
       "Kihaya": "Omupingo",
       "Kizaramo": "Mpingo"
     },
-    "category": "Bee folders trees, Timber",
+    "category": "Bee folders trees, Timber trees",
     "conservationStatus": "Vulnerable",
     "description": "Valuable tree producing small flowers with a sweet fragrance that attracts bees in large numbers.",
     "ethnobotany": "Flowers used by bees for honey production. Wood used for musical instruments.",
@@ -670,7 +670,7 @@
       "Kihaya": "Ekyanga",
       "Kizaramo": "Mkangale"
     },
-    "category": "Bee folders trees, Medicinal, Livestock folders",
+    "category": "Bee folders trees, Medicinal plants, Livestock folders trees",
     "conservationStatus": "Least Concern",
     "description": "A tree with yellow flowers rich in pollen and nectar, important for beekeeping.",
     "ethnobotany": "Flowers are a good source of honey. Bark used for toothache and cough.",
@@ -690,7 +690,7 @@
       "Kihaya": "Omukambala",
       "Kizaramo": "Mkambala"
     },
-    "category": "Bee folders trees, Livestock folders",
+    "category": "Bee folders trees, Livestock folders trees",
     "conservationStatus": "Least Concern",
     "description": "A tree with sweet-smelling flowers that attract bees from long distances.",
     "ethnobotany": "Flowers used for beekeeping. Bark used for treating diarrhea.",
@@ -710,7 +710,7 @@
       "Kihaya": "Omushambarai",
       "Kizaramo": "Miombo"
     },
-    "category": "Bee folders trees, Forest, Timber",
+    "category": "Bee folders trees, Miombo woodland trees, Timber trees",
     "conservationStatus": "Least Concern",
     "description": "A major tree in miombo woodlands, producing honey that is famous worldwide.",
     "ethnobotany": "A major source of honey, with a large market. The tree is important for beekeeping.",
@@ -730,7 +730,7 @@
       "Kihaya": "Omuyombo",
       "Kizaramo": "Muyombo"
     },
-    "category": "Bee folders trees, Forest",
+    "category": "Bee folders trees, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A miombo tree that produces flowers rich in nectar, important for beekeeping.",
     "ethnobotany": "Produces high-quality honey. Bark used for cough medicine.",
@@ -750,7 +750,7 @@
       "Kihaya": "Omuseta",
       "Kizaramo": "Mseta"
     },
-    "category": "Bee folders trees, Forest",
+    "category": "Bee folders trees, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A miombo tree producing flowers rich in nectar, important for beekeeping and honey production.",
     "ethnobotany": "A source of honey. Bark used for toothache and oral hygiene.",
@@ -770,7 +770,7 @@
       "Kihaya": "Omuguvani",
       "Kizaramo": "Muguvani"
     },
-    "category": "Bee folders trees, Urban and settlement trees, Ornamental",
+    "category": "Bee folders trees, Urban and settlement trees, Ornamental trees",
     "conservationStatus": "Least Concern",
     "description": "A small tree with large yellow flowers, a good source of pollen for bees.",
     "ethnobotany": "Flowers attract bees and birds. The tree is good for landscaping and beekeeping.",
@@ -790,7 +790,7 @@
       "Kihaya": "Omugulumo",
       "Kizaramo": "Mgulumo"
     },
-    "category": "Bee folders trees, Fruits",
+    "category": "Bee folders trees, Fruits trees",
     "conservationStatus": "Least Concern",
     "description": "A tree producing flowers rich in nectar, important for beekeeping in dry areas.",
     "ethnobotany": "Honey from this tree has a light color and sweet taste. Bark used in traditional medicine.",
@@ -810,7 +810,7 @@
       "Kihaya": "Omugunga",
       "Kizaramo": "Mgunga"
     },
-    "category": "Bee folders trees, Livestock folders",
+    "category": "Bee folders trees, Livestock folders trees",
     "conservationStatus": "Least Concern",
     "description": "A tree with yellow flowers rich in pollen, important for bees in dry areas.",
     "ethnobotany": "Flowers are a source of honey. Pods used for livestock fodder.",
@@ -830,7 +830,7 @@
       "Kihaya": "Omubuyu",
       "Kizaramo": "Mbuyu"
     },
-    "category": "Bee folders trees, Fruits, Water Source Protection Trees",
+    "category": "Bee folders trees, Fruits",
     "conservationStatus": "Least Concern",
     "description": "A large tree producing large white flowers rich in nectar. The flowers bloom at night and attract bees.",
     "ethnobotany": "Fruits rich in vitamin C, leaves eaten as vegetable, bark for rope.",
@@ -850,7 +850,7 @@
       "Kihaya": "Omuryiri",
       "Kizaramo": "Mryiri"
     },
-    "category": "Bee folders trees, Ornamental, Medicinal",
+    "category": "Bee folders trees, Ornamental trees, Medicinal plants",
     "conservationStatus": "Least Concern",
     "description": "A tree with bright red flowers rich in nectar. The flowers attract bees and birds in large numbers.",
     "ethnobotany": "Flowers attract bees. Bark used for malaria and stomach problems.",
@@ -870,7 +870,7 @@
       "Kihaya": "Omwegea",
       "Kizaramo": "Mwegea"
     },
-    "category": "Bee folders trees, Medicinal",
+    "category": "Bee folders trees, Medicinal plants",
     "conservationStatus": "Least Concern",
     "description": "A tree producing large red flowers rich in nectar. The flowers bloom at night and attract bees.",
     "ethnobotany": "Flowers used by bees. Fruits used for skin treatments and diabetes.",
@@ -890,7 +890,7 @@
       "Kihaya": "Omukombi",
       "Kizaramo": "Mkombi"
     },
-    "category": "Bee folders trees, Ornamental, Shade",
+    "category": "Bee folders trees, Ornamental trees, Shade  trees",
     "conservationStatus": "Least Concern",
     "description": "A tree producing red flowers rich in nectar. Produces large amounts of honey during the flowering season.",
     "ethnobotany": "Flowers attract bees. Wood used for furniture.",
@@ -910,7 +910,7 @@
       "Kihaya": "Omukole",
       "Kizaramo": "Mkole"
     },
-    "category": "Livestock folders, Urban and settlement trees",
+    "category": "Livestock folders trees, Urban and settlement trees",
     "conservationStatus": "Least Concern",
     "description": "A tree highly preferred by livestock, especially goats. Has a preference score of 1.8 (high) and good digestibility.",
     "ethnobotany": "Excellent fodder for livestock, fruits eaten by birds, bark used for medicine.",
@@ -930,7 +930,7 @@
       "Kihaya": "Omukole",
       "Kizaramo": "Mkole"
     },
-    "category": "Livestock folders",
+    "category": "Livestock folders trees",
     "conservationStatus": "Least Concern",
     "description": "A tree preferred by livestock, especially during the dry season. Has a preference score of 1.7 (high).",
     "ethnobotany": "Leaves used as livestock fodder, especially during drought periods.",
@@ -950,7 +950,7 @@
       "Kihaya": "Omukole",
       "Kizaramo": "Mkole"
     },
-    "category": "Livestock folders, Urban and settlement trees",
+    "category": "Livestock folders trees, Urban and settlement trees",
     "conservationStatus": "Least Concern",
     "description": "A tree or shrub used as livestock fodder, especially for goats and sheep. Has multiple uses (fodder, medicine, food).",
     "ethnobotany": "Leaves used as fodder, fruits eaten by birds, bark used for medicine.",
@@ -970,7 +970,7 @@
       "Kihaya": "Omulama",
       "Kizaramo": "Mlama"
     },
-    "category": "Livestock folders, Bee folders trees",
+    "category": "Livestock folders trees, Bee folders trees",
     "conservationStatus": "Least Concern",
     "description": "A tree recommended by pastoralists as livestock fodder, especially for cattle and goats.",
     "ethnobotany": "Excellent fodder, leaves and small branches eaten by all livestock.",
@@ -1010,7 +1010,7 @@
       "Kihaya": "Omudavi",
       "Kizaramo": "Mdavi"
     },
-    "category": "Livestock folders, Fruits, Urban and settlement trees",
+    "category": "Livestock folders trees, Fruits trees, Urban and settlement trees",
     "conservationStatus": "Least Concern",
     "description": "A small to medium tree used as livestock fodder. Has many uses (food, medicine, fodder).",
     "ethnobotany": "Fruits eaten, leaves are fodder, bark used for toothache.",
@@ -1030,7 +1030,7 @@
       "Kihaya": "Ekyanga",
       "Kizaramo": "Mkangale"
     },
-    "category": "Livestock folders, Medicinal, Bee folders trees",
+    "category": "Livestock folders trees, Medicinal plants, Bee folders trees",
     "conservationStatus": "Least Concern",
     "description": "A tree producing pods and leaves that are preferred by livestock, especially during the dry season.",
     "ethnobotany": "Pods used as fodder, bark for toothache and cough.",
@@ -1050,7 +1050,7 @@
       "Kihaya": "Omukambala",
       "Kizaramo": "Mkambala"
     },
-    "category": "Livestock folders, Bee folders trees",
+    "category": "Livestock folders trees, Bee folders trees",
     "conservationStatus": "Least Concern",
     "description": "A tree producing leaves rich in protein, important for livestock fodder during the dry season.",
     "ethnobotany": "Excellent fodder for cattle and goats, wood for firewood.",
@@ -1070,7 +1070,7 @@
       "Kihaya": "Omutunduru",
       "Kizaramo": "Mtunduru"
     },
-    "category": "Livestock folders",
+    "category": "Livestock folders trees",
     "conservationStatus": "Least Concern",
     "description": "A shrub or small tree used as fodder for goats and sheep, especially during the dry season.",
     "ethnobotany": "Leaves eaten by livestock, wood for high-quality firewood and charcoal.",
@@ -1090,7 +1090,7 @@
       "Kihaya": "Omugunga",
       "Kizaramo": "Mgunga"
     },
-    "category": "Livestock folders",
+    "category": "Livestock folders trees",
     "conservationStatus": "Least Concern",
     "description": "A tree producing gum arabic and protein-rich leaves for livestock fodder.",
     "ethnobotany": "Gum used for food and medicine, leaves are fodder, bark for tanning.",
@@ -1110,7 +1110,7 @@
       "Kihaya": "Omugelemele",
       "Kizaramo": "Mpelemele"
     },
-    "category": "Livestock folders",
+    "category": "Livestock folders trees",
     "conservationStatus": "Least Concern",
     "description": "A shrub or small tree used as livestock fodder, especially for goats and cattle.",
     "ethnobotany": "Leaves are excellent fodder, fruits eaten by birds.",
@@ -1130,7 +1130,7 @@
       "Kihaya": "Omugunga",
       "Kizaramo": "Mgunga"
     },
-    "category": "Livestock folders, Urban and settlement trees",
+    "category": "Livestock folders trees, Urban and settlement trees",
     "conservationStatus": "Least Concern",
     "description": "A tree producing protein-rich leaves, important for livestock fodder.",
     "ethnobotany": "Excellent fodder, wood for construction, bark for medicine.",
@@ -1150,7 +1150,7 @@
       "Kihaya": "Omukandambili",
       "Kizaramo": "Mkandambili"
     },
-    "category": "Livestock folders, Ornamental",
+    "category": "Livestock folders trees, Ornamental trees",
     "conservationStatus": "Least Concern",
     "description": "A small tree used as livestock fodder, especially during the dry season.",
     "ethnobotany": "Leaves eaten by livestock, bark used for cough medicine.",
@@ -1170,7 +1170,7 @@
       "Kihaya": "Omufuti",
       "Kizaramo": "Mfuti"
     },
-    "category": "Livestock folders",
+    "category": "Livestock folders trees",
     "conservationStatus": "Least Concern",
     "description": "A tree producing leaves preferred by livestock, especially during the dry season.",
     "ethnobotany": "Excellent fodder, wood for construction, bark for medicine.",
@@ -1190,7 +1190,7 @@
       "Kihaya": "Omudwendwe",
       "Kizaramo": "Mdwendwe"
     },
-    "category": "Livestock folders",
+    "category": "Livestock folders trees",
     "conservationStatus": "Least Concern",
     "description": "A tree producing leaves preferred by livestock, especially during the dry season.",
     "ethnobotany": "Excellent fodder, wood for construction, bark for toothache.",
@@ -1210,7 +1210,7 @@
       "Kihaya": "Omukola",
       "Kizaramo": "Mkola"
     },
-    "category": "Timber",
+    "category": "Timber trees",
     "conservationStatus": "Near Threatened",
     "description": "A valuable timber tree producing hard, durable wood with a beautiful grain pattern. Found in Tanzania's coastal and miombo woodlands.",
     "ethnobotany": "High-quality timber for furniture, construction, and flooring. Seeds used in traditional jewelry.",
@@ -1230,7 +1230,7 @@
       "Kihaya": "Omukalala",
       "Kizaramo": "Mkalala"
     },
-    "category": "Medicinal",
+    "category": "Medicinal plants",
     "conservationStatus": "Least Concern",
     "description": "A medicinal tree used to treat intestinal worms and parasites. Common in Tanzania's dry woodlands.",
     "ethnobotany": "Bark and roots used as a dewormer for livestock and humans. Also used for fever treatment.",
@@ -1250,7 +1250,7 @@
       "Kihaya": "Omukombwa",
       "Kizaramo": "Mkombwa"
     },
-    "category": "Ornamental, Shade",
+    "category": "Ornamental trees, Shade trees",
     "conservationStatus": "Least Concern",
     "description": "A beautiful ornamental tree with distinctive butterfly-shaped leaves and white flowers. Native to eastern Africa.",
     "ethnobotany": "Planted for shade and ornament. Leaves used as fodder. Wood for light construction.",
@@ -1270,7 +1270,7 @@
       "Kihaya": "Omujohoro",
       "Kizaramo": "Mjohoro"
     },
-    "category": "Urban and settlement trees, Shade, Bee folders trees",
+    "category": "Urban and settlement trees, Shade trees, Bee folders trees",
     "conservationStatus": "Least Concern",
     "description": "A fast-growing evergreen tree widely planted in urban areas for shade and as a living fence. Native to Southeast Asia but naturalized in Tanzania.",
     "ethnobotany": "Provides excellent shade. Wood used for furniture and construction. Leaves used as green manure.",
@@ -1290,7 +1290,7 @@
       "Kihaya": "Omutono",
       "Kizaramo": "Mtono"
     },
-    "category": "Medicinal",
+    "category": "Medicinal plants",
     "conservationStatus": "Least Concern",
     "description": "A small tree with distinctive peeling bark, producing aromatic resin used in traditional medicine. Found in Tanzania's dry regions.",
     "ethnobotany": "Resin used for wound healing and as a general remedy. Wood for firewood and charcoal.",
@@ -1310,7 +1310,7 @@
       "Kihaya": "Omudavi",
       "Kizaramo": "Mdavi"
     },
-    "category": "Fruits, Water Source Protection Trees, Timber",
+    "category": "Fruits trees, Water Source Protection Trees, Timber trees",
     "conservationStatus": "Least Concern",
     "description": "A medium-sized tree producing sweet, edible fruits. Common in Tanzania's highlands and along rivers.",
     "ethnobotany": "Fruits eaten fresh. Wood used for furniture and carving. Leaves used as fodder.",
@@ -1330,7 +1330,7 @@
       "Kihaya": "Omukarakara",
       "Kizaramo": "Mkarakara"
     },
-    "category": "Medicinal",
+    "category": "Medicinal plants",
     "conservationStatus": "Least Concern",
     "description": "A forest tree with medicinal properties, used for treating skin diseases and wounds. Found in Tanzania's moist forests.",
     "ethnobotany": "Bark and leaves used for skin conditions. Wood for light construction and firewood.",
@@ -1350,7 +1350,7 @@
       "Kihaya": "Omugiha",
       "Kizaramo": "Mgiha"
     },
-    "category": "Timber",
+    "category": "Timber trees",
     "conservationStatus": "Vulnerable",
     "description": "A valuable timber tree producing hard, durable wood with a beautiful grain. Found in Tanzania's dry forests.",
     "ethnobotany": "High-quality timber for furniture, carving, and construction. Bark used for traditional medicine.",
@@ -1370,7 +1370,7 @@
       "Kihaya": "Omutunduru",
       "Kizaramo": "Mtunduru"
     },
-    "category": "Livestock folders",
+    "category": "Livestock folders trees",
     "conservationStatus": "Least Concern",
     "description": "A thorny shrub or small tree found in savanna regions. Provides browse for livestock and habitat for wildlife.",
     "ethnobotany": "Leaves used as fodder. Wood for high-quality firewood and charcoal. Used as a natural fence.",
@@ -1390,7 +1390,7 @@
       "Kihaya": "Omugiriti",
       "Kizaramo": "Mgiriti"
     },
-    "category": "Fruits, Timber",
+    "category": "Fruits trees, Timber trees",
     "conservationStatus": "Least Concern",
     "description": "A large evergreen tree producing sweet, edible fruits similar to persimmons. Common along rivers and in miombo woodlands.",
     "ethnobotany": "Fruits eaten fresh or dried. Wood for construction and furniture. Bark for traditional medicine.",
@@ -1410,7 +1410,7 @@
       "Kihaya": "Omulolwa",
       "Kizaramo": "Mlolwa"
     },
-    "category": "Ornamental",
+    "category": "Ornamental trees",
     "conservationStatus": "Least Concern",
     "description": "A beautiful tree with large, showy white flowers. Popular in gardens and parks in Tanzania.",
     "ethnobotany": "Planted for ornament and shade. Bark used for rope and fiber.",
@@ -1430,7 +1430,7 @@
       "Kihaya": "Omukuyu",
       "Kizaramo": "Mkuyu"
     },
-    "category": "Shade, Water Source Protection Trees",
+    "category": "Shade trees, Water Source Protection Trees",
     "conservationStatus": "Least Concern",
     "description": "A large fig tree providing excellent shade. Found in rocky areas and along rivers in Tanzania.",
     "ethnobotany": "Provides shade. Fruits eaten by birds and wildlife. Bark for traditional medicine.",
@@ -1450,7 +1450,7 @@
       "Kihaya": "Omukandarusi",
       "Kizaramo": "Mkandarusi"
     },
-    "category": "Ornamental",
+    "category": "Ornamental trees",
     "conservationStatus": "Least Concern",
     "description": "A small tree with fragrant white flowers, related to the gardenia. Found in Tanzania's savanna woodlands.",
     "ethnobotany": "Flowers used for perfume. Fruits used in traditional medicine. Wood for carving.",
@@ -1470,7 +1470,7 @@
       "Kihaya": "Omugelemele",
       "Kizaramo": "Mpelemele"
     },
-    "category": "Agroforestry, Livestock folders",
+    "category": "Agroforestry trees, Livestock folders trees",
     "conservationStatus": "Least Concern",
     "description": "A small tree or shrub used in agroforestry for soil improvement and livestock fodder.",
     "ethnobotany": "Leaves used as fodder. Bark for rope and medicine. Fruits eaten by wildlife.",
@@ -1490,7 +1490,7 @@
       "Kihaya": "Omukangazi",
       "Kizaramo": "Mkangazi"
     },
-    "category": "Timber, Shade",
+    "category": "Timber trees, Shade trees",
     "conservationStatus": "Vulnerable",
     "description": "A large mahogany tree producing high-quality timber. Widely planted for its valuable wood.",
     "ethnobotany": "High-quality timber for furniture, boats, and construction. Bark used in traditional medicine.",
@@ -1510,7 +1510,7 @@
       "Kihaya": "Omukole",
       "Kizaramo": "Mkole"
     },
-    "category": "Fruits",
+    "category": "Fruits trees",
     "conservationStatus": "Least Concern",
     "description": "A medium-sized tree producing edible fruits. Found in Tanzania's savanna and woodland areas.",
     "ethnobotany": "Fruits eaten fresh or dried. Wood for light construction. Bark for traditional medicine.",
@@ -1530,7 +1530,7 @@
       "Kihaya": "Omukole",
       "Kizaramo": "Mkole"
     },
-    "category": "Timber",
+    "category": "Timber trees",
     "conservationStatus": "Least Concern",
     "description": "A valuable timber tree producing hard, durable wood. Found in Tanzania's dry forests.",
     "ethnobotany": "Wood for construction and furniture. Bark used in traditional medicine.",
@@ -1550,7 +1550,7 @@
       "Kihaya": "Omusambia",
       "Kizaramo": "Msambia"
     },
-    "category": "Fruits, Timber",
+    "category": "Fruits trees, Timber trees",
     "conservationStatus": "Least Concern",
     "description": "A medium-sized tree producing sweet, edible fruits. Found in Tanzania's coastal forests.",
     "ethnobotany": "Fruits eaten fresh. Wood for construction and furniture. Latex used in traditional medicine.",
@@ -1570,7 +1570,7 @@
       "Kihaya": "Omukole",
       "Kizaramo": "Mkole"
     },
-    "category": "Timber",
+    "category": "Timber trees",
     "conservationStatus": "Least Concern",
     "description": "A valuable timber tree found in Tanzania's miombo woodlands. Produces hard, durable wood.",
     "ethnobotany": "Wood for construction, furniture, and firewood. Bark used in traditional medicine.",
@@ -1590,7 +1590,7 @@
       "Kihaya": "Omuzaituni",
       "Kizaramo": "Mzeituni"
     },
-    "category": "Fruits, Water Source Protection Trees",
+    "category": "Fruits trees, Water Source Protection Trees",
     "conservationStatus": "Least Concern",
     "description": "A wild olive tree producing small, edible fruits. Found in Tanzania's highlands and dry forests.",
     "ethnobotany": "Fruits eaten fresh or pressed for oil. Wood for carving and furniture.",
@@ -1610,7 +1610,7 @@
       "Kihaya": "Omukole",
       "Kizaramo": "Mkole"
     },
-    "category": "Timber",
+    "category": "Timber trees",
     "conservationStatus": "Vulnerable",
     "description": "A valuable timber tree producing hard, durable wood with a beautiful grain. Found in Tanzania's tropical forests.",
     "ethnobotany": "High-quality timber for furniture, flooring, and construction. Bark used in traditional medicine.",
@@ -1630,7 +1630,7 @@
       "Kihaya": "Omukole",
       "Kizaramo": "Mkole"
     },
-    "category": "Agroforestry, Livestock folders",
+    "category": "Agroforestry trees, Livestock folders trees",
     "conservationStatus": "Least Concern",
     "description": "A small tree used in agroforestry for soil improvement, shade, and fodder. Common in Tanzania's dry savannas.",
     "ethnobotany": "Leaves used as fodder. Pods for animal feed. Bark for traditional medicine.",
@@ -1650,7 +1650,7 @@
       "Kihaya": "Omupwotea",
       "Kizaramo": "Mprotea"
     },
-    "category": "Ornamental",
+    "category": "Ornamental trees",
     "conservationStatus": "Least Concern",
     "description": "A beautiful shrub or small tree with large, showy flowers. Found in Tanzania's highland grasslands.",
     "ethnobotany": "Planted for ornament. Flowers used in floral arrangements. Wood for carving.",
@@ -1670,7 +1670,7 @@
       "Kihaya": "Omuninga",
       "Kizaramo": "Mninga"
     },
-    "category": "Timber",
+    "category": "Timber trees",
     "conservationStatus": "Vulnerable",
     "description": "A valuable timber tree producing red, durable wood. Found in Tanzania's tropical forests.",
     "ethnobotany": "High-quality timber for furniture, construction, and musical instruments.",
@@ -1690,7 +1690,7 @@
       "Kihaya": "Omukole",
       "Kizaramo": "Mkole"
     },
-    "category": "Medicinal",
+    "category": "Medicinal plants",
     "conservationStatus": "Least Concern",
     "description": "A small tree with medicinal properties, used to treat skin conditions and wounds. Found in Tanzania's dry woodlands.",
     "ethnobotany": "Bark and leaves used for skin treatments. Wood for firewood and small crafts.",
@@ -1710,7 +1710,7 @@
       "Kihaya": "Omukole",
       "Kizaramo": "Mkole"
     },
-    "category": "Fruits, Water Source Protection Trees",
+    "category": "Fruits trees, Water Source Protection Trees",
     "conservationStatus": "Least Concern",
     "description": "A climbing shrub or small tree producing sweet, edible fruits. Found along rivers and in forest edges.",
     "ethnobotany": "Fruits eaten fresh. Leaves used as fodder. Bark for traditional medicine.",
@@ -1730,7 +1730,7 @@
       "Kihaya": "Omwahama",
       "Kizaramo": "Mwahama"
     },
-    "category": "Timber",
+    "category": "Timber trees",
     "conservationStatus": "Least Concern",
     "description": "A valuable timber tree producing hard, durable wood. Found in Tanzania's highland forests.",
     "ethnobotany": "Wood for construction, furniture, and carving. Bark used in traditional medicine.",
@@ -1750,7 +1750,7 @@
       "Kihaya": "Omukole",
       "Kizaramo": "Mkole"
     },
-    "category": "Timber",
+    "category": "Timber trees",
     "conservationStatus": "Least Concern",
     "description": "A valuable timber tree producing hard, durable wood. Found in Tanzania's dry woodlands.",
     "ethnobotany": "Wood for construction, furniture, and firewood. Bark used in traditional medicine.",
@@ -1770,7 +1770,7 @@
       "Kihaya": "Omukole",
       "Kizaramo": "Mkole"
     },
-    "category": "Medicinal",
+    "category": "Medicinal plants",
     "conservationStatus": "Least Concern",
     "description": "A small tree with medicinal properties, used to treat fever and digestive problems. Found in Tanzania's dry areas.",
     "ethnobotany": "Bark and leaves for treating fever and stomach issues. Wood for firewood.",
@@ -1790,7 +1790,7 @@
       "Kihaya": "Omuoza",
       "Kizaramo": "Moza"
     },
-    "category": "Shade",
+    "category": "Shade trees",
     "conservationStatus": "Least Concern",
     "description": "A large tree providing excellent shade. Found in Tanzania's dry woodlands and savannas.",
     "ethnobotany": "Provides shade. Wood for carving and construction. Bark for traditional medicine.",
@@ -1810,7 +1810,7 @@
       "Kihaya": "Omukole",
       "Kizaramo": "Mkole"
     },
-    "category": "Fruits",
+    "category": "Fruits trees",
     "conservationStatus": "Least Concern",
     "description": "A spiny tree producing sweet, edible fruits. Found in Tanzania's savanna woodlands.",
     "ethnobotany": "Fruits eaten fresh. Wood for construction. Bark for traditional medicine.",
@@ -1830,7 +1830,7 @@
       "Kihaya": "Omuzambarau",
       "Kizaramo": "Mzambarau"
     },
-    "category": "Fruits, Water Source Protection Trees",
+    "category": "Fruits trees, Water Source Protection Trees",
     "conservationStatus": "Least Concern",
     "description": "A medium-sized tree producing sweet, edible fruits. Found along rivers and in highland forests.",
     "ethnobotany": "Fruits eaten fresh or used in drinks. Wood for construction and furniture.",
@@ -1850,7 +1850,7 @@
       "Kihaya": "Omukwaju",
       "Kizaramo": "Mkwaju"
     },
-    "category": "Fruits",
+    "category": "Fruits trees",
     "conservationStatus": "Least Concern",
     "description": "A large fruit tree producing sweet and sour fruits. Commonly used to make beverages and traditional dishes.",
     "ethnobotany": "Fruits used for food and drinks. Bark for treating diarrhea. Wood for furniture.",
@@ -1870,7 +1870,7 @@
       "Kihaya": "Omukole",
       "Kizaramo": "Mkole"
     },
-    "category": "Medicinal",
+    "category": "Medicinal plants",
     "conservationStatus": "Least Concern",
     "description": "A small tree with medicinal properties, used to treat various ailments. Found in Tanzania's forests.",
     "ethnobotany": "Bark and leaves used in traditional medicine. Wood for firewood and small crafts.",
@@ -1890,7 +1890,7 @@
       "Kihaya": "Omukole",
       "Kizaramo": "Mkole"
     },
-    "category": "Fruits, Timber",
+    "category": "Fruits trees, Timber trees",
     "conservationStatus": "Least Concern",
     "description": "A tree producing oil-rich fruits used in cosmetics and traditional medicine. Found in Tanzania's forests.",
     "ethnobotany": "Fruits used for oil. Bark for traditional medicine. Wood for construction.",
@@ -1910,7 +1910,7 @@
       "Kihaya": "Omukole",
       "Kizaramo": "Mkole"
     },
-    "category": "Fruits",
+    "category": "Fruits trees",
     "conservationStatus": "Least Concern",
     "description": "A medium-sized tree producing sweet, edible fruits. Found in miombo woodlands across Tanzania.",
     "ethnobotany": "Fruits eaten fresh. Wood for construction and furniture. Bark for traditional medicine.",
@@ -1930,7 +1930,7 @@
       "Kihaya": "Omukole",
       "Kizaramo": "Mkole"
     },
-    "category": "Fruits, Water Source Protection Trees",
+    "category": "Fruits trees, Water Source Protection Trees",
     "conservationStatus": "Least Concern",
     "description": "A small tree producing sweet, edible fruits. Found in Tanzania's dry woodlands and savannas.",
     "ethnobotany": "Fruits eaten fresh. Wood for firewood. Bark for traditional medicine.",
@@ -1950,7 +1950,7 @@
       "Kihaya": "Omukole",
       "Kizaramo": "Mkole"
     },
-    "category": "Fruits, Water Source Protection Trees",
+    "category": "Fruits trees, Water Source Protection Trees",
     "conservationStatus": "Least Concern",
     "description": "A tree producing sweet, edible fruits used in traditional dishes. Found in Tanzania's forests and woodlands.",
     "ethnobotany": "Fruits eaten fresh or used in cooking. Wood for construction. Bark for traditional medicine.",
@@ -1970,7 +1970,7 @@
       "Kihaya": "Omukole",
       "Kizaramo": "Mkole"
     },
-    "category": "Fruits",
+    "category": "Fruits trees",
     "conservationStatus": "Least Concern",
     "description": "A small tree producing sour, edible fruits. Found in Tanzania's dry woodlands and savannas.",
     "ethnobotany": "Fruits eaten fresh or used in drinks. Wood for firewood. Bark for traditional medicine.",
@@ -1990,7 +1990,7 @@
       "Kihaya": "Omukunazi",
       "Kizaramo": "Mkunazi"
     },
-    "category": "Fruits, Livestock folders",
+    "category": "Fruits trees, Livestock folders trees",
     "conservationStatus": "Least Concern",
     "description": "A spiny tree producing sweet, edible fruits. Found in Tanzania's savannas and along rivers.",
     "ethnobotany": "Fruits eaten fresh. Wood for fencing and construction. Leaves used as fodder.",
@@ -2010,7 +2010,7 @@
       "Kihaya": "Omujohoro",
       "Kizaramo": "Mjohoro"
     },
-    "category": "Urban and settlement trees, Shade, Bee folders trees",
+    "category": "Urban and settlement trees, Shade trees, Bee folders trees",
     "conservationStatus": "Least Concern",
     "description": "A fast-growing evergreen tree widely planted in urban areas for shade and as a living fence. Common in Morogoro and Dar es Salaam municipalities.",
     "ethnobotany": "Provides excellent shade. Wood used for furniture and construction. Leaves used as green manure. Drought tolerant and adaptable.",
@@ -2030,7 +2030,7 @@
       "Kihaya": "Omurobaini",
       "Kizaramo": "Mwarobaini"
     },
-    "category": "Urban and settlement trees, Medicinal, Shade",
+    "category": "Urban and settlement trees, Medicinal plants, Shade trees",
     "conservationStatus": "Least Concern",
     "description": "One of the most common urban trees in Tanzania. Provides shade, medicinal properties, and natural pest control. Dominant in Dar es Salaam's urban forests.",
     "ethnobotany": "Kivuli, dawa ya malaria na ngozi, kukinga wadudu. Known as the 'village pharmacy'.",
@@ -2050,7 +2050,7 @@
       "Kihaya": "Omuti wa dangling",
       "Kizaramo": "Mti wa dangling"
     },
-    "category": "Urban and settlement trees, Shade",
+    "category": "Urban and settlement trees, Shade trees",
     "conservationStatus": "Least Concern",
     "description": "A tall, slender tree widely planted along roadsides and in urban gardens. Provides excellent shade without damaging pavements.",
     "ethnobotany": "Mapambo na kivuli, mti huu hauna mizizi inayoharibu miundo.",
@@ -2070,7 +2070,7 @@
       "Kihaya": "Omuleuca",
       "Kizaramo": "Mleuca"
     },
-    "category": "Urban and settlement trees, Agroforestry, Livestock folders",
+    "category": "Urban and settlement trees, Agroforestry trees, Livestock folders trees",
     "conservationStatus": "Least Concern",
     "description": "A fast-growing tree used for shade, fodder, and timber. Common in Morogoro Municipality and urban areas of Tanzania.",
     "ethnobotany": "Kivuli, malisho kwa mifugo, mbao kwa kuni, majani ni mbolea.",
@@ -2090,7 +2090,7 @@
       "Kihaya": "Omukwaju mwitu",
       "Kizaramo": "Mkwaju mwitu"
     },
-    "category": "Urban and settlement trees, Fruits",
+    "category": "Urban and settlement trees, Fruits trees",
     "conservationStatus": "Least Concern",
     "description": "A fast-growing tree providing shade and edible fruits. Common in urban areas and settlements across Tanzania.",
     "ethnobotany": "Kivuli, matunda huliwa, gome hutumika kwa dawa.",
@@ -2110,7 +2110,7 @@
       "Kihaya": "Omukwaju",
       "Kizaramo": "Mkwaju"
     },
-    "category": "Urban and settlement trees, Shade, Fruits",
+    "category": "Urban and settlement trees, Shade trees, Fruits trees",
     "conservationStatus": "Least Concern",
     "description": "A popular shade tree in Zanzibar and coastal cities. Provides biocooling benefits and is well-adapted to urban environments.",
     "ethnobotany": "Kivuli kikubwa, matunda huliwa, majani hutumika kwa dawa za ini.",
@@ -2130,7 +2130,7 @@
       "Kihaya": "Omumelia",
       "Kizaramo": "Mmelia"
     },
-    "category": "Urban and settlement trees, Shade",
+    "category": "Urban and settlement trees, Shade trees",
     "conservationStatus": "Least Concern",
     "description": "A popular ornamental tree in towns, providing quick shade. Recommended for fuel and pole production in dry areas of Tanzania.",
     "ethnobotany": "Firewood, poles, timber (furniture), medicine (leaves), bee forage, shade, ornamental, insecticide.",
@@ -2150,7 +2150,7 @@
       "Kihaya": "Omwembe",
       "Kizaramo": "Mwembe"
     },
-    "category": "Urban and settlement trees, Fruits, Shade",
+    "category": "Urban and settlement trees, Fruits trees, Shade trees",
     "conservationStatus": "Least Concern",
     "description": "One of the most common fruit and shade trees in urban areas. Provides food, shade, and cooling benefits in cities.",
     "ethnobotany": "Matunda huliwa, kivuli, majani hutumika kwa sherehe.",
@@ -2170,7 +2170,7 @@
       "Kihaya": "Omuzingiri",
       "Kizaramo": "Mzingiri"
     },
-    "category": "Urban and settlement trees, Shade, Timber",
+    "category": "Urban and settlement trees, Shade trees, Timber trees",
     "conservationStatus": "Least Concern",
     "description": "A large shade tree planted in urban squares, schools, and settlements. Provides excellent cooling and shade.",
     "ethnobotany": "Kivuli kikubwa, mbao kwa samani, majani kama malisho.",
@@ -2190,7 +2190,7 @@
       "Kihaya": "Omujasmine",
       "Kizaramo": "Mjasmine"
     },
-    "category": "Urban and settlement trees, Ornamental",
+    "category": "Urban and settlement trees, Ornamental trees",
     "conservationStatus": "Least Concern",
     "description": "A common street tree in Dar es Salaam. Has fragrant white flowers that open at night and provides good shade.",
     "ethnobotany": "Planted for ornament and shade. Flowers have a pleasant fragrance.",
@@ -2210,7 +2210,7 @@
       "Kihaya": "Omukole",
       "Kizaramo": "Mkole"
     },
-    "category": "Urban and settlement trees, Livestock folders",
+    "category": "Urban and settlement trees, Livestock folders trees",
     "conservationStatus": "Least Concern",
     "description": "A hardy shrub or tree with bright yellow flowers. Suitable for home yards, open spaces, and hedging in urban areas.",
     "ethnobotany": "Medicinal plant, fruits are edible, used for hedging. Good for planting in home yards.",
@@ -2230,7 +2230,7 @@
       "Kihaya": "Omukakaya",
       "Kizaramo": "Mkakaya"
     },
-    "category": "Urban and settlement trees, Ornamental",
+    "category": "Urban and settlement trees, Ornamental trees",
     "conservationStatus": "Least Concern",
     "description": "A shrub or small tree with bright yellow flowers and red sepals. Native to East Africa and popular as an ornamental plant.",
     "ethnobotany": "Planted for ornament. Attractive flowers and fruits.",
@@ -2250,7 +2250,7 @@
       "Kihaya": "Omuguvani",
       "Kizaramo": "Muguvani"
     },
-    "category": "Urban and settlement trees, Bee folders trees, Ornamental",
+    "category": "Urban and settlement trees, Bee folders trees, Ornamental trees",
     "conservationStatus": "Least Concern",
     "description": "A shrub or small to medium tree with striking yellow flowers. Suitable for planting in town reserves and home gardens.",
     "ethnobotany": "Used for hedging and ornamental purposes. Attracts bees and birds.",
@@ -2270,7 +2270,7 @@
       "Kihaya": "Omugama",
       "Kizaramo": "Mgama"
     },
-    "category": "Urban and settlement trees, Shade",
+    "category": "Urban and settlement trees, Shade trees",
     "conservationStatus": "Least Concern",
     "description": "A shrub or branched tree up to 20 m tall. Suitable for planting in home gardens and town reserves.",
     "ethnobotany": "Provides shade and ornamental value. Wood used for construction.",
@@ -2290,7 +2290,7 @@
       "Kihaya": "Omu Mitakawa",
       "Kizaramo": "Mitakawa"
     },
-    "category": "Urban and settlement trees, Ornamental",
+    "category": "Urban and settlement trees, Ornamental trees",
     "conservationStatus": "Least Concern",
     "description": "A flowering coastal tree up to 10 m in height. Good for planting in town reserves and public spaces.",
     "ethnobotany": "Provides shade and ornamental yellow flowers. Wood used for construction.",
@@ -2310,7 +2310,7 @@
       "Kihaya": "Omukenge",
       "Kizaramo": "Mkenge"
     },
-    "category": "Urban and settlement trees, Shade, Bee folders trees",
+    "category": "Urban and settlement trees, Shade trees, Bee folders trees",
     "conservationStatus": "Least Concern",
     "description": "A deciduous tree or shrub up to 20m tall. Suitable for planting in open spaces such as school yards or hospital precincts.",
     "ethnobotany": "Good shade tree. Wood for construction and furniture.",
@@ -2330,7 +2330,7 @@
       "Kihaya": "Omutomoko",
       "Kizaramo": "Mtomoko"
     },
-    "category": "Urban and settlement trees, Fruits",
+    "category": "Urban and settlement trees, Fruits trees",
     "conservationStatus": "Least Concern",
     "description": "A shrub or small tree with attractive edible fruits. Suitable for home gardens, public open spaces, and town reserves.",
     "ethnobotany": "Fruits eaten fresh, leaves and roots used for treating fever.",
@@ -2390,7 +2390,7 @@
       "Kihaya": "Omupande",
       "Kizaramo": "Mpande"
     },
-    "category": "Urban and settlement trees, Ornamental",
+    "category": "Urban and settlement trees, Ornamental trees",
     "conservationStatus": "Least Concern",
     "description": "A rare tree that grows very well and fast, with sweet-smelling flowers. Suitable for town reserves and botanical gardens.",
     "ethnobotany": "Ornamental tree with fragrant flowers. Timber for carving.",
@@ -2510,7 +2510,7 @@
       "Kihaya": "Omung'unga",
       "Kizaramo": "Mng'unga"
     },
-    "category": "Urban and settlement trees, Fruits",
+    "category": "Urban and settlement trees, Fruits trees",
     "conservationStatus": "Least Concern",
     "description": "A shrub or small tree with attractive fruit. Useful in hedging and border-planting in urban gardens.",
     "ethnobotany": "Attractive fruit. Used for hedging and border-planting.",
@@ -2550,7 +2550,7 @@
       "Kihaya": "Omu memandembo",
       "Kizaramo": "Memandembo"
     },
-    "category": "Urban and settlement trees, Ornamental",
+    "category": "Urban and settlement trees, Ornamental trees",
     "conservationStatus": "Least Concern",
     "description": "An ornamental shrub with yellow resin. Good for home and botanical gardens in urban areas.",
     "ethnobotany": "Ornamental shrub for home and botanical gardens.",
@@ -2570,7 +2570,7 @@
       "Kihaya": "Omugongonyoka",
       "Kizaramo": "Mgongonyoka"
     },
-    "category": "Urban and settlement trees, Ornamental",
+    "category": "Urban and settlement trees, Ornamental trees",
     "conservationStatus": "Least Concern",
     "description": "A plant that should replace the commonly grown Chinese hibiscus. Always flowering with showy flowers. Suitable for road islands and home gardens.",
     "ethnobotany": "Ornamental plant with showy, always-blooming flowers.",
@@ -2650,7 +2650,7 @@
       "Kihaya": "Omukenge",
       "Kizaramo": "Mkenge"
     },
-    "category": "Bee folders trees, Shade",
+    "category": "Bee folders trees, Shade trees",
     "conservationStatus": "Least Concern",
     "description": "A deciduous tree up to 20m tall. Its flowers are a rich source of nectar and pollen for honey bees [citation:1][citation:3].",
     "ethnobotany": "Provides timber for construction and furniture. Bark used in traditional medicine.",
@@ -2830,7 +2830,7 @@
       "Kihaya": "Omutomoko mwitu",
       "Kizaramo": "Mtomoko mwitu"
     },
-    "category": "Bee folders trees, Fruits",
+    "category": "Bee folders trees, Fruits trees",
     "conservationStatus": "Least Concern",
     "description": "A shrub with edible fruits and fragrant white flowers. The flowers attract bees, making it a valuable forage plant [citation:3].",
     "ethnobotany": "Fruits eaten fresh. Roots used in traditional medicine to treat stomach issues.",
@@ -3070,7 +3070,7 @@
       "Kihaya": "Omukombi",
       "Kizaramo": "Mkombi"
     },
-    "category": "Bee folders trees, Medicinal",
+    "category": "Bee folders trees, Medicinal plants",
     "conservationStatus": "Least Concern",
     "description": "A tree with a distinctive umbrella-shaped canopy. Its flowers are a source of nectar for honey bees [citation:1][citation:3].",
     "ethnobotany": "Wood used for construction. Roots and bark used in traditional medicine.",
@@ -3750,7 +3750,7 @@
       "Kihaya": "Omugunga wa Australia",
       "Kizaramo": "Mgunga wa Australia"
     },
-    "category": "Semi-Arid and Reforestation Trees, Arid Forest Trees and Shrubs",
+    "category": "Semi-Arid reforestation trees",
     "conservationStatus": "Least Concern",
     "description": "A small, drought-tolerant tree from Australia, valued for its hard, durable wood used for posts and poles. It is highly adaptable to arid and semi-arid conditions and is often used in reforestation projects in dry areas.",
     "ethnobotany": "Wood is used for fencing, construction, and fuel. Provides shade and shelter in harsh environments.",
@@ -3770,7 +3770,7 @@
       "Kihaya": "Omugunga Mwavuli",
       "Kizaramo": "Mgunga Mwavuli"
     },
-    "category": "Semi-Arid and Reforestation Trees, Arid Forest Trees and Shrubs",
+    "category": "Semi-Arid reforestation trees",
     "conservationStatus": "Least Concern",
     "description": "A small tree or shrub native to Australia, commonly found on sandy loam soils. It produces small wood items and is valued for its durable timber.",
     "ethnobotany": "Wood is used for fencing, fuel, and small crafts. Provides shade in open woodlands.",
@@ -3790,7 +3790,7 @@
       "Kihaya": "Omugunga Gidgee",
       "Kizaramo": "Mgunga Gidgee"
     },
-    "category": "Arid Forest Trees and Shrubs, Timber",
+    "category": "Arid Forest Trees and Shrubs, Timber trees",
     "conservationStatus": "Least Concern",
     "description": "A spreading tree native to arid parts of Australia, known for its very hard, termite-resistant wood. The wood is highly valued for posts and fencing.",
     "ethnobotany": "Wood is used for fencing, posts, and fuel. The tree is nitrogen-fixing and improves soil fertility.",
@@ -3810,7 +3810,7 @@
       "Kihaya": "Omugunga Mto Jackson",
       "Kizaramo": "Mgunga Mto Jackson"
     },
-    "category": "Semi-Arid and Reforestation Trees, Urban and settlement trees",
+    "category": "Semi-Arid Reforestation Trees, Urban and settlement trees",
     "conservationStatus": "Least Concern",
     "description": "An Australian tree widely used for sand dune stabilization, windbreaks, and shelterbelts. It is highly adaptable to dry and saline conditions.",
     "ethnobotany": "Used for erosion control, shade, and as a windbreak. Provides habitat for birds and insects.",
@@ -3830,7 +3830,7 @@
       "Kihaya": "Omugunga Pwani",
       "Kizaramo": "Mgunga Pwani"
     },
-    "category": "Semi-Arid and Reforestation Trees, Urban and settlement trees",
+    "category": "Semi-Arid Reforestation Trees, Urban and settlement trees",
     "conservationStatus": "Least Concern",
     "description": "A coastal shrub or small tree native to Australia, used for sand dune stabilization and as a windbreak. It has distinctive red-eyed seeds.",
     "ethnobotany": "Used for erosion control, shade, and as a hedge plant. Provides food for birds and wildlife.",
@@ -3850,7 +3850,7 @@
       "Kihaya": "Omugunga Tamu",
       "Kizaramo": "Mgunga Tamu"
     },
-    "category": "Semi-Arid and Reforestation Trees, Ornamental",
+    "category": "Semi-Arid Reforestation Trees, Ornamental trees",
     "conservationStatus": "Least Concern",
     "description": "A small tree or shrub with fragrant yellow flowers, used for posts, hedges, and tannin production. Native to tropical America but now pantropical.",
     "ethnobotany": "Used for perfume, tannin extraction, hedging, and as an ornamental plant.",
@@ -3870,7 +3870,7 @@
       "Kihaya": "Omugunga Victoria",
       "Kizaramo": "Mgunga Victoria"
     },
-    "category": "Semi-Arid and Reforestation Trees, Livestock folders",
+    "category": "Semi-Arid Reforestation Trees, Livestock folders trees",
     "conservationStatus": "Least Concern",
     "description": "A small tree or shrub with moderate fuel value and good fodder value, native to Australia. Useful for reforestation and livestock forage in dry areas.",
     "ethnobotany": "Fodder for livestock, wood for fuel and fencing.",
@@ -3890,7 +3890,7 @@
       "Kihaya": "Omukingu",
       "Kizaramo": "Mkingu"
     },
-    "category": "Timber, Shade, Agroforestry",
+    "category": "Timber trees, Shade trees, Agroforestry trees",
     "conservationStatus": "Least Concern",
     "description": "A large, fast-growing tree with a spreading canopy, used for lumber, furniture, and soil improvement. Its leaves are used as manure and it is a valuable shade tree.",
     "ethnobotany": "High-quality timber for furniture and construction. Leaves provide excellent green manure.",
@@ -3910,7 +3910,7 @@
       "Kihaya": "Omukongo",
       "Kizaramo": "Mkongo"
     },
-    "category": "Timber, Medicinal",
+    "category": "Timber trees, Medicinal plants",
     "conservationStatus": "Least Concern",
     "description": "A tall deciduous tree native to African savannas, valued for its durable wood and tannin-rich leaves and bark. It is used for roundwood and traditional medicine.",
     "ethnobotany": "Wood for construction and furniture. Leaves and bark used for tanning and treating various ailments.",
@@ -3930,7 +3930,7 @@
       "Kihaya": "Omukongo Mweupe",
       "Kizaramo": "Mkongo Mweupe"
     },
-    "category": "Timber, Forest",
+    "category": "Timber trees, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A tree with hard, durable wood, used for roundwood, gum, and tannin production. It is also a host for silkworms and has multiple uses in traditional forestry.",
     "ethnobotany": "Timber for construction, gum for food and medicine, leaves for silkworm rearing.",
@@ -3950,7 +3950,7 @@
       "Kihaya": "Omukokobara",
       "Kizaramo": "Mkokobara"
     },
-    "category": "Arid Forest Trees and Shrubs, Fruits",
+    "category": "Arid Forest Trees and Shrubs trees, Fruits trees",
     "conservationStatus": "Endangered",
     "description": "An endemic tree from Morocco, highly valued for its oil-rich seeds and hard, durable wood. It is a key species for combating desertification.",
     "ethnobotany": "Seeds used to produce argan oil, a highly prized cosmetic and culinary oil. Wood for construction and fuel.",
@@ -3970,7 +3970,7 @@
       "Kihaya": "Omukichaa",
       "Kizaramo": "Mkichaa"
     },
-    "category": "Arid Forest Trees and Shrubs, Livestock folders",
+    "category": "Arid Forest Trees and Shrubs, Livestock folders trees",
     "conservationStatus": "Least Concern",
     "description": "A hardy, salt-tolerant shrub native to North America, used for windbreaks, shelterbelts, and as a valuable fodder plant for livestock in arid regions.",
     "ethnobotany": "Fodder for livestock, especially during droughts. Used for erosion control and soil stabilization.",
@@ -3990,7 +3990,7 @@
       "Kihaya": "Omukichaa Mkuu",
       "Kizaramo": "Mkichaa Mkuu"
     },
-    "category": "Arid Forest Trees and Shrubs, Livestock folders",
+    "category": "Arid Forest Trees and Shrubs, Livestock folders trees",
     "conservationStatus": "Least Concern",
     "description": "A large, drought-tolerant shrub native to Australia, used for fodder, windbreaks, and sand dune stabilization. It is highly adaptable to arid and saline environments.",
     "ethnobotany": "Fodder for livestock, especially during dry periods. Used for windbreaks and soil stabilization.",
@@ -4010,7 +4010,7 @@
       "Kihaya": "Omukichaa Mediterranean",
       "Kizaramo": "Mkichaa Mediterranean"
     },
-    "category": "Arid Forest Trees and Shrubs, Livestock folders",
+    "category": "Arid Forest Trees and Shrubs, Livestock folders trees",
     "conservationStatus": "Least Concern",
     "description": "A salt-tolerant shrub from the Mediterranean region, widely used for fodder, windbreaks, and shelterbelts. It is highly drought-resistant and thrives in saline soils.",
     "ethnobotany": "Fodder for livestock, especially in dry and saline areas. Used for windbreaks and soil conservation.",
@@ -4030,7 +4030,7 @@
       "Kihaya": "Omuchunju",
       "Kizaramo": "Mchunju"
     },
-    "category": "Arid Forest Trees and Shrubs, Fruits",
+    "category": "Arid Forest Trees and Shrubs, Fruits trees",
     "conservationStatus": "Least Concern",
     "description": "A hardy tree with edible fruits and oil-rich seeds, adapted to desert and semi-arid conditions. It is a vital species for food security and reforestation in dry areas.",
     "ethnobotany": "Fruits eaten fresh, oil extracted for medicine and cooking. Wood for construction and fuel.",
@@ -4050,7 +4050,7 @@
       "Kihaya": "Omukubani",
       "Kizaramo": "Mkubani"
     },
-    "category": "Arid Forest Trees and Shrubs, Medicinal",
+    "category": "Arid Forest Trees and Shrubs, Medicinal plants",
     "conservationStatus": "Vulnerable",
     "description": "A tree native to the Horn of Africa, renowned for its aromatic resin (frankincense), which is used in religious ceremonies and traditional medicine. It is a key species for dryland forestry.",
     "ethnobotany": "Resin used as incense and in traditional medicine. Wood for fuel and construction.",
@@ -4070,7 +4070,7 @@
       "Kihaya": "Omukurrajong",
       "Kizaramo": "Mkurrajong"
     },
-    "category": "Arid Forest Trees and Shrubs, Ornamental",
+    "category": "Arid Forest Trees and Shrubs, Ornamental trees",
     "conservationStatus": "Least Concern",
     "description": "A drought-tolerant tree native to Australia, known for its attractive foliage and bottle-shaped trunk. It is widely used as an ornamental tree in arid and semi-arid regions.",
     "ethnobotany": "Planted for shade and ornament. Provides habitat for wildlife.",
@@ -4090,7 +4090,7 @@
       "Kihaya": "Omupinusi Mweupe",
       "Kizaramo": "Mpinusi Mweupe"
     },
-    "category": "Timber, Shade",
+    "category": "Timber trees, Shade trees",
     "conservationStatus": "Least Concern",
     "description": "A conifer native to Australia, producing durable, termite-resistant timber. It is used for posts, poles, housebuilding, and windbreaks.",
     "ethnobotany": "Timber for construction and fencing. Used for windbreaks and shelterbelts.",
@@ -4110,7 +4110,7 @@
       "Kihaya": "Omuchunzi",
       "Kizaramo": "Mchunzi"
     },
-    "category": "Medicinal, Ornamental",
+    "category": "Medicinal plants, Ornamental trees",
     "conservationStatus": "Least Concern",
     "description": "A shrub or small tree native to India, used for tannin production, tea, and as a hedge plant. It is also valued in traditional medicine.",
     "ethnobotany": "Leaves and pods used for tanning. Flowers used for tea. Bark used in traditional medicine.",
@@ -4130,7 +4130,7 @@
       "Kihaya": "Omuchunzi Sturt",
       "Kizaramo": "Mchunzi Sturt"
     },
-    "category": "Semi-Arid and Reforestation Trees, Livestock folders",
+    "category": "Semi-Arid Reforestation Trees, Livestock folders trees",
     "conservationStatus": "Least Concern",
     "description": "A drought-tolerant shrub native to Australia, used for fodder and as a windbreak. It has moderate fuel value and good fodder value for livestock.",
     "ethnobotany": "Fodder for livestock, especially during dry periods. Used for erosion control.",
@@ -4150,7 +4150,7 @@
       "Kihaya": "Omuvinje",
       "Kizaramo": "Mvinje"
     },
-    "category": "Timber, Agroforestry",
+    "category": "Timber trees, Agroforestry trees",
     "conservationStatus": "Least Concern",
     "description": "A fast-growing tree widely used for sand dune stabilization, windbreaks, and timber production. Its wood is hard and durable, and it is an excellent species for coastal and dryland reforestation.",
     "ethnobotany": "Timber for construction, fencing, and fuel. Used for erosion control and windbreaks.",
@@ -4170,7 +4170,7 @@
       "Kihaya": "Omuvinje Mto",
       "Kizaramo": "Mvinje Mto"
     },
-    "category": "Timber, Shade",
+    "category": "Timber trees, Shade trees",
     "conservationStatus": "Least Concern",
     "description": "A fast-growing tree native to Australia, used for windbreaks, shade, and timber. It is adapted to a wide range of conditions and is often planted along rivers.",
     "ethnobotany": "Timber for construction and fencing. Provides excellent shade in parks and along roads.",
@@ -4190,7 +4190,7 @@
       "Kihaya": "Omukarubu",
       "Kizaramo": "Mkarubu"
     },
-    "category": "Fruits, Agroforestry",
+    "category": "Fruits trees, Agroforestry trees",
     "conservationStatus": "Least Concern",
     "description": "A drought-tolerant tree native to the Mediterranean region, producing edible pods used for food and animal feed. It is also valued for its honey production and soil conservation benefits.",
     "ethnobotany": "Pods used for food, animal feed, and as a chocolate substitute. Honey produced from its flowers.",
@@ -4210,7 +4210,7 @@
       "Kihaya": "Omopane",
       "Kizaramo": "Mopane"
     },
-    "category": "Timber, Forest",
+    "category": "Timber trees, Miombo woodlands trees",
     "conservationStatus": "Least Concern",
     "description": "A distinctive tree native to southern Africa, known for its hard, durable wood and butterfly-shaped leaves. It is used for roundwood, carvings, and fuel.",
     "ethnobotany": "Timber for construction, furniture, and carvings. Leaves used as fodder for livestock.",
@@ -4230,7 +4230,7 @@
       "Kihaya": "Omukongokongo",
       "Kizaramo": "Mkongokongo"
     },
-    "category": "Timber, Urban and settlement trees",
+    "category": "Timber trees, Urban and settlement trees",
     "conservationStatus": "Least Concern",
     "description": "A tree native to coastal regions of Africa and the Middle East, known for its hard, durable wood used in shipbuilding and construction. It also provides excellent shade.",
     "ethnobotany": "Timber for construction, shipbuilding, and furniture. Planted for shade in urban areas.",
@@ -4250,7 +4250,7 @@
       "Kihaya": "Omuchokochoko",
       "Kizaramo": "Mchokochoko"
     },
-    "category": "Arid Forest Trees and Shrubs, Fruits",
+    "category": "Arid Forest Trees and Shrubs, Fruits trees",
     "conservationStatus": "Vulnerable",
     "description": "A drought-tolerant shrub native to the Horn of Africa, producing edible seeds that are a valuable food source in arid regions. It is a key species for dryland food security.",
     "ethnobotany": "Seeds eaten as a staple food during droughts. Wood used for fuel and construction.",
@@ -4270,7 +4270,7 @@
       "Kihaya": "Omupinusi Arizona",
       "Kizaramo": "Mpinusi Arizona"
     },
-    "category": "Timber, Shade",
+    "category": "Shade trees",
     "conservationStatus": "Least Concern",
     "description": "A conifer native to North America, used for windbreaks, shelterbelts, and timber. It is drought-tolerant and well-adapted to dry conditions.",
     "ethnobotany": "Timber for construction and fencing. Used for windbreaks and as an ornamental tree.",
@@ -4290,7 +4290,7 @@
       "Kihaya": "Omupinusi Mediterranean",
       "Kizaramo": "Mpinusi Mediterranean"
     },
-    "category": "Timber, Ornamental",
+    "category": "Ornamental trees",
     "conservationStatus": "Least Concern",
     "description": "A tall, narrow conifer native to the Mediterranean region, used for timber, carpentry, and furniture. It is also widely planted as an ornamental tree in dry climates.",
     "ethnobotany": "Timber for construction and furniture. Planted for ornament and as a windbreak.",
@@ -4310,7 +4310,7 @@
       "Kihaya": "Omusanduku",
       "Kizaramo": "Msanduku"
     },
-    "category": "Timber, Agroforestry",
+    "category": "Timber trees, Agroforestry trees",
     "conservationStatus": "Least Concern",
     "description": "A fast-growing tree native to the Indian subcontinent, valued for its high-quality timber used in furniture and building construction. It is also used for posts and soil improvement.",
     "ethnobotany": "Timber for furniture, flooring, and construction. Leaves used as fodder.",
@@ -4330,7 +4330,7 @@
       "Kihaya": "Omutunduru",
       "Kizaramo": "Mtunduru"
     },
-    "category": "Semi-Arid and Reforestation Trees",
+    "category": "Semi-Arid Reforestation Trees",
     "conservationStatus": "Least Concern",
     "description": "A thorny shrub or small tree adapted to semi-arid conditions, used for reforestation, erosion control, and sand dune stabilization.",
     "ethnobotany": "Leaves used as livestock fodder. Wood for high-quality firewood and charcoal. Used as a natural fence.",
@@ -4350,7 +4350,7 @@
       "Kihaya": "Omukaratusi",
       "Kizaramo": "Mkaratusi"
     },
-    "category": "Timber, Shade",
+    "category": "Timber trees, Shade trees",
     "conservationStatus": "Least Concern",
     "description": "A large tree native to Australia, widely planted for timber, honey production, windbreaks, and shelterbelts. It is one of the most widely planted eucalyptus species in the world.",
     "ethnobotany": "Timber for construction, furniture, and fuel. Excellent source of nectar for honey production.",
@@ -4370,7 +4370,7 @@
       "Kihaya": "Omukaratusi Tuart",
       "Kizaramo": "Mkaratusi Tuart"
     },
-    "category": "Timber, Urban and settlement trees",
+    "category": "Timber trees",
     "conservationStatus": "Least Concern",
     "description": "A tall tree native to Western Australia, valued for its hard, durable timber and its use in construction, windbreaks, and roadside plantations.",
     "ethnobotany": "Timber for construction and furniture. Used for windbreaks and roadside plantings.",
@@ -4390,7 +4390,7 @@
       "Kihaya": "Omukaratusi Salmon",
       "Kizaramo": "Mkaratusi Salmon"
     },
-    "category": "Timber, Shade",
+    "category": "Timber trees, Shade trees",
     "conservationStatus": "Least Concern",
     "description": "A medium-sized tree native to Australia, valued for its durable wood and use in roundwood, windbreaks, and roadside plantations.",
     "ethnobotany": "Timber for construction and fuel. Used for windbreaks and shade.",
@@ -4410,7 +4410,7 @@
       "Kihaya": "Omugugu",
       "Kizaramo": "Mgugu"
     },
-    "category": "Agroforestry, Shade",
+    "category": "Agroforestry trees, Shade trees",
     "conservationStatus": "Least Concern",
     "description": "A fast-growing tree native to North America, valued for its durable wood, windbreaks, and as a fodder tree. Its pods are rich in sugar and are used as animal feed.",
     "ethnobotany": "Pods used as animal feed. Timber for construction and fencing. Used for windbreaks and shade.",
@@ -4430,7 +4430,7 @@
       "Kihaya": "Omukalasini",
       "Kizaramo": "Mkalasini"
     },
-    "category": "Arid Forest Trees and Shrubs, Agroforestry",
+    "category": "Arid Forest Trees and Shrubs, Agroforestry trees",
     "conservationStatus": "Least Concern",
     "description": "A drought-tolerant shrub or small tree native to Central Asia, used for windbreaks, shelterbelts, and as a source of fuel and fodder.",
     "ethnobotany": "Fuelwood and fodder for livestock. Used for windbreaks and sand dune stabilization.",
@@ -4450,7 +4450,7 @@
       "Kihaya": "Omukalasini Mweupe",
       "Kizaramo": "Mkalasini Mweupe"
     },
-    "category": "Arid Forest Trees and Shrubs, Agroforestry",
+    "category": "Arid Forest Trees and Shrubs, Agroforestry trees",
     "conservationStatus": "Least Concern",
     "description": "A drought-tolerant tree native to Central Asia, used for sand dune stabilization, windbreaks, and as a source of fuel and fodder.",
     "ethnobotany": "Fuelwood and fodder for livestock. Used for sand dune stabilization and windbreaks.",
@@ -4470,7 +4470,7 @@
       "Kihaya": "Omureteni Utah",
       "Kizaramo": "Mreteni Utah"
     },
-    "category": "Timber, Forest",
+    "category": "Timber trees, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A conifer native to the western United States, used for posts, poles, and as a source of berries for wildlife food. It is also used in windbreaks and shelterbelts.",
     "ethnobotany": "Timber for posts and fencing. Berries provide food for birds and wildlife.",
@@ -4490,7 +4490,7 @@
       "Kihaya": "Omureteni Moja",
       "Kizaramo": "Mreteni Moja"
     },
-    "category": "Timber, Forest",
+    "category": "Timber trees, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A conifer native to the southwestern United States, used for posts, poles, and as a source of berries for wildlife. It is also used in windbreaks and shelterbelts.",
     "ethnobotany": "Timber for posts and fencing. Berries provide food for birds and wildlife.",
@@ -4510,7 +4510,7 @@
       "Kihaya": "Omureteni Mamba",
       "Kizaramo": "Mreteni Mamba"
     },
-    "category": "Timber, Forest",
+    "category": "Timber trees, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A conifer native to the southwestern United States and Mexico, used for posts, poles, and as a source of berries for wildlife.",
     "ethnobotany": "Timber for posts and fencing. Berries provide food for birds and wildlife.",
@@ -4530,7 +4530,7 @@
       "Kihaya": "Omureteni Rocky",
       "Kizaramo": "Mreteni Rocky"
     },
-    "category": "Timber, Shade",
+    "category": "Timber trees, Shade trees",
     "conservationStatus": "Least Concern",
     "description": "A conifer native to North America, used for posts, poles, windbreaks, and shelterbelts. Its berries provide food for wildlife.",
     "ethnobotany": "Timber for posts and fencing. Used for windbreaks and shelterbelts.",
@@ -4550,7 +4550,7 @@
       "Kihaya": "Omukababu",
       "Kizaramo": "Mkababu"
     },
-    "category": "Semi-Arid and Reforestation Trees, Arid Forest Trees and Shrubs",
+    "category": "Semi-Arid Reforestation Trees, Arid Forest Trees and Shrubs",
     "conservationStatus": "Least Concern",
     "description": "A drought-tolerant tree native to the Americas, used for soil fixation, erosion control, and as a source of shade and fodder.",
     "ethnobotany": "Used for erosion control and soil stabilization. Provides shade and fodder for livestock.",
@@ -4570,7 +4570,7 @@
       "Kihaya": "Omusonobari Aleppo",
       "Kizaramo": "Msonobari Aleppo"
     },
-    "category": "Timber, Forest",
+    "category": "Timber trees",
     "conservationStatus": "Least Concern",
     "description": "A drought-tolerant pine native to the Mediterranean region, used for construction material, resin production, and soil conservation.",
     "ethnobotany": "Timber for construction and furniture. Resin used for turpentine production.",
@@ -4590,7 +4590,7 @@
       "Kihaya": "Omukwaju mwitu",
       "Kizaramo": "Mkwaju mwitu"
     },
-    "category": "Fruits, Shade",
+    "category": "Fruits trees, Shade trees",
     "conservationStatus": "Least Concern",
     "description": "A fast-growing tree used for shade, hedges, and edible fruits. It is drought-tolerant and widely planted in tropical and subtropical regions.",
     "ethnobotany": "Fruits eaten fresh. Wood used for fencing and construction. Bark used in traditional medicine.",
@@ -4610,7 +4610,7 @@
       "Kihaya": "Omukwaju Chile",
       "Kizaramo": "Mkwaju Chile"
     },
-    "category": "Arid Forest Trees and Shrubs, Agroforestry",
+    "category": "Arid Forest Trees and Shrubs, Agroforestry trees",
     "conservationStatus": "Least Concern",
     "description": "A drought-tolerant tree native to South America, valued for its hard, durable wood and its use in soil conservation, sand dune stabilization, and agroforestry.",
     "ethnobotany": "Timber for fencing and construction. Pods used as animal feed. Used for erosion control.",
@@ -4630,7 +4630,7 @@
       "Kihaya": "Omukwaju India",
       "Kizaramo": "Mkwaju India"
     },
-    "category": "Arid Forest Trees and Shrubs, Agroforestry",
+    "category": "Arid Forest Trees and Shrubs, Agroforestry trees",
     "conservationStatus": "Least Concern",
     "description": "A drought-tolerant tree native to India, used for soil improvement, agroforestry, and as a source of timber and fodder.",
     "ethnobotany": "Timber for construction and fuel. Pods used as animal feed. Leaves used as green manure.",
@@ -4650,7 +4650,7 @@
       "Kihaya": "Omukwaju Tamarugo",
       "Kizaramo": "Mkwaju Tamarugo"
     },
-    "category": "Arid Forest Trees and Shrubs, Timber",
+    "category": "Arid Forest Trees and Shrubs, Timber trees",
     "conservationStatus": "Least Concern",
     "description": "A drought-tolerant tree native to the Atacama Desert in Chile, used for furniture, timber, and as a source of fodder. It is highly adapted to extreme arid conditions.",
     "ethnobotany": "Timber for furniture and construction. Pods used as animal feed.",
@@ -4670,7 +4670,7 @@
       "Kihaya": "Omwaloni Arizona",
       "Kizaramo": "Mwaloni Arizona"
     },
-    "category": "Timber, Forest",
+    "category": "Timber trees",
     "conservationStatus": "Least Concern",
     "description": "An oak tree native to the southwestern United States, valued for its hard, durable timber and its ability to thrive in dry, mountainous regions.",
     "ethnobotany": "Timber for construction, furniture, and fencing. Acorns provide food for wildlife.",
@@ -4690,7 +4690,7 @@
       "Kihaya": "Omwaloni Emory",
       "Kizaramo": "Mwaloni Emory"
     },
-    "category": "Timber, Forest",
+    "category": "Timber trees",
     "conservationStatus": "Least Concern",
     "description": "An oak tree native to the southwestern United States, valued for its hard, durable timber and its edible acorns, which were a staple food for Native Americans.",
     "ethnobotany": "Timber for construction and fencing. Acorns used as food.",
@@ -4710,7 +4710,7 @@
       "Kihaya": "Omwaloni Gambel",
       "Kizaramo": "Mwaloni Gambel"
     },
-    "category": "Timber, Forest",
+    "category": "Timber trees, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "An oak tree native to the western United States, valued for its hard, durable timber used for posts and fencing.",
     "ethnobotany": "Timber for posts and fencing. Acorns provide food for wildlife.",
@@ -4730,7 +4730,7 @@
       "Kihaya": "Omwaloni Fedha",
       "Kizaramo": "Mwaloni Fedha"
     },
-    "category": "Timber, Forest",
+    "category": "Timber trees, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "An oak tree native to the southwestern United States, valued for its hard, durable timber and its attractive silver-green foliage.",
     "ethnobotany": "Timber for construction and fencing. Acorns provide food for wildlife.",
@@ -4750,7 +4750,7 @@
       "Kihaya": "Omukakasia",
       "Kizaramo": "Mkakasia"
     },
-    "category": "Timber, Agroforestry",
+    "category": "Timber trees, Agroforestry trees",
     "conservationStatus": "Least Concern",
     "description": "A fast-growing tree native to North America, valued for its durable timber and its ability to improve soil fertility through nitrogen fixation.",
     "ethnobotany": "Timber for posts, fencing, and construction. Used for soil improvement and erosion control.",
@@ -4770,7 +4770,7 @@
       "Kihaya": "Omuswaki",
       "Kizaramo": "Mswaki"
     },
-    "category": "Arid Forest Trees and Shrubs, Medicinal",
+    "category": "Arid Forest Trees and Shrubs, Medicinal trees",
     "conservationStatus": "Least Concern",
     "description": "A small tree native to arid regions of Africa and Asia, known for its twigs, which are used as a natural toothbrush. It also produces edible fruits and oil-rich seeds.",
     "ethnobotany": "Twigs used for oral hygiene. Fruits eaten fresh. Seeds used for oil extraction.",
@@ -4790,7 +4790,7 @@
       "Kihaya": "Omupilipili",
       "Kizaramo": "Mpilipili"
     },
-    "category": "Shade, Ornamental",
+    "category": "Shade trees, Ornamental trees",
     "conservationStatus": "Least Concern",
     "description": "A drought-tolerant tree native to South America, widely planted for shade and ornament. It produces pink peppercorns used as a spice.",
     "ethnobotany": "Planted for shade and ornament. Fruits used as a spice and in traditional medicine.",
@@ -4810,7 +4810,7 @@
       "Kihaya": "Omujojoba",
       "Kizaramo": "Mjojoba"
     },
-    "category": "Arid Forest Trees and Shrubs, Medicinal",
+    "category": "Arid Forest Trees and Shrubs, Medicinal plants",
     "conservationStatus": "Least Concern",
     "description": "A drought-tolerant shrub native to North America, valued for its oil-rich seeds, which are used in cosmetics and as a high-quality lubricant.",
     "ethnobotany": "Seeds used to produce jojoba oil, which is widely used in cosmetics and skin care.",
@@ -4850,7 +4850,7 @@
       "Kihaya": "Omusandarusi",
       "Kizaramo": "Msandarusi"
     },
-    "category": "Timber, Medicinal",
+    "category": "Timber trees, Medicinal plants",
     "conservationStatus": "Least Concern",
     "description": "A drought-tolerant tree native to the Mediterranean region, valued for its aromatic wood and resin. It is used for furniture, lumber, and erosion control.",
     "ethnobotany": "Timber for furniture and construction. Resin used in traditional medicine and as a varnish.",
@@ -4870,7 +4870,7 @@
       "Kihaya": "Omukunazi",
       "Kizaramo": "Mkunazi"
     },
-    "category": "Fruits, Agroforestry",
+    "category": "Fruits trees, Agroforestry trees",
     "conservationStatus": "Least Concern",
     "description": "A drought-tolerant tree native to Asia, valued for its edible fruits, which are rich in vitamins and minerals. It is also used for fencing and as a source of shellac.",
     "ethnobotany": "Fruits eaten fresh or dried. Used for fencing and as a source of shellac.",
@@ -4890,7 +4890,7 @@
       "Kihaya": "Omugunga Dhahabu",
       "Kizaramo": "Mgunga Dhahabu"
     },
-    "category": "Semi-Arid and Reforestation Trees, Ornamental",
+    "category": "Semi-Arid Reforestation Trees, Ornamental trees",
     "conservationStatus": "Least Concern",
     "description": "A fast-growing tree native to Australia, widely used for sand dune stabilization, windbreaks, and as an ornamental. It produces bright yellow flowers and is highly drought-tolerant.",
     "ethnobotany": "Used for erosion control, shade, and as a windbreak. Provides habitat for birds and insects.",
@@ -4910,7 +4910,7 @@
       "Kihaya": "Omukichaa Kijivu",
       "Kizaramo": "Mkichaa Kijivu"
     },
-    "category": "Arid Forest Trees and Shrubs, Livestock folders",
+    "category": "Arid Forest Trees and Shrubs, Livestock folders trees",
     "conservationStatus": "Least Concern",
     "description": "A salt-tolerant shrub native to the Mediterranean region, used as a fodder plant for livestock in arid and saline environments.",
     "ethnobotany": "Fodder for livestock, especially during dry periods. Used for erosion control.",
@@ -4930,7 +4930,7 @@
       "Kihaya": "Omukichaa Australia",
       "Kizaramo": "Mkichaa Australia"
     },
-    "category": "Arid Forest Trees and Shrubs, Livestock folders",
+    "category": "Arid Forest Trees and Shrubs, Livestock folders trees",
     "conservationStatus": "Least Concern",
     "description": "A salt-tolerant shrub native to Australia, used as a fodder plant for livestock and for erosion control in arid and saline environments.",
     "ethnobotany": "Fodder for livestock, especially during dry periods. Used for erosion control and soil stabilization.",
@@ -4950,7 +4950,7 @@
       "Kihaya": "Omukakawati",
       "Kizaramo": "Mkakawati"
     },
-    "category": "Agroforestry, Livestock folders, Shade",
+    "category": "Agroforestry trees, Shade trees, Livestock folders trees",
     "conservationStatus": "Least Concern",
     "description": "A fast-growing, nitrogen-fixing tree widely used as a shade tree for cocoa and coffee, and as high-quality fodder for livestock. Its leaves are highly palatable and nutritious for ruminants.",
     "ethnobotany": "Leaves used as fodder and green manure. Wood for fencing and fuel. Planted as a shade tree in plantations.",
@@ -4970,7 +4970,7 @@
       "Kihaya": "Omuharukh",
       "Kizaramo": "Mharukh"
     },
-    "category": "Semi-Arid and Reforestation Trees, Livestock folders",
+    "category": "Semi-Arid Reforestation Trees, Livestock folders trees",
     "conservationStatus": "Least Concern",
     "description": "A large, fast-growing deciduous tree adapted to arid and semi-arid regions. Its leaves are lopped for fodder, and it is an excellent species for reforestation in dry areas.",
     "ethnobotany": "Leaves used as fodder. Wood used for packing cases and match splinters. Planted for erosion control and as a boundary marker.",
@@ -4990,7 +4990,7 @@
       "Kihaya": "Omuturii",
       "Kizaramo": "Mturii"
     },
-    "category": "Fruits, Livestock folders, Agroforestry",
+    "category": "Fruits trees, Livestock folders trees, Agroforestry trees",
     "conservationStatus": "Least Concern",
     "description": "A fast-growing, nitrogen-fixing small tree with edible flowers and pods. Its leaves are highly palatable fodder for livestock, and it is widely used in agroforestry systems.",
     "ethnobotany": "Flowers and pods eaten as vegetables. Leaves used as fodder and green manure. Wood for light construction and fuel.",
@@ -5010,7 +5010,7 @@
       "Kihaya": "Omubimba",
       "Kizaramo": "Mubimba"
     },
-    "category": "Livestock folders, Agroforestry",
+    "category": "Livestock folders trees, Agroforestry trees",
     "conservationStatus": "Least Concern",
     "description": "A short-lived, fast-growing shrub or small tree highly valued as fodder for livestock. It fixes nitrogen and improves soil fertility, making it ideal for agroforestry.",
     "ethnobotany": "Leaves and pods used as fodder. Wood for fuel and fencing. Planted for soil improvement and erosion control.",
@@ -5030,7 +5030,7 @@
       "Kihaya": "Omukhejri",
       "Kizaramo": "Mkhejri"
     },
-    "category": "Arid Forest Trees and Shrubs, Livestock folders, Agroforestry",
+    "category": "Arid Forest Trees and Shrubs, Livestock folders trees, Agroforestry trees",
     "conservationStatus": "Least Concern",
     "description": "A highly drought-tolerant tree known as the 'king of the desert'. Its pods and leaves are valuable fodder for livestock, and it plays a vital role in agroforestry systems in arid regions.",
     "ethnobotany": "Pods used as fodder. Wood for construction and fuel. Planted for soil improvement and as a shade tree.",
@@ -5050,7 +5050,7 @@
       "Kihaya": "Omumahua",
       "Kizaramo": "Mmahua"
     },
-    "category": "Fruits, Medicinal, Timber",
+    "category": "Fruits trees, Medicinal trees, Timber trees",
     "conservationStatus": "Least Concern",
     "description": "A medium-sized tree with edible flowers and oil-rich seeds. The flowers are used to make an intoxicating drink, and the oil is used in cooking and traditional medicine. Its timber is also valued for construction.",
     "ethnobotany": "Flowers used for food and drink. Seeds used to extract oil. Wood for construction and furniture.",
@@ -5070,7 +5070,7 @@
       "Kihaya": "Omukachnar",
       "Kizaramo": "Mkachnar"
     },
-    "category": "Ornamental, Livestock folders, Medicinal",
+    "category": "Ornamental trees, Livestock folders trees, Medicinal plants",
     "conservationStatus": "Least Concern",
     "description": "A beautiful flowering tree with edible flowers and buds used as a vegetable. Its leaves are valuable fodder for livestock, and it is also used in traditional medicine.",
     "ethnobotany": "Flowers and buds eaten as vegetables. Leaves used as fodder. Bark and roots used in traditional medicine.",
@@ -5090,7 +5090,7 @@
       "Kihaya": "Omukoroii",
       "Kizaramo": "Mkoroii"
     },
-    "category": "Timber, Shade, Livestock folders",
+    "category": "Timber trees, Shade trees, Livestock folders trees",
     "conservationStatus": "Least Concern",
     "description": "A large, fast-growing tree with high-quality timber and excellent foliage for fodder. It is widely used in agroforestry and provides valuable shade in tropical and subtropical regions.",
     "ethnobotany": "Timber for furniture and construction. Leaves used as fodder and green manure. Planted as a shade tree.",
@@ -5110,7 +5110,7 @@
       "Kihaya": "Omuhogolo",
       "Kizaramo": "Muhogolo"
     },
-    "category": "Livestock folders, Shade, Forest",
+    "category": "Livestock folders trees, Shade trees",
     "conservationStatus": "Least Concern",
     "description": "A small to medium-sized deciduous tree common in dry tropical regions. Its leaves are valuable fodder, and it is often planted for shade and soil improvement.",
     "ethnobotany": "Leaves used as fodder. Wood for fuel and fencing. Planted for shade and erosion control.",
@@ -5130,7 +5130,7 @@
       "Kihaya": "Omuforsadi",
       "Kizaramo": "Mforsadi"
     },
-    "category": "Fruits, Livestock folders, Agroforestry",
+    "category": "Fruits trees, Livestock folders trees, Agroforestry trees",
     "conservationStatus": "Least Concern",
     "description": "A fast-growing tree widely cultivated for its leaves, which are the primary food for silkworms. Its leaves are also highly nutritious fodder for livestock, and its fruits are edible.",
     "ethnobotany": "Leaves used for silkworm rearing and livestock fodder. Fruits eaten fresh or dried. Wood used for furniture and fuel.",
@@ -5150,7 +5150,7 @@
       "Kihaya": "Omushah-toot",
       "Kizaramo": "Mshah-toot"
     },
-    "category": "Fruits, Livestock folders, Shade",
+    "category": "Fruits trees, Livestock folders trees, Shade trees",
     "conservationStatus": "Least Concern",
     "description": "A medium-sized tree known for its large, sweet, and highly nutritious fruits. Its leaves are also valuable fodder for livestock, making it a versatile species for agroforestry.",
     "ethnobotany": "Fruits eaten fresh or dried. Leaves used as livestock fodder. Wood for furniture and fuel.",
@@ -5170,7 +5170,7 @@
       "Kihaya": "Omuronge",
       "Kizaramo": "Mronge"
     },
-    "category": "Fruits, Medicinal, Agroforestry",
+    "category": "Fruits trees, Medicinal plants, Agroforestry trees",
     "conservationStatus": "Least Concern",
     "description": "A fast-growing, drought-tolerant tree known for its highly nutritious leaves and pods. It is widely used as a vegetable, in traditional medicine, and as a valuable fodder for livestock.",
     "ethnobotany": "Leaves and pods eaten as vegetables. Leaves used in traditional medicine. Seeds used for water purification.",
@@ -5190,7 +5190,7 @@
       "Kihaya": "Omukachnar",
       "Kizaramo": "Mkachnar"
     },
-    "category": "Ornamental, Livestock folders, Medicinal",
+    "category": "Ornamental trees, Livestock folders trees, Medicinal plants",
     "conservationStatus": "Least Concern",
     "description": "A beautiful flowering tree with edible flowers and buds used as a vegetable. Its leaves are valuable fodder for livestock, and it is also used in traditional medicine.",
     "ethnobotany": "Flowers and buds eaten as vegetables. Leaves used as fodder. Bark and roots used in traditional medicine.",
@@ -5210,7 +5210,7 @@
       "Kihaya": "Omuseta Mdogo",
       "Kizaramo": "Mseta Mdogo"
     },
-    "category": "Forest, Bee folders trees",
+    "category": "Miombo wood land trees, Bee folders trees",
     "conservationStatus": "Least Concern",
     "description": "A small-leaved miombo tree species, important for natural regeneration in degraded miombo woodlands. It is one of the dominant species in the miombo ecosystem and contributes significantly to forest recovery.",
     "ethnobotany": "Wood used for fuel and charcoal. Provides habitat for wildlife and supports bee forage.",
@@ -5230,7 +5230,7 @@
       "Kihaya": "Omupingo Mgumu",
       "Kizaramo": "Mpingo Mgumu"
     },
-    "category": "Timber, Forest",
+    "category": "Timber trees",
     "conservationStatus": "Vulnerable",
     "description": "A valuable timber tree species, closely related to Dalbergia melanoxylon. It is part of the miombo woodland restoration trials in Tabora Region.",
     "ethnobotany": "Wood used for furniture, carvings, and musical instruments. Bark used in traditional medicine.",
@@ -5250,7 +5250,7 @@
       "Kihaya": "Omukole Perikopsis",
       "Kizaramo": "Mkole Perikopsis"
     },
-    "category": "Timber, Forest",
+    "category": "Timber trees",
     "conservationStatus": "Vulnerable",
     "description": "A valuable timber tree species found in miombo woodlands. It is one of the dominant species targeted for natural regeneration in degraded forests in Tabora Region.",
     "ethnobotany": "High-quality timber for furniture, flooring, and construction. Bark used in traditional medicine.",
@@ -5270,7 +5270,7 @@
       "Kihaya": "Omukomba",
       "Kizaramo": "Mkomba"
     },
-    "category": "Forest, Timber",
+    "category": "Timber trees, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in miombo woodlands, important for natural regeneration. It is part of the dominant miombo species being enhanced through restoration trials in Tabora Region.",
     "ethnobotany": "Wood used for construction and fuel. Provides shade and habitat for wildlife.",
@@ -5290,7 +5290,7 @@
       "Kihaya": "Omukongo Usambara",
       "Kizaramo": "Mkongo Usambara"
     },
-    "category": "Water Source Protection Trees, Forest, Timber",
+    "category": "Water Source Protection Trees, Timber trees",
     "conservationStatus": "Vulnerable",
     "description": "A tree species endemic to the Eastern Arc Mountains, important for natural regeneration. It plays a critical role in watershed protection and forest conservation in Tanzania.",
     "ethnobotany": "Timber for construction and furniture. Provides shade and supports biodiversity in montane forests.",
@@ -5310,7 +5310,7 @@
       "Kihaya": "Omukole Newtonia",
       "Kizaramo": "Mkole Newtonia"
     },
-    "category": "Forest, Timber, Shade",
+    "category": "Timber trees, Shade trees",
     "conservationStatus": "Least Concern",
     "description": "A large tree found in the Eastern Arc Mountains, important for natural regeneration and forest restoration. It provides high-quality timber and shade.",
     "ethnobotany": "Timber for construction and furniture. Planted for shade and soil improvement.",
@@ -5330,7 +5330,7 @@
       "Kihaya": "Omukole Usambara",
       "Kizaramo": "Mkole Usambara"
     },
-    "category": "Water Source Protection Trees, Timber, Forest",
+    "category": "Water Source Protection Trees, Timber trees",
     "conservationStatus": "Vulnerable",
     "description": "A valuable timber tree endemic to the Eastern Arc Mountains, important for natural regeneration. It is a key species for watershed protection and forest restoration.",
     "ethnobotany": "High-quality timber for furniture and construction. Bark used in traditional medicine.",
@@ -5350,7 +5350,7 @@
       "Kihaya": "Omupingo Lebombo",
       "Kizaramo": "Mpingo Lebombo"
     },
-    "category": "Timber, Forest",
+    "category": "Timber trees",
     "conservationStatus": "Least Concern",
     "description": "A small to medium-sized tree native to southern Africa, valued for its extremely hard and durable wood. It is often used for fencing, posts, and fuelwood.",
     "ethnobotany": "Wood used for fencing, posts, and fuel. Provides shade and habitat for wildlife.",
@@ -5370,7 +5370,7 @@
       "Kihaya": "Omuchunju mwitu",
       "Kizaramo": "Mchunju mwitu"
     },
-    "category": "Arid Forest Trees and Shrubs, Fruits",
+    "category": "Arid Forest Trees and Shrubs, Fruits trees",
     "conservationStatus": "Least Concern",
     "description": "A tree with edible fruits and oil-rich seeds, adapted to dry conditions. It is closely related to the desert date (Balanites aegyptiaca) and is important for food security in arid regions.",
     "ethnobotany": "Fruits eaten fresh. Seeds used for oil extraction. Wood for construction and fuel.",
@@ -5390,7 +5390,7 @@
       "Kihaya": "Omukole buluu",
       "Kizaramo": "Mkole buluu"
     },
-    "category": "Fruits, Livestock folders",
+    "category": "Fruits trees, Livestock folders trees",
     "conservationStatus": "Least Concern",
     "description": "A tree with edible fruits that are highly attractive to birds and wildlife. Its leaves are valuable fodder for livestock.",
     "ethnobotany": "Fruits eaten fresh by humans and wildlife. Leaves used as fodder. Wood for fuel and fencing.",
@@ -5410,7 +5410,7 @@
       "Kihaya": "Omukole mweusi",
       "Kizaramo": "Mkole mweusi"
     },
-    "category": "Fruits, Shade",
+    "category": "Fruits trees, Shade trees",
     "conservationStatus": "Least Concern",
     "description": "A tree with dark, shiny leaves and edible fruits. It provides valuable shade and is often planted in home gardens.",
     "ethnobotany": "Fruits eaten fresh. Wood for construction and fuel. Planted for shade and as an ornamental.",
@@ -5430,7 +5430,7 @@
       "Kihaya": "Omukolele laini",
       "Kizaramo": "Mkolele laini"
     },
-    "category": "Fruits, Shade",
+    "category": "Fruits trees, Shade trees",
     "conservationStatus": "Least Concern",
     "description": "A tree with velvety leaves and edible fruits. It provides shade and is important for wildlife.",
     "ethnobotany": "Fruits eaten fresh. Leaves used as fodder. Wood for construction and fuel.",
@@ -5450,7 +5450,7 @@
       "Kihaya": "Omulama mweupe",
       "Kizaramo": "Mlama mweupe"
     },
-    "category": "Medicinal, Bee folders trees",
+    "category": "Medicinal plants, Bee folders trees",
     "conservationStatus": "Least Concern",
     "description": "A tree with medicinal properties, used to treat various ailments. Its flowers are a good source of nectar for bees.",
     "ethnobotany": "Bark and leaves used in traditional medicine. Flowers attract bees and support honey production.",
@@ -5470,7 +5470,7 @@
       "Kihaya": "Omulama ngumu",
       "Kizaramo": "Mlama ngumu"
     },
-    "category": "Timber, Forest",
+    "category": "Timber trees",
     "conservationStatus": "Least Concern",
     "description": "A medium-sized tree with very hard, durable wood. It is one of the most valuable timber species in southern Africa.",
     "ethnobotany": "Timber for construction, furniture, and fencing. Bark used in traditional medicine.",
@@ -5490,7 +5490,7 @@
       "Kihaya": "Omugiriti mweusi",
       "Kizaramo": "Mgiriti mweusi"
     },
-    "category": "Fruits, Livestock folders",
+    "category": "Fruits trees, Livestock folders trees",
     "conservationStatus": "Least Concern",
     "description": "A shrub or small tree with edible fruits and blue-green foliage. Its leaves are valuable fodder for livestock.",
     "ethnobotany": "Fruits eaten fresh. Leaves used as fodder. Wood for fuel and fencing.",
@@ -5510,7 +5510,7 @@
       "Kihaya": "Omukole wa njano",
       "Kizaramo": "Mkole wa njano"
     },
-    "category": "Fruits, Livestock folders",
+    "category": "Fruits trees, Livestock folders trees",
     "conservationStatus": "Least Concern",
     "description": "A shrub or small tree with yellow fruits and medicinal properties. It is important for livestock fodder.",
     "ethnobotany": "Fruits eaten fresh. Leaves used as fodder. Bark used in traditional medicine.",
@@ -5530,7 +5530,7 @@
       "Kihaya": "Omukole wa manjano",
       "Kizaramo": "Mkole wa manjano"
     },
-    "category": "Fruits, Livestock folders",
+    "category": "Fruits trees, Livestock folders trees",
     "conservationStatus": "Least Concern",
     "description": "A shrub or small tree with yellow flowers and edible fruits. Its leaves are valuable fodder for livestock.",
     "ethnobotany": "Fruits eaten fresh. Leaves used as fodder. Wood for fuel and fencing.",
@@ -5550,7 +5550,7 @@
       "Kihaya": "Omukole wa milima",
       "Kizaramo": "Mkole wa milima"
     },
-    "category": "Fruits, Livestock folders",
+    "category": "Fruits trees, Livestock folders trees",
     "conservationStatus": "Least Concern",
     "description": "A small tree or shrub found in montane areas, with edible fruits and valuable fodder for livestock.",
     "ethnobotany": "Fruits eaten fresh. Leaves used as fodder. Wood for fuel and fencing.",
@@ -5570,7 +5570,7 @@
       "Kihaya": "Omukole wa kuvuka",
       "Kizaramo": "Mkole wa kuvuka"
     },
-    "category": "Ornamental, Fruits",
+    "category": "Ornamental trees, Fruits trees",
     "conservationStatus": "Least Concern",
     "description": "A shrub or small tree with attractive flowers and edible fruits. It is often planted as an ornamental in gardens.",
     "ethnobotany": "Fruits eaten fresh. Planted for ornament and shade.",
@@ -5590,7 +5590,7 @@
       "Kihaya": "Omukole mwekundu",
       "Kizaramo": "Mkole mwekundu"
     },
-    "category": "Timber, Shade",
+    "category": "Timber trees, Shade trees",
     "conservationStatus": "Least Concern",
     "description": "A tree with showy yellow flowers and durable timber. It is often planted as a shade tree in tropical and subtropical regions.",
     "ethnobotany": "Timber for construction and furniture. Planted for shade and as an ornamental.",
@@ -5610,7 +5610,7 @@
       "Kihaya": "Omukwaju mweupe",
       "Kizaramo": "Mkwaju mweupe"
     },
-    "category": "Arid Forest Trees and Shrubs, Agroforestry",
+    "category": "Arid Forest Trees and Shrubs, Agroforestry trees",
     "conservationStatus": "Least Concern",
     "description": "A drought-tolerant tree native to the Americas, used for soil improvement, agroforestry, and as a source of timber and fodder.",
     "ethnobotany": "Timber for construction and fuel. Pods used as animal feed. Leaves used as green manure.",
@@ -5630,7 +5630,7 @@
       "Kihaya": "Omuninga wa porini",
       "Kizaramo": "Mninga wa porini"
     },
-    "category": "Timber, Forest",
+    "category": "Timber trees",
     "conservationStatus": "Least Concern",
     "description": "A tree with high-quality timber and round leaves. It is important for forest regeneration and provides valuable timber for local communities.",
     "ethnobotany": "Timber for construction, furniture, and carving. Bark used in traditional medicine.",
@@ -5650,7 +5650,7 @@
       "Kihaya": "Omukole mwiba",
       "Kizaramo": "Mkole mwiba"
     },
-    "category": "Arid Forest Trees and Shrubs, Livestock folders",
+    "category": "Arid Forest Trees and Shrubs, Livestock folders trees",
     "conservationStatus": "Least Concern",
     "description": "A drought-tolerant tree with thorny branches. It is used for livestock fodder and as a hedge plant.",
     "ethnobotany": "Leaves used as fodder. Planted as a hedge and for erosion control.",
@@ -5670,7 +5670,7 @@
       "Kihaya": "Omukole wa milima",
       "Kizaramo": "Mkole wa milima"
     },
-    "category": "Shade, Ornamental",
+    "category": "Shade trees, Ornamental trees",
     "conservationStatus": "Least Concern",
     "description": "A small tree or shrub with attractive foliage and medicinal properties. It is often planted as an ornamental in dry regions.",
     "ethnobotany": "Planting for shade and ornament. Leaves and bark used in traditional medicine.",
@@ -5690,7 +5690,7 @@
       "Kihaya": "Omukole sumu",
       "Kizaramo": "Mkole sumu"
     },
-    "category": "Medicinal, Livestock folders",
+    "category": "Medicinal plants, Livestock folders trees",
     "conservationStatus": "Least Concern",
     "description": "A tree with medicinal properties, used to treat various ailments. Its leaves are valuable fodder for livestock.",
     "ethnobotany": "Bark and leaves used in traditional medicine. Leaves used as fodder.",
@@ -5710,7 +5710,7 @@
       "Kihaya": "Omugunga mwiba",
       "Kizaramo": "Mgunga mwiba"
     },
-    "category": "Semi-Arid and Reforestation Trees, Livestock folders",
+    "category": "Semi-Arid Reforestation Trees, Livestock folders trees",
     "conservationStatus": "Least Concern",
     "description": "A thorny tree adapted to dry conditions, important for reforestation and livestock fodder.",
     "ethnobotany": "Leaves and pods used as fodder. Wood for fencing and fuel.",
@@ -5730,7 +5730,7 @@
       "Kihaya": "Omugunga Galpin",
       "Kizaramo": "Mgunga Galpin"
     },
-    "category": "Semi-Arid and Reforestation Trees, Ornamental",
+    "category": "Semi-Arid Reforestation Trees, Ornamental trees",
     "conservationStatus": "Least Concern",
     "description": "A tree with showy flowers and valuable timber. It is often planted as an ornamental in dry regions.",
     "ethnobotany": "Timber for construction and furniture. Planted for shade and ornament.",
@@ -5750,7 +5750,7 @@
       "Kihaya": "Omubata",
       "Kizaramo": "Mbata"
     },
-    "category": "Semi-Arid and Reforestation Trees, Arid Forest Trees and Shrubs",
+    "category": "Semi-Arid Reforestation Trees, Arid Forest Trees and Shrubs",
     "conservationStatus": "Least Concern",
     "description": "A drought-tolerant tree with distinctive reddish bark and white gum. Common in dry savannas and semi-arid regions, often found in Gangalamtumba VLFR [citation:10].",
     "ethnobotany": "Wood used for fuel and charcoal. Gum used in traditional medicine.",
@@ -5770,7 +5770,7 @@
       "Kihaya": "Omukungugu",
       "Kizaramo": "Mkungugu"
     },
-    "category": "Semi-Arid and Reforestation Trees",
+    "category": "Semi-Arid reforestation trees",
     "conservationStatus": "Least Concern",
     "description": "A local acacia species recorded in dry miombo woodlands. Important for reforestation in semi-arid areas [citation:10].",
     "ethnobotany": "Provides fuelwood and fodder. Used for soil improvement.",
@@ -5790,7 +5790,7 @@
       "Kihaya": "Omulagavega",
       "Kizaramo": "Mulagavega"
     },
-    "category": "Livestock folders, Shade, Forest",
+    "category": "Livestock folders trees, Shade trees",
     "conservationStatus": "Least Concern",
     "description": "A small to medium-sized deciduous tree common in dry tropical regions. Its leaves are valuable fodder, and it is often planted for shade and soil improvement [citation:10].",
     "ethnobotany": "Leaves used as fodder. Wood for fuel and fencing. Planted for shade and erosion control.",
@@ -5810,7 +5810,7 @@
       "Kihaya": "Omusisina",
       "Kizaramo": "Msisina"
     },
-    "category": "Shade, Forest, Timber",
+    "category": "Shade trees, Timber trees",
     "conservationStatus": "Least Concern",
     "description": "A medium-sized tree found in dry miombo woodlands, recorded in Gangalamtumba VLFR. Provides shade and is used for timber [citation:10].",
     "ethnobotany": "Timber for construction and furniture. Provides shade in open woodlands.",
@@ -5830,7 +5830,7 @@
       "Kihaya": "Omuhehefu",
       "Kizaramo": "Mhehefu"
     },
-    "category": "Shade, Forest",
+    "category": "Shade trees",
     "conservationStatus": "Least Concern",
     "description": "A shrub or small tree found in dry miombo woodlands, recorded in Gangalamtumba VLFR [citation:10].",
     "ethnobotany": "Provides shade and contributes to forest understory. Leaves used in traditional medicine.",
@@ -5850,7 +5850,7 @@
       "Kihaya": "Omukombivawo",
       "Kizaramo": "Mkombivawo"
     },
-    "category": "Ornamental, Shade",
+    "category": "Ornamental trees, Shade trees",
     "conservationStatus": "Least Concern",
     "description": "A shrub with distinctive butterfly-shaped leaves and white flowers. Recorded in Gangalamtumba VLFR [citation:10].",
     "ethnobotany": "Planted for ornament. Leaves used as fodder. Wood for light construction.",
@@ -5870,7 +5870,7 @@
       "Kihaya": "Omuwisa",
       "Kizaramo": "Muwisa"
     },
-    "category": "Semi-Arid and Reforestation Trees, Arid Forest Trees and Shrubs",
+    "category": "Semi-Arid Reforestation Trees, Arid Forest Trees and Shrubs",
     "conservationStatus": "Least Concern",
     "description": "A drought-tolerant tree found in dry miombo woodlands, recorded in Gangalamtumba VLFR [citation:10].",
     "ethnobotany": "Leaves used as fodder. Wood for firewood and fencing.",
@@ -5890,7 +5890,7 @@
       "Kihaya": "Omutelela",
       "Kizaramo": "Mtelela"
     },
-    "category": "Forest, Timber",
+    "category": "Timber trees, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A miombo tree species found in dry woodlands, recorded in Gangalamtumba VLFR. Important for forest regeneration [citation:10].",
     "ethnobotany": "Wood for construction and fuel. Provides habitat for wildlife.",
@@ -5910,7 +5910,7 @@
       "Kihaya": "Omugusi",
       "Kizaramo": "Mugusi"
     },
-    "category": "Forest, Timber",
+    "category": "Timber trees, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A miombo tree species found in dry woodlands, recorded in Gangalamtumba VLFR [citation:10].",
     "ethnobotany": "Wood for construction and fuel. Provides habitat for wildlife.",
@@ -5930,7 +5930,7 @@
       "Kihaya": "Omunyaluhanga",
       "Kizaramo": "Mnyaluhanga"
     },
-    "category": "Shade, Forest",
+    "category": "Shade trees, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A shrub or small tree found in dry miombo woodlands, recorded in Gangalamtumba VLFR [citation:10].",
     "ethnobotany": "Provides shade and contributes to forest understory. Fruits attract birds.",
@@ -5950,7 +5950,7 @@
       "Kihaya": "Omnyalupuko",
       "Kizaramo": "Mnyalupuko"
     },
-    "category": "Forest, Shade",
+    "category": "Forest trees, Shade trees",
     "conservationStatus": "Least Concern",
     "description": "A shrub or small tree found in dry miombo woodlands, recorded in Gangalamtumba VLFR [citation:10].",
     "ethnobotany": "Provides shade and contributes to forest understory. Fruits attract wildlife.",
@@ -5970,7 +5970,7 @@
       "Kihaya": "Omumulimuli",
       "Kizaramo": "Mmulimuli"
     },
-    "category": "Semi-Arid and Reforestation Trees, Medicinal",
+    "category": "Semi-Arid Reforestation Trees, Medicinal plants",
     "conservationStatus": "Least Concern",
     "description": "A small to medium-sized deciduous tree adapted to semi-arid conditions, recorded in Gangalamtumba VLFR [citation:10].",
     "ethnobotany": "Medicinal uses. Attractive flowers and pods.",
@@ -5990,7 +5990,7 @@
       "Kihaya": "Omukoma chuma",
       "Kizaramo": "Mkoma chuma"
     },
-    "category": "Timber, Shade",
+    "category": "Timber trees, Shade trees",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in lowland forests, recorded in Dindili forest with a high wood density [citation:5].",
     "ethnobotany": "Timber for construction and furniture. Provides shade in forests.",
@@ -6010,7 +6010,7 @@
       "Kihaya": "Omukwata",
       "Kizaramo": "Mkwata"
     },
-    "category": "Forest, Timber",
+    "category": "Timber trees, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in dry miombo woodlands, recorded in Gangalamtumba VLFR [citation:10].",
     "ethnobotany": "Timber for construction and fuel. Provides habitat for wildlife.",
@@ -6030,7 +6030,7 @@
       "Kihaya": "Omukongolo",
       "Kizaramo": "Mkongolo"
     },
-    "category": "Semi-Arid and Reforestation Trees, Medicinal",
+    "category": "Semi-Arid Reforestation Trees, Medicinal plants",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in dry miombo woodlands, recorded in Gangalamtumba VLFR [citation:10].",
     "ethnobotany": "Resin used in traditional medicine. Wood for firewood.",
@@ -6050,7 +6050,7 @@
       "Kihaya": "Omnywenywee",
       "Kizaramo": "Mnywenywee"
     },
-    "category": "Timber, Forest",
+    "category": "Timber trees, Miombo woodland trees",
     "conservationStatus": "Vulnerable",
     "description": "A valuable timber tree found in dry miombo woodlands, recorded in Gangalamtumba VLFR [citation:10].",
     "ethnobotany": "Timber for furniture and construction. Bark used in traditional medicine.",
@@ -6070,7 +6070,7 @@
       "Kihaya": "Omufilafila",
       "Kizaramo": "Mfilafila"
     },
-    "category": "Medicinal, Forest",
+    "category": "Medicinal plants, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in dry miombo woodlands, recorded in Gangalamtumba VLFR [citation:10].",
     "ethnobotany": "Bark and leaves used in traditional medicine.",
@@ -6090,7 +6090,7 @@
       "Kihaya": "Omuwambi",
       "Kizaramo": "Mwambi"
     },
-    "category": "Timber, Forest",
+    "category": "Timber trees, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in dry miombo woodlands, recorded in Gangalamtumba VLFR [citation:10].",
     "ethnobotany": "Timber for construction and furniture. Bark used in traditional medicine.",
@@ -6110,7 +6110,7 @@
       "Kihaya": "Omulimbo",
       "Kizaramo": "Mlimbo"
     },
-    "category": "Semi-Arid and Reforestation Trees, Shade",
+    "category": "Semi-Arid Reforestation Trees, Shade trees",
     "conservationStatus": "Least Concern",
     "description": "A succulent shrub or small tree found in dry miombo woodlands, recorded in Gangalamtumba VLFR [citation:10].",
     "ethnobotany": "Used for hedging and as a living fence. Low maintenance.",
@@ -6130,7 +6130,7 @@
       "Kihaya": "Omusanzi",
       "Kizaramo": "Msanzi"
     },
-    "category": "Ornamental, Medicinal",
+    "category": "Ornamental trees, Medicinal plants",
     "conservationStatus": "Least Concern",
     "description": "A shrub or small tree found in dry miombo woodlands, recorded in Gangalamtumba VLFR [citation:10].",
     "ethnobotany": "Fruits used in traditional medicine. Attractive flowers.",
@@ -6150,7 +6150,7 @@
       "Kihaya": "Omugelemele",
       "Kizaramo": "Mpelemele"
     },
-    "category": "Livestock folders, Agroforestry",
+    "category": "Livestock folders trees, Agroforestry trees",
     "conservationStatus": "Least Concern",
     "description": "A shrub or small tree found in dry miombo woodlands, recorded in Gangalamtumba VLFR [citation:10].",
     "ethnobotany": "Leaves used as fodder. Fruits eaten by birds.",
@@ -6170,7 +6170,7 @@
       "Kihaya": "Omudeke",
       "Kizaramo": "Mdeke"
     },
-    "category": "Forest, Shade",
+    "category": "Shade trees, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A small tree found in dry miombo woodlands, recorded in Gangalamtumba VLFR [citation:10].",
     "ethnobotany": "Provides shade and contributes to forest understory.",
@@ -6190,7 +6190,7 @@
       "Kihaya": "Omugulumo",
       "Kizaramo": "Mgulumo"
     },
-    "category": "Fruits, Bee folders trees",
+    "category": "Fruits trees, Bee folders trees",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in dry miombo woodlands, recorded in Gangalamtumba VLFR. Produces edible fruits [citation:10].",
     "ethnobotany": "Fruits eaten fresh or dried. Bark used in traditional medicine.",
@@ -6210,7 +6210,7 @@
       "Kihaya": "Omutabagila",
       "Kizaramo": "Mtabagila"
     },
-    "category": "Timber, Agroforestry",
+    "category": "Timber trees, Agroforestry trees",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in dry miombo woodlands, recorded in Gangalamtumba VLFR [citation:10].",
     "ethnobotany": "Wood for construction and furniture. Leaves used as fodder.",
@@ -6230,7 +6230,7 @@
       "Kihaya": "Omudide",
       "Kizaramo": "Mdide"
     },
-    "category": "Timber, Fruits",
+    "category": "Timber trees, Fruits trees",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in dry miombo woodlands, recorded in Gangalamtumba VLFR [citation:10].",
     "ethnobotany": "Timber for construction and furniture. Fruits eaten fresh.",
@@ -6250,7 +6250,7 @@
       "Kihaya": "Omusezi",
       "Kizaramo": "Msezi"
     },
-    "category": "Timber, Forest",
+    "category": "Timber trees, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in lowland forests, recorded in Dindili forest with a high wood density [citation:5].",
     "ethnobotany": "Timber for construction and furniture. Bark used in traditional medicine.",
@@ -6270,7 +6270,7 @@
       "Kihaya": "Omumemenamene",
       "Kizaramo": "Mmemenamene"
     },
-    "category": "Forest, Shade",
+    "category": "Miombo woodland trees, Shade trees",
     "conservationStatus": "Least Concern",
     "description": "A shrub found in dry miombo woodlands, recorded in Gangalamtumba VLFR [citation:10].",
     "ethnobotany": "Provides shade and contributes to forest understory.",
@@ -6310,7 +6310,7 @@
       "Kihaya": "Ekitimbwi",
       "Kizaramo": "Kitimbwi"
     },
-    "category": "Agroforestry, Livestock folders",
+    "category": "Agroforestry trees, Livestock folders trees",
     "conservationStatus": "Least Concern",
     "description": "A shrub found in dry miombo woodlands, recorded in Gangalamtumba VLFR [citation:10].",
     "ethnobotany": "Leaves used as fodder. Wood for fuel and fencing.",
@@ -6330,7 +6330,7 @@
       "Kihaya": "Omuwotaponzi",
       "Kizaramo": "Muwotaponzi"
     },
-    "category": "Medicinal, Forest",
+    "category": "Medicinal plants, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in dry miombo woodlands, recorded in Gangalamtumba VLFR [citation:10].",
     "ethnobotany": "Bark and leaves used in traditional medicine.",
@@ -6350,7 +6350,7 @@
       "Kihaya": "Omuteresi",
       "Kizaramo": "Mteresi"
     },
-    "category": "Forest, Shade",
+    "category": "Miombo woodland trees, Shade trees",
     "conservationStatus": "Least Concern",
     "description": "A shrub or small tree found in dry miombo woodlands, recorded in Gangalamtumba VLFR [citation:10].",
     "ethnobotany": "Provides shade and contributes to forest understory.",
@@ -6370,7 +6370,7 @@
       "Kihaya": "Omungoji",
       "Kizaramo": "Mngoji"
     },
-    "category": "Timber, Forest",
+    "category": "Timber trees, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in lowland forests, recorded in Dindili forest [citation:5].",
     "ethnobotany": "Timber for construction and furniture.",
@@ -6390,7 +6390,7 @@
       "Kihaya": "Omukungunolo",
       "Kizaramo": "Mkungunolo"
     },
-    "category": "Fruits, Agroforestry, Timber",
+    "category": "Fruits trees, Agroforestry trees, Timber trees",
     "conservationStatus": "Least Concern",
     "description": "A large tree found in lowland forests, recorded in Dindili and Rondo forests. Produces oil-rich seeds and edible fruits [citation:5].",
     "ethnobotany": "Fruits and seeds used for food and oil. Wood for construction.",
@@ -6410,7 +6410,7 @@
       "Kihaya": "Omwahama",
       "Kizaramo": "Mwahama"
     },
-    "category": "Timber, Forest",
+    "category": "Timber trees, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in dry miombo woodlands, recorded in Gangalamtumba VLFR [citation:10].",
     "ethnobotany": "Timber for construction and furniture. Bark used in traditional medicine.",
@@ -6430,7 +6430,7 @@
       "Kihaya": "Omuhande",
       "Kizaramo": "Mhande"
     },
-    "category": "Timber, Forest",
+    "category": "Timber trees, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in lowland forests, recorded in Dindili forest with a high wood density [citation:5].",
     "ethnobotany": "Timber for construction and furniture.",
@@ -6450,7 +6450,7 @@
       "Kihaya": "Omugude",
       "Kizaramo": "Mgude"
     },
-    "category": "Timber, Shade",
+    "category": "Timber trees, Shade trees",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in lowland forests, recorded in Dindili forest [citation:5].",
     "ethnobotany": "Timber for construction and furniture. Provides shade in forests.",
@@ -6470,7 +6470,7 @@
       "Kihaya": "Omuoza",
       "Kizaramo": "Moza"
     },
-    "category": "Shade, Forest",
+    "category": "Shade trees, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A large tree found in lowland forests, recorded in Dindili forest [citation:5].",
     "ethnobotany": "Provides shade. Wood for carving and construction.",
@@ -6490,7 +6490,7 @@
       "Kihaya": "Omuparapande",
       "Kizaramo": "Mparapande"
     },
-    "category": "Medicinal, Fruits",
+    "category": "Medicinal plants, Fruits trees",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in dry miombo woodlands, recorded in Gangalamtumba VLFR [citation:10].",
     "ethnobotany": "Fruits and seeds used in traditional medicine.",
@@ -6510,7 +6510,7 @@
       "Kihaya": "Omudwendwe",
       "Kizaramo": "Mdwendwe"
     },
-    "category": "Semi-Arid and Reforestation Trees, Timber",
+    "category": "Semi-Arid reforestation trees, Timber trees",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in dry miombo woodlands, recorded in Gangalamtumba VLFR [citation:10].",
     "ethnobotany": "Timber for construction. Bark used for toothache.",
@@ -6550,7 +6550,7 @@
       "Kihaya": "Omuvembadanda",
       "Kizaramo": "Mvembadanda"
     },
-    "category": "Timber, Forest",
+    "category": "Timber trees, Forest trees",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in dry miombo woodlands, recorded in Gangalamtumba VLFR [citation:10].",
     "ethnobotany": "Timber for construction and furniture.",
@@ -6570,7 +6570,7 @@
       "Kihaya": "Omukong'onolo",
       "Kizaramo": "Mkong'onolo"
     },
-    "category": "Medicinal, Forest",
+    "category": "Medicinal plants, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in lowland forests, recorded in Dindili and Rondo forests [citation:5].",
     "ethnobotany": "Bark and leaves used in traditional medicine.",
@@ -6590,7 +6590,7 @@
       "Kihaya": "Omutwini",
       "Kizaramo": "Mtwini"
     },
-    "category": "Semi-Arid and Reforestation Trees, Medicinal",
+    "category": "Semi-Arid reforestation trees, Medicinal trees",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in lowland forests, recorded in Dindili forest [citation:5].",
     "ethnobotany": "Resin used in traditional medicine. Wood for firewood.",
@@ -6610,7 +6610,7 @@
       "Kihaya": "Omuzindizi",
       "Kizaramo": "Mzindizi"
     },
-    "category": "Medicinal, Forest",
+    "category": "Medicinal plants, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in lowland forests, recorded in Dindili forest [citation:5].",
     "ethnobotany": "Bark and leaves used in traditional medicine.",
@@ -6630,7 +6630,7 @@
       "Kihaya": "Omumelemele",
       "Kizaramo": "Mmelemele"
     },
-    "category": "Medicinal, Forest",
+    "category": "Medicinal plants, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in lowland forests, recorded in Dindili forest [citation:5].",
     "ethnobotany": "Bark and leaves used in traditional medicine.",
@@ -6650,7 +6650,7 @@
       "Kihaya": "Omukunguwe",
       "Kizaramo": "Mkunguwe"
     },
-    "category": "Timber, Forest",
+    "category": "Timber trees, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in Rondo forest, recorded in a study on lowland forests [citation:5].",
     "ethnobotany": "Timber for construction and furniture.",
@@ -6670,7 +6670,7 @@
       "Kihaya": "Omypepeta",
       "Kizaramo": "Mpepeta"
     },
-    "category": "Fruits, Forest",
+    "category": "Fruits trees, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in Rondo forest, recorded in a study on lowland forests [citation:5].",
     "ethnobotany": "Fruits eaten fresh. Timber for construction.",
@@ -6690,7 +6690,7 @@
       "Kihaya": "Omukengeda",
       "Kizaramo": "Mkengeda"
     },
-    "category": "Timber, Forest",
+    "category": "Timber trees, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in Rondo forest, recorded in a study on lowland forests [citation:5].",
     "ethnobotany": "Timber for construction and furniture.",
@@ -6710,7 +6710,7 @@
       "Kihaya": "Omumula",
       "Kizaramo": "Mmula"
     },
-    "category": "Fruits, Timber, Water Source Protection Trees",
+    "category": "Fruits trees, Timber trees, Water Source Protection Trees",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in Rondo forest, recorded in a study on lowland forests [citation:5].",
     "ethnobotany": "Fruits eaten fresh. Timber for construction and furniture.",
@@ -6730,7 +6730,7 @@
       "Kihaya": "Onkalale",
       "Kizaramo": "Nkalale"
     },
-    "category": "Timber, Forest",
+    "category": "Timber trees, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in Rondo forest, recorded in a study on lowland forests [citation:5].",
     "ethnobotany": "Timber for construction and furniture.",
@@ -6750,7 +6750,7 @@
       "Kihaya": "Omukalanga",
       "Kizaramo": "Mkalanga"
     },
-    "category": "Fruits, Forest",
+    "category": "Fruits trees, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in Rondo forest, recorded in a study on lowland forests [citation:5].",
     "ethnobotany": "Fruits eaten fresh. Timber for construction.",
@@ -6770,7 +6770,7 @@
       "Kihaya": "Omunongoli",
       "Kizaramo": "Mnongoli"
     },
-    "category": "Medicinal, Forest",
+    "category": "Medicinal plants, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in Rondo forest, recorded in a study on lowland forests [citation:5].",
     "ethnobotany": "Bark and leaves used in traditional medicine.",
@@ -6790,7 +6790,7 @@
       "Kihaya": "Onakatumbaku",
       "Kizaramo": "Nakatumbaku"
     },
-    "category": "Timber, Forest",
+    "category": "Timber trees, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in Rondo forest, recorded in a study on lowland forests [citation:5].",
     "ethnobotany": "Timber for construction and furniture.",
@@ -6810,7 +6810,7 @@
       "Kihaya": "Ontulumuti",
       "Kizaramo": "Ntulumuti"
     },
-    "category": "Timber, Forest",
+    "category": "Timber trees, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in Rondo forest, recorded in a study on lowland forests [citation:5].",
     "ethnobotany": "Timber for construction and furniture.",
@@ -6830,7 +6830,7 @@
       "Kihaya": "Omilembutuka Mweusi",
       "Kizaramo": "Milembutuka Mweusi"
     },
-    "category": "Semi-Arid and Reforestation Trees, Shade",
+    "category": "Semi-Arid reforestation trees, Shade trees",
     "conservationStatus": "Least Concern",
     "description": "A succulent shrub or small tree found in Rondo forest, recorded in a study on lowland forests [citation:5].",
     "ethnobotany": "Used for hedging and as a living fence. Low maintenance.",
@@ -6850,7 +6850,7 @@
       "Kihaya": "Omutondoli",
       "Kizaramo": "Mtondoli"
     },
-    "category": "Timber, Fruits",
+    "category": "Timber trees, Fruits trees",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in Rondo forest, recorded in a study on lowland forests [citation:5].",
     "ethnobotany": "Timber for construction and furniture. Fruits eaten fresh.",
@@ -6870,7 +6870,7 @@
       "Kihaya": "Onami",
       "Kizaramo": "Nami"
     },
-    "category": "Fruits, Forest",
+    "category": "Fruits trees, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in Rondo forest, recorded in a study on lowland forests [citation:5].",
     "ethnobotany": "Fruits eaten fresh. Timber for construction.",
@@ -6890,7 +6890,7 @@
       "Kihaya": "Omukanye",
       "Kizaramo": "Mkanye"
     },
-    "category": "Fruits, Timber",
+    "category": "Fruits trees, Timber trees",
     "conservationStatus": "Vulnerable",
     "description": "A valuable tree species found in Tanzania's lowland forests. Produces oil-rich seeds and edible fruits [citation:1].",
     "ethnobotany": "Seeds used for oil extraction. Timber for construction.",
@@ -6910,7 +6910,7 @@
       "Kihaya": "Omutobo",
       "Kizaramo": "Mtobo"
     },
-    "category": "Fruits, Medicinal",
+    "category": "Fruits trees, Medicinal plants",
     "conservationStatus": "Least Concern",
     "description": "A small tree with edible fruits that have a slimy texture. Used in traditional medicine [citation:1].",
     "ethnobotany": "Fruits eaten fresh. Bark used in traditional medicine.",
@@ -6930,7 +6930,7 @@
       "Kihaya": "Omukungumaji",
       "Kizaramo": "Mkungumaji"
     },
-    "category": "Fruits, Agroforestry",
+    "category": "Fruits trees, Agroforestry trees",
     "conservationStatus": "Least Concern",
     "description": "A medium-sized tree with edible fruits that are rich in vitamins. Commonly found in dry woodlands [citation:1].",
     "ethnobotany": "Fruits eaten fresh or dried. Wood for construction.",
@@ -6950,7 +6950,7 @@
       "Kihaya": "Omugunga Mwekundu",
       "Kizaramo": "Mugunga Mwekundu"
     },
-    "category": "Semi-Arid and Reforestation Trees",
+    "category": "Semi-Arid reforestation trees",
     "conservationStatus": "Least Concern",
     "description": "A drought-tolerant tree with distinctive red thorns, found in dry savanna and semi-arid regions of Tanzania [citation:2][citation:8].",
     "ethnobotany": "Wood used for fuel and fencing. Provides shade and fodder for livestock.",
@@ -6970,7 +6970,7 @@
       "Kihaya": "Omubungu",
       "Kizaramo": "Mubungu"
     },
-    "category": "Timber, Agroforestry, Bee folders trees",
+    "category": "Timber trees, Agroforestry trees, Bee folders trees",
     "conservationStatus": "Least Concern",
     "description": "A fast-growing tree found in dry lowland forests and savannas, producing high-quality timber and good bee forage [citation:2][citation:8].",
     "ethnobotany": "Timber for furniture and construction. Flowers provide excellent bee forage.",
@@ -6990,7 +6990,7 @@
       "Kihaya": "Omugunga Mwembwe",
       "Kizaramo": "Mugunga Mwembwe"
     },
-    "category": "Shade, Agroforestry, Livestock folders",
+    "category": "Shade trees, Agroforestry trees, Livestock folders trees",
     "conservationStatus": "Least Concern",
     "description": "A medium-sized tree with distinctive peeling bark, found in dry woodlands and savannas. Provides good shade and fodder [citation:2][citation:8].",
     "ethnobotany": "Leaves used as fodder. Wood for fuel and fencing. Provides excellent shade.",
@@ -7010,7 +7010,7 @@
       "Kihaya": "Omugunga Tanzania",
       "Kizaramo": "Mugunga Tanzania"
     },
-    "category": "Semi-Arid and Reforestation Trees",
+    "category": "Semi-Arid reforestation trees",
     "conservationStatus": "Least Concern",
     "description": "An acacia species found in Tanzanian savannas and dry woodlands, important for reforestation in semi-arid areas [citation:2][citation:8].",
     "ethnobotany": "Provides fuelwood and fodder. Used for soil improvement.",
@@ -7030,7 +7030,7 @@
       "Kihaya": "Omukinga",
       "Kizaramo": "Mkinga"
     },
-    "category": "Timber, Shade, Agroforestry",
+    "category": "Timber trees, Shade trees, Agroforestry trees",
     "conservationStatus": "Least Concern",
     "description": "A large tree found in dry lowland forests and savannas, valued for its timber and shade [citation:2][citation:9].",
     "ethnobotany": "Timber for construction and furniture. Provides excellent shade in agroforestry systems.",
@@ -7050,7 +7050,7 @@
       "Kihaya": "Omukinga Mwekundu",
       "Kizaramo": "Mkinga Mwekundu"
     },
-    "category": "Timber, Shade, Forest",
+    "category": "Timber trees, Shade trees, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A medium-sized tree found in dry woodlands, recorded in various Tanzanian forest reserves [citation:2][citation:9].",
     "ethnobotany": "Timber for construction and furniture. Provides shade and contributes to forest biodiversity.",
@@ -7070,7 +7070,7 @@
       "Kihaya": "Omukange",
       "Kizaramo": "Mkange"
     },
-    "category": "Timber, Shade",
+    "category": "Timber trees, Shade trees",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in lowland forests, recorded in Tanzanian forest reserves [citation:2][citation:9].",
     "ethnobotany": "Timber for construction and furniture. Provides shade in forests.",
@@ -7090,7 +7090,7 @@
       "Kihaya": "Omukandaa",
       "Kizaramo": "Mkandaa"
     },
-    "category": "Semi-Arid and Reforestation Trees, Arid Forest Trees and Shrubs",
+    "category": "Semi-Arid reforestation trees, Arid Forest Trees and Shrubs",
     "conservationStatus": "Least Concern",
     "description": "A drought-tolerant tree found in dry savannas and semi-arid regions of Tanzania [citation:2][citation:8].",
     "ethnobotany": "Leaves used as fodder. Wood for firewood and fencing.",
@@ -7110,7 +7110,7 @@
       "Kihaya": "Omnyonyo",
       "Kizaramo": "Mnyonyo"
     },
-    "category": "Water Source Protection Trees, Timber",
+    "category": "Water Source Protection Trees, Timber trees",
     "conservationStatus": "Least Concern",
     "description": "A medium to large tree found along rivers and in evergreen forests. Important for watershed protection [citation:2][citation:8].",
     "ethnobotany": "Timber for construction and furniture. Leaves used in traditional medicine.",
@@ -7130,7 +7130,7 @@
       "Kihaya": "Omulama Mwitu",
       "Kizaramo": "Mlama Mwitu"
     },
-    "category": "Medicinal, Bee folders trees",
+    "category": "Medicinal plants, Bee folders trees",
     "conservationStatus": "Least Concern",
     "description": "A tree found in dry woodlands and savannas, with medicinal properties and good bee forage [citation:2][citation:8].",
     "ethnobotany": "Bark and leaves used in traditional medicine. Flowers attract bees.",
@@ -7150,7 +7150,7 @@
       "Kihaya": "Omulama Mrefu",
       "Kizaramo": "Mlama Mrefu"
     },
-    "category": "Medicinal, Bee folders trees",
+    "category": "Medicinal plants, Bee folders trees",
     "conservationStatus": "Least Concern",
     "description": "A tree found in dry woodlands, with distinctive long flower spikes [citation:2][citation:8].",
     "ethnobotany": "Bark and leaves used in traditional medicine. Flowers provide bee forage.",
@@ -7170,7 +7170,7 @@
       "Kihaya": "Omtimbo",
       "Kizaramo": "Mtimbo"
     },
-    "category": "Semi-Arid and Reforestation Trees, Medicinal",
+    "category": "Semi-Arid reforestation trees, Medicinal plants",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in dry woodlands, producing aromatic resin [citation:2][citation:8].",
     "ethnobotany": "Resin used in traditional medicine. Wood for firewood.",
@@ -7190,7 +7190,7 @@
       "Kihaya": "Omukuba",
       "Kizaramo": "Mkuba"
     },
-    "category": "Semi-Arid and Reforestation Trees, Medicinal",
+    "category": "Semi-Arid reforestation trees, Medicinal trees",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in dry woodlands, producing aromatic resin [citation:2][citation:8].",
     "ethnobotany": "Resin used in traditional medicine. Wood for firewood.",
@@ -7210,7 +7210,7 @@
       "Kihaya": "Omukonga",
       "Kizaramo": "Mkonga"
     },
-    "category": "Semi-Arid and Reforestation Trees, Medicinal",
+    "category": "Semi-Arid reforestation trees, Medicinal plants",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in dry woodlands, producing aromatic resin [citation:2][citation:8].",
     "ethnobotany": "Resin used in traditional medicine. Wood for firewood.",
@@ -7230,7 +7230,7 @@
       "Kihaya": "Omukarakara",
       "Kizaramo": "Mkarakara"
     },
-    "category": "Medicinal, Forest",
+    "category": "Medicinal plants, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A tree found in moist and dry forests, with medicinal properties [citation:2][citation:8].",
     "ethnobotany": "Bark and leaves used in traditional medicine. Wood for firewood.",
@@ -7250,7 +7250,7 @@
       "Kihaya": "Omugiha",
       "Kizaramo": "Mgiha"
     },
-    "category": "Timber, Forest",
+    "category": "Timber trees, Miombo woodlands trees",
     "conservationStatus": "Vulnerable",
     "description": "A valuable timber tree found in dry forests [citation:2][citation:8].",
     "ethnobotany": "Timber for furniture and construction. Bark used in traditional medicine.",
@@ -7270,7 +7270,7 @@
       "Kihaya": "Omupingo Mgumu",
       "Kizaramo": "Mpingo Mgumu"
     },
-    "category": "Timber, Forest",
+    "category": "Timber trees, Miombo woodland trees",
     "conservationStatus": "Vulnerable",
     "description": "A valuable timber tree species, closely related to Dalbergia melanoxylon [citation:2][citation:8].",
     "ethnobotany": "Wood used for furniture, carvings, and musical instruments.",
@@ -7290,7 +7290,7 @@
       "Kihaya": "Omupingo Mweupe",
       "Kizaramo": "Mpingo Mweupe"
     },
-    "category": "Timber, Fruits",
+    "category": "Timber trees, Fruits trees",
     "conservationStatus": "Least Concern",
     "description": "A tree found in dry forests, producing edible fruits and valuable timber [citation:2][citation:8].",
     "ethnobotany": "Fruits eaten fresh. Wood for construction and furniture.",
@@ -7310,7 +7310,7 @@
       "Kihaya": "Omugololo",
       "Kizaramo": "Mgololo"
     },
-    "category": "Medicinal, Forest",
+    "category": "Medicinal plants, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A tree found in dry forests, with medicinal properties [citation:2][citation:8].",
     "ethnobotany": "Bark and leaves used in traditional medicine. Wood for firewood.",
@@ -7330,7 +7330,7 @@
       "Kihaya": "Omudaa",
       "Kizaramo": "Mdaa"
     },
-    "category": "Medicinal, Urban and settlement trees",
+    "category": "Medicinal plants, Urban and settlement trees",
     "conservationStatus": "Least Concern",
     "description": "A shrub or small tree with medicinal properties, found in dry savannas [citation:2][citation:8].",
     "ethnobotany": "Branches used as a toothbrush. Fruits attract birds.",
@@ -7350,7 +7350,7 @@
       "Kihaya": "Omukuyu Kichaka",
       "Kizaramo": "Mkuyu Kichaka"
     },
-    "category": "Fruits, Shade, Water Source Protection Trees",
+    "category": "Fruits trees, Shade trees, Water Source Protection Trees",
     "conservationStatus": "Least Concern",
     "description": "A fig tree found in dry woodlands and along rivers, providing shade and edible fruits [citation:2][citation:8].",
     "ethnobotany": "Fruits eaten by birds and wildlife. Bark used in traditional medicine.",
@@ -7370,7 +7370,7 @@
       "Kihaya": "Omung'unga",
       "Kizaramo": "Mng'unga"
     },
-    "category": "Fruits, Urban and settlement trees",
+    "category": "Fruits trees, Urban and settlement trees",
     "conservationStatus": "Least Concern",
     "description": "A shrub or small tree with edible fruits, useful for hedging [citation:2][citation:8].",
     "ethnobotany": "Fruits eaten fresh. Used for hedging and border-planting.",
@@ -7390,7 +7390,7 @@
       "Kihaya": "Omukole",
       "Kizaramo": "Mkole"
     },
-    "category": "Agroforestry, Livestock folders",
+    "category": "Agroforestry trees, Livestock folders trees",
     "conservationStatus": "Least Concern",
     "description": "A shrub or small tree with multiple uses, including fodder and soil improvement [citation:2][citation:8].",
     "ethnobotany": "Leaves used as fodder. Bark for rope and medicine.",
@@ -7410,7 +7410,7 @@
       "Kihaya": "Omulosya",
       "Kizaramo": "Mlosya"
     },
-    "category": "Medicinal, Forest",
+    "category": "Medicinal plants, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A tree found in montane forests, with medicinal properties [citation:2][citation:8].",
     "ethnobotany": "Bark and leaves used in traditional medicine.",
@@ -7430,7 +7430,7 @@
       "Kihaya": "Omuchare",
       "Kizaramo": "Mchare"
     },
-    "category": "Timber, Water Source Protection Trees",
+    "category": "Timber trees, Water Source Protection Trees",
     "conservationStatus": "Least Concern",
     "description": "A tree found in montane forests and along rivers, important for watershed protection [citation:2][citation:8].",
     "ethnobotany": "Timber for construction. Leaves used in traditional medicine.",
@@ -7450,7 +7450,7 @@
       "Kihaya": "Omuseta",
       "Kizaramo": "Mseta"
     },
-    "category": "Forest, Bee folders trees, Timber",
+    "category": "Miombo wood land trees, Bee folders trees",
     "conservationStatus": "Least Concern",
     "description": "A dominant miombo tree species, important for honey production and timber [citation:2][citation:8].",
     "ethnobotany": "Timber for construction and fuel. Provides excellent bee forage.",
@@ -7470,7 +7470,7 @@
       "Kihaya": "Omukangazi",
       "Kizaramo": "Mkangazi"
     },
-    "category": "Timber, Shade, Forest",
+    "category": "Timber trees, Shade trees, Miombo woodland trees",
     "conservationStatus": "Vulnerable",
     "description": "A valuable timber tree found in tropical forests, threatened by overexploitation [citation:2][citation:8].",
     "ethnobotany": "Timber for furniture and construction. Bark used in traditional medicine.",
@@ -7490,7 +7490,7 @@
       "Kihaya": "Omwegea",
       "Kizaramo": "Mwegea"
     },
-    "category": "Medicinal, Bee folders trees",
+    "category": "Medicinal plants, Bee folders trees",
     "conservationStatus": "Least Concern",
     "description": "A tree with large sausage-shaped fruits, used in traditional medicine [citation:2][citation:8].",
     "ethnobotany": "Fruits used for treating skin diseases. Flowers attract bees.",
@@ -7510,7 +7510,7 @@
       "Kihaya": "Omutabagila",
       "Kizaramo": "Mtabagila"
     },
-    "category": "Timber, Agroforestry",
+    "category": "Timber trees, Agroforestry trees",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in dry woodlands, valued for its timber and used in agroforestry [citation:2][citation:8].",
     "ethnobotany": "Timber for construction and furniture. Leaves used as fodder.",
@@ -7530,7 +7530,7 @@
       "Kihaya": "Omuguvani",
       "Kizaramo": "Muguvani"
     },
-    "category": "Urban and settlement trees, Ornamental, Bee folders trees",
+    "category": "Urban and settlement trees, Ornamental trees, Bee folders trees",
     "conservationStatus": "Least Concern",
     "description": "A small tree with striking yellow flowers, used for hedging and ornament [citation:2][citation:8].",
     "ethnobotany": "Used for hedging and ornamental purposes. Attracts bees and birds.",
@@ -7550,7 +7550,7 @@
       "Kihaya": "Omuzambarau Mdogo",
       "Kizaramo": "Mzambarau Mdogo"
     },
-    "category": "Ornamental, Urban and settlement trees",
+    "category": "Ornamental trees, Urban and settlement trees",
     "conservationStatus": "Least Concern",
     "description": "A small tree with attractive flowers, found in coastal forests and urban areas [citation:2][citation:8].",
     "ethnobotany": "Planted for ornament. Wood for carving.",
@@ -7570,7 +7570,7 @@
       "Kihaya": "Omukongo Usambara",
       "Kizaramo": "Mkongo Usambara"
     },
-    "category": "Water Source Protection Trees, Timber, Forest",
+    "category": "Water Source Protection Trees, Timber trees, Miombo woodland trees",
     "conservationStatus": "Vulnerable",
     "description": "A valuable timber tree endemic to the Eastern Arc Mountains, important for watershed protection [citation:2][citation:8].",
     "ethnobotany": "Timber for furniture and construction. Bark used in traditional medicine.",
@@ -7590,7 +7590,7 @@
       "Kihaya": "Omugunga Mwekundu",
       "Kizaramo": "Mugunga Mwekundu"
     },
-    "category": "Semi-Arid and Reforestation Trees",
+    "category": "Semi-Arid reforestation trees",
     "conservationStatus": "Least Concern",
     "description": "A drought-tolerant tree with greyish bark and red thorns, widely distributed in Tanzania's dry savannas. Known for its medicinal uses and as a source of fodder for livestock [citation:1].",
     "ethnobotany": "Bark used for treating coughs and sore throat. Roots used for stomach pain. Wood used for fencing, charcoal, and small furniture. Honey bees feed on its flowers [citation:1].",
@@ -7610,7 +7610,7 @@
       "Kihaya": "Omubungu",
       "Kizaramo": "Mubungu"
     },
-    "category": "Timber, Agroforestry, Bee folders trees",
+    "category": "Timber trees, Agroforestry trees, Bee folders trees",
     "conservationStatus": "Least Concern",
     "description": "A fast-growing tree found in dry lowland forests and savannas across Tanzania. Produces durable timber and is an excellent source of bee forage [citation:2].",
     "ethnobotany": "Timber for furniture and construction. Flowers provide good bee forage. Wood used for fencing and fuel.",
@@ -7630,7 +7630,7 @@
       "Kihaya": "Omugunga Mwembwe",
       "Kizaramo": "Mugunga Mwembwe"
     },
-    "category": "Shade, Agroforestry, Livestock folders",
+    "category": "Shade trees, Agroforestry trees, Livestock folders trees",
     "conservationStatus": "Least Concern",
     "description": "A medium-sized tree with distinctive peeling bark, found in dry woodlands and savannas of Tanzania. Provides shade and nutritious fodder for livestock [citation:3].",
     "ethnobotany": "Leaves used as fodder. Wood for fuel and fencing. Provides excellent shade.",
@@ -7650,7 +7650,7 @@
       "Kihaya": "Omugunga Tanzania",
       "Kizaramo": "Mugunga Tanzania"
     },
-    "category": "Semi-Arid and Reforestation Trees",
+    "category": "Semi-Arid reforestation trees",
     "conservationStatus": "Least Concern",
     "description": "An acacia species endemic to Tanzania, found in savannas and dry woodlands. Important for reforestation in semi-arid areas [citation:4].",
     "ethnobotany": "Provides fuelwood and fodder. Used for soil improvement.",
@@ -7670,7 +7670,7 @@
       "Kihaya": "Omukinga",
       "Kizaramo": "Mkinga"
     },
-    "category": "Timber, Shade, Agroforestry",
+    "category": "Timber trees, Shade trees, Agroforestry trees",
     "conservationStatus": "Least Concern",
     "description": "A large tree found in mountain forests and highlands of Tanzania, valued for its timber and nitrogen-fixing properties [citation:5].",
     "ethnobotany": "Timber for construction and furniture. Roots used for headaches and pain relief. Improves soil fertility [citation:5].",
@@ -7690,7 +7690,7 @@
       "Kihaya": "Omukinga Mwekundu",
       "Kizaramo": "Mkinga Mwekundu"
     },
-    "category": "Timber, Shade, Forest",
+    "category": "Timber trees, Shade trees, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A medium-sized tree found in dry woodlands, preferred for wood fuel and timber in Tanzanian savanna ecosystems [citation:6].",
     "ethnobotany": "Timber for construction and furniture. Provides shade and contributes to forest biodiversity.",
@@ -7710,7 +7710,7 @@
       "Kihaya": "Omusisina",
       "Kizaramo": "Msisina"
     },
-    "category": "Timber, Shade, Forest",
+    "category": "Timber trees, Shade trees, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in dry woodlands, preferred for wood fuel and timber in Tanzanian savanna ecosystems [citation:6].",
     "ethnobotany": "Timber for construction and furniture. Provides shade and contributes to forest biodiversity.",
@@ -7730,7 +7730,7 @@
       "Kihaya": "Omukange",
       "Kizaramo": "Mkange"
     },
-    "category": "Timber, Shade",
+    "category": "Timber trees, Shade trees",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in dry tropical forests of Tanzania, including regions like Kilimanjaro and the Eastern Arc Mountains [citation:7].",
     "ethnobotany": "Timber for construction and furniture. Provides shade in forests.",
@@ -7750,7 +7750,7 @@
       "Kihaya": "Omukandaa",
       "Kizaramo": "Mkandaa"
     },
-    "category": "Semi-Arid and Reforestation Trees, Arid Forest Trees and Shrubs",
+    "category": "Semi-Arid reforestation trees, Arid Forest Trees and Shrubs",
     "conservationStatus": "Least Concern",
     "description": "A tree species recorded in Tanzania's dry regions, including Mtera and other areas with low rainfall [citation:8].",
     "ethnobotany": "Leaves used as fodder. Wood for firewood and fencing.",
@@ -7770,7 +7770,7 @@
       "Kihaya": "Omnyonyo",
       "Kizaramo": "Mnyonyo"
     },
-    "category": "Water Source Protection Trees, Timber",
+    "category": "Water Source Protection Trees, Timber trees",
     "conservationStatus": "Least Concern",
     "description": "A medium to large tree found along rivers and in evergreen forests. Important for watershed protection and provides durable timber [citation:9].",
     "ethnobotany": "Timber for construction and furniture. Leaves used in traditional medicine.",
@@ -7790,7 +7790,7 @@
       "Kihaya": "Omulama Mwitu",
       "Kizaramo": "Mlama Mwitu"
     },
-    "category": "Medicinal, Bee folders trees",
+    "category": "Medicinal plants, Bee folders trees",
     "conservationStatus": "Least Concern",
     "description": "A dominant tree species in the Katavi-Rukwa ecosystem of western Tanzania, found in dry miombo woodlands [citation:10].",
     "ethnobotany": "Bark and leaves used in traditional medicine. Flowers attract bees and are a good source of honey.",
@@ -7810,7 +7810,7 @@
       "Kihaya": "Omulama Mwitu",
       "Kizaramo": "Mlama Mwitu"
     },
-    "category": "Medicinal, Bee folders trees",
+    "category": "Medicinal plants, Bee folders trees",
     "conservationStatus": "Least Concern",
     "description": "A dominant tree species in the Katavi-Rukwa ecosystem, found in dry miombo woodlands of western Tanzania [citation:10].",
     "ethnobotany": "Bark and leaves used in traditional medicine. Provides good bee forage.",
@@ -7830,7 +7830,7 @@
       "Kihaya": "Omulama Mrefu",
       "Kizaramo": "Mlama Mrefu"
     },
-    "category": "Medicinal, Bee folders trees",
+    "category": "Medicinal plants, Bee folders trees",
     "conservationStatus": "Least Concern",
     "description": "A tree found in dry woodlands, with distinctive long flower spikes. Recorded in various Tanzanian ecosystems [citation:10].",
     "ethnobotany": "Bark and leaves used in traditional medicine. Flowers provide bee forage.",
@@ -7850,7 +7850,7 @@
       "Kihaya": "Omtimbo",
       "Kizaramo": "Mtimbo"
     },
-    "category": "Semi-Arid and Reforestation Trees, Medicinal",
+    "category": "Semi-Arid reforestation trees, Medicinal plants",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in dry woodlands, producing aromatic resin used in traditional medicine.",
     "ethnobotany": "Resin used in traditional medicine. Wood for firewood.",
@@ -7870,7 +7870,7 @@
       "Kihaya": "Omukuba",
       "Kizaramo": "Mkuba"
     },
-    "category": "Semi-Arid and Reforestation Trees, Medicinal",
+    "category": "Semi-Arid reforestation trees, Medicinal plants",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in dry woodlands, producing aromatic resin.",
     "ethnobotany": "Resin used in traditional medicine. Wood for firewood.",
@@ -7890,7 +7890,7 @@
       "Kihaya": "Omukonga",
       "Kizaramo": "Mkonga"
     },
-    "category": "Semi-Arid and Reforestation Trees, Medicinal",
+    "category": "Semi-Arid reforestation trees, Medicinal plants",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in dry woodlands, producing aromatic resin.",
     "ethnobotany": "Resin used in traditional medicine. Wood for firewood.",
@@ -7910,7 +7910,7 @@
       "Kihaya": "Omukarakara",
       "Kizaramo": "Mkarakara"
     },
-    "category": "Medicinal, Forest",
+    "category": "Medicinal plants, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A tree found in moist and dry forests, with medicinal properties.",
     "ethnobotany": "Bark and leaves used in traditional medicine. Wood for firewood.",
@@ -7930,7 +7930,7 @@
       "Kihaya": "Omugiha",
       "Kizaramo": "Mgiha"
     },
-    "category": "Timber, Forest",
+    "category": "Timber trees, Miombo woodland trees",
     "conservationStatus": "Vulnerable",
     "description": "A valuable timber tree found in dry forests of Tanzania.",
     "ethnobotany": "Timber for furniture and construction. Bark used in traditional medicine.",
@@ -7950,7 +7950,7 @@
       "Kihaya": "Omupingo Mgumu",
       "Kizaramo": "Mpingo Mgumu"
     },
-    "category": "Timber, Forest",
+    "category": "Timber trees, Miombo woodland trees",
     "conservationStatus": "Vulnerable",
     "description": "A valuable timber tree species, closely related to Dalbergia melanoxylon.",
     "ethnobotany": "Wood used for furniture, carvings, and musical instruments.",
@@ -7970,7 +7970,7 @@
       "Kihaya": "Omupingo Mweupe",
       "Kizaramo": "Mpingo Mweupe"
     },
-    "category": "Timber, Fruits",
+    "category": "Timber trees, Fruits trees",
     "conservationStatus": "Least Concern",
     "description": "A tree found in dry forests, producing edible fruits and valuable timber.",
     "ethnobotany": "Fruits eaten fresh. Wood for construction and furniture.",
@@ -7990,7 +7990,7 @@
       "Kihaya": "Omugololo",
       "Kizaramo": "Mgololo"
     },
-    "category": "Medicinal, Forest",
+    "category": "Medicinal plants, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A tree found in dry forests, with medicinal properties.",
     "ethnobotany": "Bark and leaves used in traditional medicine. Wood for firewood.",
@@ -8010,7 +8010,7 @@
       "Kihaya": "Omudaa",
       "Kizaramo": "Mdaa"
     },
-    "category": "Medicinal, Urban and settlement trees",
+    "category": "Medicinal plants, Urban and settlement trees",
     "conservationStatus": "Least Concern",
     "description": "A shrub or small tree with medicinal properties, found in dry savannas.",
     "ethnobotany": "Branches used as a toothbrush. Fruits attract birds.",
@@ -8030,7 +8030,7 @@
       "Kihaya": "Omukuyu Kichaka",
       "Kizaramo": "Mkuyu Kichaka"
     },
-    "category": "Fruits, Shade, Water Source Protection Trees",
+    "category": "Fruits trees, Shade trees, Water Source Protection Trees",
     "conservationStatus": "Least Concern",
     "description": "A fig tree found in dry woodlands and along rivers, providing shade and edible fruits.",
     "ethnobotany": "Fruits eaten by birds and wildlife. Bark used in traditional medicine.",
@@ -8050,7 +8050,7 @@
       "Kihaya": "Omung'unga",
       "Kizaramo": "Mng'unga"
     },
-    "category": "Fruits, Urban and settlement trees",
+    "category": "Fruits trees, Urban and settlement trees",
     "conservationStatus": "Least Concern",
     "description": "A shrub or small tree with edible fruits, useful for hedging.",
     "ethnobotany": "Fruits eaten fresh. Used for hedging and border-planting.",
@@ -8070,7 +8070,7 @@
       "Kihaya": "Omukole",
       "Kizaramo": "Mkole"
     },
-    "category": "Agroforestry, Livestock folders",
+    "category": "Agroforestry trees, Livestock folders trees",
     "conservationStatus": "Least Concern",
     "description": "A shrub or small tree with multiple uses, including fodder and soil improvement.",
     "ethnobotany": "Leaves used as fodder. Bark for rope and medicine.",
@@ -8090,7 +8090,7 @@
       "Kihaya": "Omulosya",
       "Kizaramo": "Mlosya"
     },
-    "category": "Medicinal, Forest",
+    "category": "Medicinal plants, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A tree found in montane forests, with medicinal properties.",
     "ethnobotany": "Bark and leaves used in traditional medicine.",
@@ -8110,7 +8110,7 @@
       "Kihaya": "Omuchare",
       "Kizaramo": "Mchare"
     },
-    "category": "Timber, Water Source Protection Trees",
+    "category": "Timber trees, Water Source Protection Trees",
     "conservationStatus": "Least Concern",
     "description": "A tree found in montane forests and along rivers, important for watershed protection.",
     "ethnobotany": "Timber for construction. Leaves used in traditional medicine.",
@@ -8130,7 +8130,7 @@
       "Kihaya": "Omuseta",
       "Kizaramo": "Mseta"
     },
-    "category": "Forest, Bee folders trees, Timber",
+    "category": "Bee folders trees, Miombo woodland trees, Timber trees",
     "conservationStatus": "Least Concern",
     "description": "A dominant miombo tree species, important for honey production and timber.",
     "ethnobotany": "Timber for construction and fuel. Provides excellent bee forage.",
@@ -8150,7 +8150,7 @@
       "Kihaya": "Omukangazi",
       "Kizaramo": "Mkangazi"
     },
-    "category": "Timber, Shade, Forest",
+    "category": "Timber plants, Shade trees, Miombo woodland trees",
     "conservationStatus": "Vulnerable",
     "description": "A valuable timber tree found in tropical forests, threatened by overexploitation.",
     "ethnobotany": "Timber for furniture and construction. Bark used in traditional medicine.",
@@ -8170,7 +8170,7 @@
       "Kihaya": "Omwegea",
       "Kizaramo": "Mwegea"
     },
-    "category": "Medicinal, Bee folders trees",
+    "category": "Medicinal plants, Bee folders trees",
     "conservationStatus": "Least Concern",
     "description": "A tree with large sausage-shaped fruits, used in traditional medicine.",
     "ethnobotany": "Fruits used for treating skin diseases. Flowers attract bees.",
@@ -8190,7 +8190,7 @@
       "Kihaya": "Omutabagila",
       "Kizaramo": "Mtabagila"
     },
-    "category": "Timber, Agroforestry",
+    "category": "Timber trees, Agroforestry trees",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in dry woodlands, valued for its timber and used in agroforestry.",
     "ethnobotany": "Timber for construction and furniture. Leaves used as fodder.",
