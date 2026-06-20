@@ -8198,6 +8198,725 @@
     "funFact": "This tree is an important source of timber in dry woodlands.",
     "climateImpact": "Drought tolerant. Thrives in semi-arid conditions.",
     "commonDiseases": ["Leaf spot", "Termite attack"]
+  },
+  {
+    "id": "410",
+    "scientificName": "Agarista salicifolia",
+    "commonName": "Agarista",
+    "localName": "Mlilia",
+    "tribeNames": {
+      "Kichaga": "Mlilia",
+      "Kisukuma": "Ntundu ya Mlilia",
+      "Kihaya": "Omulilia",
+      "Kizaramo": "Mlilia"
+    },
+    "category": "Medicinal plants, Water Source Protection Trees",
+    "conservationStatus": "Least Concern",
+    "description": "A small evergreen shrub or tree found in montane forests and along streams. Known for its bell-shaped white flowers and dense foliage, it plays a critical role in watershed protection in highland areas.",
+    "ethnobotany": "Leaves and bark used in traditional medicine for treating fever and stomach ailments. Planted for soil stabilization along riverbanks.",
+    "imagePath": "assets/images/tree_410.jpg",
+    "funFact": "This species is often found in the understory of Afromontane forests and is an important indicator of undisturbed highland ecosystems.",
+    "climateImpact": "Requires moist, cool conditions. Sensitive to drought and deforestation.",
+    "commonDiseases": ["Leaf spot", "Root rot"]
+  },
+  {
+    "id": "411",
+    "scientificName": "Albizia antunesiana",
+    "commonName": "Antunes' Albizia",
+    "localName": "Mkinga mwitu",
+    "tribeNames": {
+      "Kichaga": "Mkinga mwitu",
+      "Kisukuma": "Ntundu ya Mkinga mwitu",
+      "Kihaya": "Omukinga mwitu",
+      "Kizaramo": "Mkinga mwitu"
+    },
+    "category": "Timber trees, Shade trees, Agroforestry trees",
+    "conservationStatus": "Least Concern",
+    "description": "A medium-sized deciduous tree found in miombo woodlands. Produces durable timber and provides excellent shade. Common in Malawi, Zambia, and Tanzania.",
+    "ethnobotany": "Wood used for construction, furniture, and fuel. Leaves used as green manure. Provides shade in agroforestry systems.",
+    "imagePath": "assets/images/tree_411.jpg",
+    "funFact": "This species is closely related to Albizia schimperana and is valued for its fast growth and nitrogen-fixing abilities.",
+    "climateImpact": "Drought tolerant. Thrives in tropical and subtropical climates.",
+    "commonDiseases": ["Leaf spot", "Root rot"]
+  },
+  {
+    "id": "412",
+    "scientificName": "Antidesma membranaceum",
+    "commonName": "Antidesma",
+    "localName": "Mkwamba mwitu",
+    "tribeNames": {
+      "Kichaga": "Mkwamba",
+      "Kisukuma": "Ntundu ya Mkwamba",
+      "Kihaya": "Omukwamba",
+      "Kizaramo": "Mkwamba"
+    },
+    "category": "Fruits trees, Shade trees",
+    "conservationStatus": "Least Concern",
+    "description": "A small to medium-sized tree found in montane and lowland forests. Produces small, bird-attracting fruits and provides good shade.",
+    "ethnobotany": "Fruits eaten by birds and wildlife. Wood used for fuel and small construction.",
+    "imagePath": "assets/images/tree_412.jpg",
+    "funFact": "This species is an important food source for frugivorous birds in forest ecosystems.",
+    "climateImpact": "Moderately drought tolerant. Prefers well-drained soils.",
+    "commonDiseases": ["Leaf spot", "Powdery mildew"]
+  },
+  {
+    "id": "413",
+    "scientificName": "Aphloia theiformis",
+    "commonName": "Mountain Aphloia",
+    "localName": "Mshinamwali",
+    "tribeNames": {
+      "Kichaga": "Mshinamwali",
+      "Kisukuma": "Ntundu ya Mshinamwali",
+      "Kihaya": "Omushinamwali",
+      "Kizaramo": "Mshinamwali"
+    },
+    "category": "Medicinal plants, Water Source Protection Trees",
+    "conservationStatus": "Least Concern",
+    "description": "An evergreen shrub or small tree found in montane forests and along streams. Known for its glossy leaves and white flowers.",
+    "ethnobotany": "Leaves used in traditional medicine for treating wounds and skin infections. Roots used for digestive problems.",
+    "imagePath": "assets/images/tree_413.jpg",
+    "funFact": "This plant is often used as a natural hedge in highland areas due to its dense growth habit.",
+    "climateImpact": "Requires moist conditions. Thrives in cool, highland environments.",
+    "commonDiseases": ["Leaf spot", "Scale insects"]
+  },
+  {
+    "id": "414",
+    "scientificName": "Apodytes dimidiata",
+    "commonName": "White Pear",
+    "localName": "Mpepo",
+    "tribeNames": {
+      "Kichaga": "Mpepo",
+      "Kisukuma": "Ntundu ya Mpepo",
+      "Kihaya": "Ompepo",
+      "Kizaramo": "Mpepo"
+    },
+    "category": "Timber trees, Shade trees",
+    "conservationStatus": "Least Concern",
+    "description": "A medium to large evergreen tree found in montane and coastal forests. Produces high-quality timber and provides excellent shade.",
+    "ethnobotany": "Timber used for furniture, construction, and carving. Leaves used in traditional medicine for fever treatment.",
+    "imagePath": "assets/images/tree_414.jpg",
+    "funFact": "The wood is known as 'white pear' and is prized for its fine grain and durability.",
+    "climateImpact": "Sensitive to drought. Prefers moist, well-drained soils.",
+    "commonDiseases": ["Leaf spot", "Root rot"]
+  },
+  {
+    "id": "415",
+    "scientificName": "Brackenridgea zanguebarica",
+    "commonName": "Yellow Bark Tree",
+    "localName": "Mkwamba manjano",
+    "tribeNames": {
+      "Kichaga": "Mkwamba manjano",
+      "Kisukuma": "Ntundu ya Mkwamba manjano",
+      "Kihaya": "Omukwamba manjano",
+      "Kizaramo": "Mkwamba manjano"
+    },
+    "category": "Medicinal plants, Ornamental trees",
+    "conservationStatus": "Least Concern",
+    "description": "A small tree with distinctive yellow bark and glossy leaves. Found in coastal and lowland forests.",
+    "ethnobotany": "Bark and roots used in traditional medicine for treating wounds and skin conditions.",
+    "imagePath": "assets/images/tree_415.jpg",
+    "funFact": "The yellow bark is easily identifiable and is used in traditional dye-making.",
+    "climateImpact": "Moderately drought tolerant. Thrives in tropical climates.",
+    "commonDiseases": ["Leaf spot", "Scale insects"]
+  },
+  {
+    "id": "416",
+    "scientificName": "Bridelia bridelifolia",
+    "commonName": "Bridelia",
+    "localName": "Mnyaluhanga",
+    "tribeNames": {
+      "Kichaga": "Mnyaluhanga",
+      "Kisukuma": "Ntundu ya Mnyaluhanga",
+      "Kihaya": "Omunyaluhanga",
+      "Kizaramo": "Mnyaluhanga"
+    },
+    "category": "Livestock folders trees, Shade trees",
+    "conservationStatus": "Least Concern",
+    "description": "A shrub or small tree found in dry woodlands and miombo. Leaves are valuable fodder for livestock.",
+    "ethnobotany": "Leaves used as fodder. Wood used for fuel and fencing. Fruits attract birds.",
+    "imagePath": "assets/images/tree_416.jpg",
+    "funFact": "This species is drought tolerant and can survive in poor soil conditions.",
+    "climateImpact": "Drought tolerant. Thrives in semi-arid conditions.",
+    "commonDiseases": ["Leaf spot", "Powdery mildew"]
+  },
+  {
+    "id": "417",
+    "scientificName": "Burttdavya nyasica",
+    "commonName": "Nyasica Tree",
+    "localName": "Mnyasika",
+    "tribeNames": {
+      "Kichaga": "Mnyasika",
+      "Kisukuma": "Ntundu ya Mnyasika",
+      "Kihaya": "Omunyasika",
+      "Kizaramo": "Mnyasika"
+    },
+    "category": "Timber trees, Medicinal plants",
+    "conservationStatus": "Least Concern",
+    "description": "A tree endemic to the miombo woodlands of Malawi and neighboring regions. Valued for its durable timber and medicinal properties.",
+    "ethnobotany": "Timber used for construction and furniture. Bark used in traditional medicine for treating fever and stomach ailments.",
+    "imagePath": "assets/images/tree_417.jpg",
+    "funFact": "This species is named after the British botanist Burtt Davy and is endemic to the Nyasa region.",
+    "climateImpact": "Drought tolerant. Thrives in miombo woodland conditions.",
+    "commonDiseases": ["Leaf spot", "Root rot"]
+  },
+  {
+    "id": "418",
+    "scientificName": "Combretum mossambicense",
+    "commonName": "Mozambique Combretum",
+    "localName": "Mlama Msumbiji",
+    "tribeNames": {
+      "Kichaga": "Mlama Msumbiji",
+      "Kisukuma": "Ntundu ya Mlama Msumbiji",
+      "Kihaya": "Omulama Msumbiji",
+      "Kizaramo": "Mlama Msumbiji"
+    },
+    "category": "Bee folders trees, Medicinal plants",
+    "conservationStatus": "Least Concern",
+    "description": "A tree found in savannas and dry woodlands. Flowers are rich in nectar and attract bees, making it important for honey production.",
+    "ethnobotany": "Flowers used for bee forage. Bark used in traditional medicine for treating coughs and digestive issues.",
+    "imagePath": "assets/images/tree_418.jpg",
+    "funFact": "This species is known for its beautiful flowers that bloom during the dry season.",
+    "climateImpact": "Drought tolerant. Thrives in tropical savanna conditions.",
+    "commonDiseases": ["Leaf spot", "Powdery mildew"]
+  },
+  {
+    "id": "419",
+    "scientificName": "Craterispermum schweinfurthii",
+    "commonName": "Craterispermum",
+    "localName": "Mkojobo",
+    "tribeNames": {
+      "Kichaga": "Mkojobo",
+      "Kisukuma": "Ntundu ya Mkojobo",
+      "Kihaya": "Omukojobo",
+      "Kizaramo": "Mkojobo"
+    },
+    "category": "Medicinal plants, Fruits trees",
+    "conservationStatus": "Least Concern",
+    "description": "A shrub or small tree found in moist forests. Produces white fruits that are attractive to wildlife.",
+    "ethnobotany": "Fruits eaten by birds and wildlife. Bark and leaves used in traditional medicine.",
+    "imagePath": "assets/images/tree_419.jpg",
+    "funFact": "The white fruits stand out in the forest understory and are an important food source for birds.",
+    "climateImpact": "Requires moist conditions. Thrives in forested areas.",
+    "commonDiseases": ["Leaf spot", "Root rot"]
+  },
+  {
+    "id": "420",
+    "scientificName": "Dalbergiella nyasae",
+    "commonName": "Nyasa Dalbergiella",
+    "localName": "Mpingo Nyasa",
+    "tribeNames": {
+      "Kichaga": "Mpingo Nyasa",
+      "Kisukuma": "Ntundu ya Mpingo Nyasa",
+      "Kihaya": "Omupingo Nyasa",
+      "Kizaramo": "Mpingo Nyasa"
+    },
+    "category": "Timber trees",
+    "conservationStatus": "Least Concern",
+    "description": "A tree endemic to the miombo woodlands of Malawi. Produces hard, durable timber used for construction and furniture.",
+    "ethnobotany": "Timber used for fencing, construction, and furniture. Bark used in traditional medicine.",
+    "imagePath": "assets/images/tree_420.jpg",
+    "funFact": "This species is closely related to Dalbergia and is valued for its heavy, dense wood.",
+    "climateImpact": "Drought tolerant. Thrives in miombo woodland conditions.",
+    "commonDiseases": ["Heart rot", "Termite attack"]
+  },
+  {
+    "id": "421",
+    "scientificName": "Diospyros zombensis",
+    "commonName": "Zomba Ebony",
+    "localName": "Mpingo Zomba",
+    "tribeNames": {
+      "Kichaga": "Mpingo Zomba",
+      "Kisukuma": "Ntundu ya Mpingo Zomba",
+      "Kihaya": "Omupingo Zomba",
+      "Kizaramo": "Mpingo Zomba"
+    },
+    "category": "Timber trees, Fruits trees",
+    "conservationStatus": "Least Concern",
+    "description": "A small to medium-sized tree found in montane forests. Produces edible fruits and valuable timber.",
+    "ethnobotany": "Fruits eaten fresh. Wood used for carving and furniture. Bark used in traditional medicine.",
+    "imagePath": "assets/images/tree_421.jpg",
+    "funFact": "This species is named after Zomba, Malawi, where it was first described.",
+    "climateImpact": "Moderately drought tolerant. Prefers well-drained soils.",
+    "commonDiseases": ["Leaf spot", "Fruit fly"]
+  },
+  {
+    "id": "422",
+    "scientificName": "Erythroxylum emarginatum",
+    "commonName": "Erythroxylum",
+    "localName": "Mnyonge",
+    "tribeNames": {
+      "Kichaga": "Mnyonge",
+      "Kisukuma": "Ntundu ya Mnyonge",
+      "Kihaya": "Omnyonge",
+      "Kizaramo": "Mnyonge"
+    },
+    "category": "Medicinal plants",
+    "conservationStatus": "Least Concern",
+    "description": "A small tree found in miombo woodlands and dry forests. Leaves have medicinal properties.",
+    "ethnobotany": "Leaves and bark used in traditional medicine for treating fever and respiratory conditions.",
+    "imagePath": "assets/images/tree_422.jpg",
+    "funFact": "This genus is related to the coca plant (Erythroxylum coca) and has similar chemical properties.",
+    "climateImpact": "Drought tolerant. Thrives in semi-arid conditions.",
+    "commonDiseases": ["Leaf spot", "Powdery mildew"]
+  },
+  {
+    "id": "423",
+    "scientificName": "Eucalyptus tereticornis",
+    "commonName": "Forest Red Gum",
+    "localName": "Mkaratusi nyekundu",
+    "tribeNames": {
+      "Kichaga": "Mkaratusi nyekundu",
+      "Kisukuma": "Ntundu ya Mkaratusi nyekundu",
+      "Kihaya": "Omukaratusi nyekundu",
+      "Kizaramo": "Mkaratusi nyekundu"
+    },
+    "category": "Timber trees, Shade trees, Agroforestry trees",
+    "conservationStatus": "Least Concern",
+    "description": "A fast-growing exotic tree from Australia, widely planted for timber, shade, and windbreaks. Common in plantations across Malawi and Tanzania.",
+    "ethnobotany": "Timber for construction, poles, and fuel. Provides excellent shade in agroforestry systems.",
+    "imagePath": "assets/images/tree_423.jpg",
+    "funFact": "This eucalyptus species is one of the most widely planted trees in the tropics for timber and reforestation.",
+    "climateImpact": "Drought tolerant. Thrives in tropical and subtropical climates.",
+    "commonDiseases": ["Leaf spot", "Termite attack"]
+  },
+  {
+    "id": "424",
+    "scientificName": "Friesodielsia obovata",
+    "commonName": "Friesodielsia",
+    "localName": "Mchungu mwitu",
+    "tribeNames": {
+      "Kichaga": "Mchungu mwitu",
+      "Kisukuma": "Ntundu ya Mchungu mwitu",
+      "Kihaya": "Omuchungu mwitu",
+      "Kizaramo": "Mchungu mwitu"
+    },
+    "category": "Fruits trees, Medicinal plants",
+    "conservationStatus": "Least Concern",
+    "description": "A small tree found in moist forests. Produces cherry-like fruits that are attractive to wildlife.",
+    "ethnobotany": "Fruits eaten by birds and wildlife. Bark and leaves used in traditional medicine.",
+    "imagePath": "assets/images/tree_424.jpg",
+    "funFact": "The fruits resemble small cherries and are an important food source for forest birds.",
+    "climateImpact": "Requires moist conditions. Thrives in forested areas.",
+    "commonDiseases": ["Leaf spot", "Fruit fly"]
+  },
+  {
+    "id": "425",
+    "scientificName": "Garcinia buchananii",
+    "commonName": "Buchanan's Garcinia",
+    "localName": "Msambia mweusi",
+    "tribeNames": {
+      "Kichaga": "Msambia mweusi",
+      "Kisukuma": "Ntundu ya Msambia mweusi",
+      "Kihaya": "Omusambia mweusi",
+      "Kizaramo": "Msambia mweusi"
+    },
+    "category": "Fruits trees, Medicinal plants",
+    "conservationStatus": "Least Concern",
+    "description": "A tree found in montane forests, producing edible fruits rich in vitamins. Related to the mangosteen.",
+    "ethnobotany": "Fruits eaten fresh or used in traditional medicine for treating digestive issues.",
+    "imagePath": "assets/images/tree_425.jpg",
+    "funFact": "This species is closely related to the mangosteen (Garcinia mangostana) and produces similar fruits.",
+    "climateImpact": "Requires moist, cool conditions. Thrives in highland forests.",
+    "commonDiseases": ["Leaf spot", "Fruit fly"]
+  },
+  {
+    "id": "426",
+    "scientificName": "Garcinia huillensis",
+    "commonName": "Huilla Garcinia",
+    "localName": "Msambia manjano",
+    "tribeNames": {
+      "Kichaga": "Msambia manjano",
+      "Kisukuma": "Ntundu ya Msambia manjano",
+      "Kihaya": "Omusambia manjano",
+      "Kizaramo": "Msambia manjano"
+    },
+    "category": "Fruits trees, Medicinal plants",
+    "conservationStatus": "Least Concern",
+    "description": "A tree found in lowland and montane forests, producing yellow fruits that attract wildlife.",
+    "ethnobotany": "Fruits eaten by birds and wildlife. Bark used in traditional medicine for treating wounds.",
+    "imagePath": "assets/images/tree_426.jpg",
+    "funFact": "The yellow fruits are rich in vitamins and are an important food source for forest animals.",
+    "climateImpact": "Moderately drought tolerant. Prefers well-drained soils.",
+    "commonDiseases": ["Leaf spot", "Fruit fly"]
+  },
+  {
+    "id": "427",
+    "scientificName": "Gymnosporia buxifolia",
+    "commonName": "Common Spike Thorn",
+    "localName": "Mkole mwiba",
+    "tribeNames": {
+      "Kichaga": "Mkole mwiba",
+      "Kisukuma": "Ntundu ya Mkole mwiba",
+      "Kihaya": "Omukole mwiba",
+      "Kizaramo": "Mkole mwiba"
+    },
+    "category": "Livestock folders trees, Medicinal plants",
+    "conservationStatus": "Least Concern",
+    "description": "A thorny shrub or small tree found in dry savannas and woodlands. Leaves are valuable fodder for livestock.",
+    "ethnobotany": "Leaves used as fodder. Bark and roots used in traditional medicine for treating fever.",
+    "imagePath": "assets/images/tree_427.jpg",
+    "funFact": "The thorns make this plant useful for hedges and living fences.",
+    "climateImpact": "Drought tolerant. Thrives in semi-arid conditions.",
+    "commonDiseases": ["Leaf spot", "Scale insects"]
+  },
+  {
+    "id": "428",
+    "scientificName": "Harungana madagascariensis",
+    "commonName": "Orange Milk Tree",
+    "localName": "Mlolwa",
+    "tribeNames": {
+      "Kichaga": "Mlolwa",
+      "Kisukuma": "Ntundu ya Mlolwa",
+      "Kihaya": "Omulolwa",
+      "Kizaramo": "Mlolwa"
+    },
+    "category": "Medicinal plants, Fruits trees",
+    "conservationStatus": "Least Concern",
+    "description": "A medium-sized tree found in moist forests and along rivers. Produces orange-colored fruits and has medicinal properties.",
+    "ethnobotany": "Bark and leaves used in traditional medicine for treating malaria, worms, and skin conditions.",
+    "imagePath": "assets/images/tree_428.jpg",
+    "funFact": "The bark exudes an orange-red sap that is used as a dye and in traditional medicine.",
+    "climateImpact": "Requires moist conditions. Thrives in forested and riparian areas.",
+    "commonDiseases": ["Leaf spot", "Root rot"]
+  },
+  {
+    "id": "429",
+    "scientificName": "Multidentia crassa",
+    "commonName": "Multidentia",
+    "localName": "Mkungu",
+    "tribeNames": {
+      "Kichaga": "Mkungu",
+      "Kisukuma": "Ntundu ya Mkungu",
+      "Kihaya": "Omukungu",
+      "Kizaramo": "Mkungu"
+    },
+    "category": "Fruits trees, Shade trees",
+    "conservationStatus": "Least Concern",
+    "description": "A small tree found in miombo woodlands, producing large fruits that attract wildlife.",
+    "ethnobotany": "Fruits eaten by birds and wildlife. Wood used for fuel and small construction.",
+    "imagePath": "assets/images/tree_429.jpg",
+    "funFact": "The large fruits are a favorite food for monkeys and birds in miombo woodlands.",
+    "climateImpact": "Drought tolerant. Thrives in semi-arid conditions.",
+    "commonDiseases": ["Leaf spot", "Fruit fly"]
+  },
+  {
+    "id": "430",
+    "scientificName": "Neoboutonia africana",
+    "commonName": "African Neoboutonia",
+    "localName": "Mkangazi mwitu",
+    "tribeNames": {
+      "Kichaga": "Mkangazi mwitu",
+      "Kisukuma": "Ntundu ya Mkangazi mwitu",
+      "Kihaya": "Omukangazi mwitu",
+      "Kizaramo": "Mkangazi mwitu"
+    },
+    "category": "Medicinal plants, Timber trees",
+    "conservationStatus": "Least Concern",
+    "description": "A tree found in montane forests, with bark used for making traditional rope and medicine.",
+    "ethnobotany": "Bark used for making rope, fishing nets, and in traditional medicine for treating wounds.",
+    "imagePath": "assets/images/tree_430.jpg",
+    "funFact": "The bark fibers are strong and have been used traditionally for making ropes and cords.",
+    "climateImpact": "Requires moist, cool conditions. Thrives in highland forests.",
+    "commonDiseases": ["Leaf spot", "Root rot"]
+  },
+  {
+    "id": "431",
+    "scientificName": "Olax obtusifolia",
+    "commonName": "Olax",
+    "localName": "Mkole buluu",
+    "tribeNames": {
+      "Kichaga": "Mkole buluu",
+      "Kisukuma": "Ntundu ya Mkole buluu",
+      "Kihaya": "Omukole buluu",
+      "Kizaramo": "Mkole buluu"
+    },
+    "category": "Fruits trees, Shade trees",
+    "conservationStatus": "Least Concern",
+    "description": "A small tree found in miombo woodlands, producing blue-black fruits that attract birds.",
+    "ethnobotany": "Fruits eaten by birds and wildlife. Wood used for fuel and small construction.",
+    "imagePath": "assets/images/tree_431.jpg",
+    "funFact": "The blue-black fruits are an important food source for birds in miombo woodlands.",
+    "climateImpact": "Drought tolerant. Thrives in semi-arid conditions.",
+    "commonDiseases": ["Leaf spot", "Powdery mildew"]
+  },
+  {
+    "id": "432",
+    "scientificName": "Ormocarpum kirkii",
+    "commonName": "Kirk's Ormocarpum",
+    "localName": "Kitimbwi",
+    "tribeNames": {
+      "Kichaga": "Kitimbwi",
+      "Kisukuma": "Ntundu ya Kitimbwi",
+      "Kihaya": "Ekitimbwi",
+      "Kizaramo": "Kitimbwi"
+    },
+    "category": "Agroforestry trees, Livestock folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A small tree found in dry woodlands and miombo. Leaves are valuable fodder for livestock.",
+    "ethnobotany": "Leaves used as fodder. Wood used for fuel and fencing. Fixes nitrogen and improves soil fertility.",
+    "imagePath": "assets/images/tree_432.jpg",
+    "funFact": "This species is named after Sir John Kirk, a British botanist who explored East Africa.",
+    "climateImpact": "Drought tolerant. Thrives in semi-arid conditions.",
+    "commonDiseases": ["Leaf spot", "Powdery mildew"]
+  },
+  {
+    "id": "433",
+    "scientificName": "Ozoroa insignis",
+    "commonName": "Ozoroa",
+    "localName": "Muwotaponzi",
+    "tribeNames": {
+      "Kichaga": "Muwotaponzi",
+      "Kisukuma": "Ntundu ya Muwotaponzi",
+      "Kihaya": "Omuwotaponzi",
+      "Kizaramo": "Muwotaponzi"
+    },
+    "category": "Medicinal plants",
+    "conservationStatus": "Least Concern",
+    "description": "A tree found in miombo woodlands, with bark and leaves used in traditional medicine.",
+    "ethnobotany": "Bark and leaves used for treating diarrhea, stomach pain, and fever.",
+    "imagePath": "assets/images/tree_433.jpg",
+    "funFact": "The bark is highly astringent and has been used traditionally for treating diarrhea.",
+    "climateImpact": "Drought tolerant. Thrives in semi-arid conditions.",
+    "commonDiseases": ["Leaf spot", "Root rot"]
+  },
+  {
+    "id": "434",
+    "scientificName": "Peddiea africana",
+    "commonName": "African Peddiea",
+    "localName": "Mwathu",
+    "tribeNames": {
+      "Kichaga": "Mwathu",
+      "Kisukuma": "Ntundu ya Mwathu",
+      "Kihaya": "Omuwathu",
+      "Kizaramo": "Mwathu"
+    },
+    "category": "Medicinal plants, Ornamental trees",
+    "conservationStatus": "Least Concern",
+    "description": "A small tree found in montane forests, with yellow flowers and medicinal properties.",
+    "ethnobotany": "Bark and roots used in traditional medicine for treating fever and skin conditions.",
+    "imagePath": "assets/images/tree_434.jpg",
+    "funFact": "The yellow flowers are attractive and make this tree popular in ornamental gardens.",
+    "climateImpact": "Requires moist, cool conditions. Thrives in highland forests.",
+    "commonDiseases": ["Leaf spot", "Scale insects"]
+  },
+  {
+    "id": "435",
+    "scientificName": "Protea petiolaris",
+    "commonName": "Protea",
+    "localName": "Mprotea mwitu",
+    "tribeNames": {
+      "Kichaga": "Mprotea mwitu",
+      "Kisukuma": "Ntundu ya Mprotea mwitu",
+      "Kihaya": "Omupwotea mwitu",
+      "Kizaramo": "Mprotea mwitu"
+    },
+    "category": "Ornamental trees, Shade trees",
+    "conservationStatus": "Least Concern",
+    "description": "A small tree found in miombo woodlands and savannas, producing large pink flowers.",
+    "ethnobotany": "Planted for ornament. Flowers used in floral arrangements.",
+    "imagePath": "assets/images/tree_435.jpg",
+    "funFact": "This protea species is related to the South African national flower, the King Protea.",
+    "climateImpact": "Drought tolerant. Thrives in tropical savanna conditions.",
+    "commonDiseases": ["Leaf spot", "Root rot"]
+  },
+  {
+    "id": "436",
+    "scientificName": "Psorospermum febrifugum",
+    "commonName": "Psorospermum",
+    "localName": "Mkong'ondo",
+    "tribeNames": {
+      "Kichaga": "Mkong'ondo",
+      "Kisukuma": "Ntundu ya Mkong'ondo",
+      "Kihaya": "Omukong'ondo",
+      "Kizaramo": "Mkong'ondo"
+    },
+    "category": "Medicinal plants",
+    "conservationStatus": "Least Concern",
+    "description": "A tree found in miombo woodlands, with bark used in traditional medicine for treating fever.",
+    "ethnobotany": "Bark and leaves used for treating malaria, fever, and digestive problems.",
+    "imagePath": "assets/images/tree_436.jpg",
+    "funFact": "The name 'febrifugum' means 'fever-dispelling' in Latin, referring to its medicinal use.",
+    "climateImpact": "Drought tolerant. Thrives in semi-arid conditions.",
+    "commonDiseases": ["Leaf spot", "Root rot"]
+  },
+  {
+    "id": "437",
+    "scientificName": "Psychotria mahonii",
+    "commonName": "Mahon's Psychotria",
+    "localName": "Mkole mwekundu",
+    "tribeNames": {
+      "Kichaga": "Mkole mwekundu",
+      "Kisukuma": "Ntundu ya Mkole mwekundu",
+      "Kihaya": "Omukole mwekundu",
+      "Kizaramo": "Mkole mwekundu"
+    },
+    "category": "Fruits trees, Medicinal plants",
+    "conservationStatus": "Least Concern",
+    "description": "A small tree found in montane forests, producing red fruits that attract birds.",
+    "ethnobotany": "Fruits eaten by birds and wildlife. Leaves used in traditional medicine for treating wounds.",
+    "imagePath": "assets/images/tree_437.jpg",
+    "funFact": "The red fruits are a favorite food for many forest bird species.",
+    "climateImpact": "Requires moist conditions. Thrives in highland forests.",
+    "commonDiseases": ["Leaf spot", "Powdery mildew"]
+  },
+  {
+    "id": "438",
+    "scientificName": "Rapanea melanophloeos",
+    "commonName": "Cape Beech",
+    "localName": "Mshambala",
+    "tribeNames": {
+      "Kichaga": "Mshambala",
+      "Kisukuma": "Ntundu ya Mshambala",
+      "Kihaya": "Omushambala",
+      "Kizaramo": "Mshambala"
+    },
+    "category": "Timber trees, Medicinal plants",
+    "conservationStatus": "Least Concern",
+    "description": "A medium-sized tree found in montane forests, with dark bark and medicinal properties.",
+    "ethnobotany": "Timber used for construction and furniture. Bark used in traditional medicine for treating fever.",
+    "imagePath": "assets/images/tree_438.jpg",
+    "funFact": "The bark is dark and rough, giving the tree its name 'black bark'.",
+    "climateImpact": "Requires moist, cool conditions. Thrives in highland forests.",
+    "commonDiseases": ["Leaf spot", "Root rot"]
+  },
+  {
+    "id": "439",
+    "scientificName": "Senegalia galpinii",
+    "commonName": "Galpin's Acacia",
+    "localName": "Mgunga Galpin",
+    "tribeNames": {
+      "Kichaga": "Mgunga Galpin",
+      "Kisukuma": "Ntundu ya Mgunga Galpin",
+      "Kihaya": "Omugunga Galpin",
+      "Kizaramo": "Mgunga Galpin"
+    },
+    "category": "Semi-Arid reforestation trees, Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A tree with showy flowers, found in dry woodlands and savannas. Important for bee forage.",
+    "ethnobotany": "Flowers attract bees and support honey production. Wood used for fencing.",
+    "imagePath": "assets/images/tree_439.jpg",
+    "funFact": "This acacia species is known for its beautiful yellow flowers and its ability to attract bees.",
+    "climateImpact": "Drought tolerant. Thrives in semi-arid conditions.",
+    "commonDiseases": ["Gall wasp", "Leaf spot"]
+  },
+  {
+    "id": "440",
+    "scientificName": "Steganotaenia araliacea",
+    "commonName": "Carrot Tree",
+    "localName": "Mkole stegano",
+    "tribeNames": {
+      "Kichaga": "Mkole stegano",
+      "Kisukuma": "Ntundu ya Mkole stegano",
+      "Kihaya": "Omukole stegano",
+      "Kizaramo": "Mkole stegano"
+    },
+    "category": "Medicinal plants",
+    "conservationStatus": "Least Concern",
+    "description": "A small tree found in miombo woodlands, with medicinal properties.",
+    "ethnobotany": "Bark and leaves used for treating fever, stomach pain, and malaria.",
+    "imagePath": "assets/images/tree_440.jpg",
+    "funFact": "The bark has a distinct carrot-like smell when crushed, giving it the common name 'carrot tree'.",
+    "climateImpact": "Drought tolerant. Thrives in semi-arid conditions.",
+    "commonDiseases": ["Leaf spot", "Powdery mildew"]
+  },
+  {
+    "id": "441",
+    "scientificName": "Stereospermum kunthianum",
+    "commonName": "Pink Jacaranda",
+    "localName": "Mkungu pinki",
+    "tribeNames": {
+      "Kichaga": "Mkungu pinki",
+      "Kisukuma": "Ntundu ya Mkungu pinki",
+      "Kihaya": "Omukungu pinki",
+      "Kizaramo": "Mkungu pinki"
+    },
+    "category": "Ornamental trees, Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A small tree found in savannas and dry woodlands, producing beautiful pink flowers.",
+    "ethnobotany": "Planted for ornament. Flowers attract bees and support honey production.",
+    "imagePath": "assets/images/tree_441.jpg",
+    "funFact": "The pink flowers are similar to those of the jacaranda tree and bloom during the dry season.",
+    "climateImpact": "Drought tolerant. Thrives in tropical savanna conditions.",
+    "commonDiseases": ["Leaf spot", "Aphids"]
+  },
+  {
+    "id": "442",
+    "scientificName": "Turraea nilotica",
+    "commonName": "Nile Turraea",
+    "localName": "Mkole mweupe",
+    "tribeNames": {
+      "Kichaga": "Mkole mweupe",
+      "Kisukuma": "Ntundu ya Mkole mweupe",
+      "Kihaya": "Omukole mweupe",
+      "Kizaramo": "Mkole mweupe"
+    },
+    "category": "Medicinal plants, Bee folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A small tree found in miombo woodlands, producing white flowers that attract bees.",
+    "ethnobotany": "Bark and leaves used in traditional medicine for treating fever and digestive issues. Flowers support honey production.",
+    "imagePath": "assets/images/tree_442.jpg",
+    "funFact": "The white flowers have a pleasant fragrance that attracts bees and butterflies.",
+    "climateImpact": "Drought tolerant. Thrives in semi-arid conditions.",
+    "commonDiseases": ["Leaf spot", "Scale insects"]
+  },
+  {
+    "id": "443",
+    "scientificName": "Vachellia amythethophylla",
+    "commonName": "Acacia amythethophylla",
+    "localName": "Mgunga mweusi",
+    "tribeNames": {
+      "Kichaga": "Mgunga mweusi",
+      "Kisukuma": "Ntundu ya Mgunga mweusi",
+      "Kihaya": "Omugunga mweusi",
+      "Kizaramo": "Mgunga mweusi"
+    },
+    "category": "Semi-Arid reforestation trees, Livestock folders trees",
+    "conservationStatus": "Least Concern",
+    "description": "A tree found in miombo woodlands and savannas. Leaves and pods are valuable fodder for livestock.",
+    "ethnobotany": "Leaves and pods used as fodder. Wood used for fencing and fuel.",
+    "imagePath": "assets/images/tree_443.jpg",
+    "funFact": "This species was formerly classified under Acacia and is known for its resilience in dry conditions.",
+    "climateImpact": "Drought tolerant. Thrives in semi-arid conditions.",
+    "commonDiseases": ["Gall wasp", "Leaf spot"]
+  },
+  {
+    "id": "444",
+    "scientificName": "Vernonia amygdalina",
+    "commonName": "Bitter Leaf",
+    "localName": "Mlulu",
+    "tribeNames": {
+      "Kichaga": "Mlulu",
+      "Kisukuma": "Ntundu ya Mlulu",
+      "Kihaya": "Omululu",
+      "Kizaramo": "Mlulu"
+    },
+    "category": "Medicinal plants, Agroforestry trees",
+    "conservationStatus": "Least Concern",
+    "description": "A small tree or shrub found in savannas and miombo woodlands. Highly valued for its medicinal properties.",
+    "ethnobotany": "Leaves used for treating malaria, fever, worms, and digestive problems. Used in agroforestry as a natural pesticide.",
+    "imagePath": "assets/images/tree_444.jpg",
+    "funFact": "The leaves are extremely bitter but are widely used in traditional medicine across Africa.",
+    "climateImpact": "Drought tolerant. Thrives in tropical and subtropical climates.",
+    "commonDiseases": ["Leaf spot", "Powdery mildew"]
+  },
+  {
+    "id": "445",
+    "scientificName": "Zanha africana",
+    "commonName": "Zanha",
+    "localName": "Mkole zanha",
+    "tribeNames": {
+      "Kichaga": "Mkole zanha",
+      "Kisukuma": "Ntundu ya Mkole zanha",
+      "Kihaya": "Omukole zanha",
+      "Kizaramo": "Mkole zanha"
+    },
+    "category": "Timber trees, Shade trees",
+    "conservationStatus": "Least Concern",
+    "description": "A tree found in miombo woodlands, producing heavy, durable timber used for construction and furniture.",
+    "ethnobotany": "Timber used for construction, furniture, and carving. Provides good shade.",
+    "imagePath": "assets/images/tree_445.jpg",
+    "funFact": "The wood is extremely heavy and dense, making it resistant to termites and decay.",
+    "climateImpact": "Drought tolerant. Thrives in semi-arid conditions.",
+    "commonDiseases": ["Leaf spot", "Termite attack"]
   }
 ]
-  
