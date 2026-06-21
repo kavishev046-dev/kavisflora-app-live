@@ -223,12 +223,12 @@
     "id": "12",
     "scientificName": "Sclerocarya birrea",
     "commonName": "Marula",
-    "localName": "Mng'ongo",
+    "localName": "Mng'ongo'",
     "tribeNames": {
-      "Kichaga": "Mngongo",
-      "Kisukuma": "Ntundu ya Mngongo",
-      "Kihaya": "Omungongo",
-      "Kizaramo": "Mngongo"
+      "Kichaga": "Mngo'ngo'",
+      "Kisukuma": "Ntundu ya Mngo'ngo'",
+      "Kihaya": "Omungo'ngo'",
+      "Kizaramo": "Mngo'ngo'"
     },
     "category": "Fruits trees",
     "conservationStatus": "Least Concern",
@@ -1305,7 +1305,7 @@
     "commonName": "East African Cordia",
     "localName": "Mdavi mweupe",
     "tribeNames": {
-      "Kichaga": "Mdavi",
+      "Kichaga": "Mringaringa",
       "Kisukuma": "Ntundu ya Mdavi",
       "Kihaya": "Omudavi",
       "Kizaramo": "Mdavi"
@@ -5290,7 +5290,7 @@
       "Kihaya": "Omukongo Usambara",
       "Kizaramo": "Mkongo Usambara"
     },
-    "category": "Water Source Protection Trees, Timber trees",
+    "category": "Water Source Protection Trees, Indangered trees, Timber trees",
     "conservationStatus": "Vulnerable",
     "description": "A tree species endemic to the Eastern Arc Mountains, important for natural regeneration. It plays a critical role in watershed protection and forest conservation in Tanzania.",
     "ethnobotany": "Timber for construction and furniture. Provides shade and supports biodiversity in montane forests.",
@@ -6250,7 +6250,7 @@
       "Kihaya": "Omusezi",
       "Kizaramo": "Msezi"
     },
-    "category": "Timber trees, Miombo woodland trees",
+    "category": "Timber trees, Indangered trees, Miombo woodland trees",
     "conservationStatus": "Least Concern",
     "description": "A tree species found in lowland forests, recorded in Dindili forest with a high wood density [citation:5].",
     "ethnobotany": "Timber for construction and furniture. Bark used in traditional medicine.",
@@ -8690,7 +8690,7 @@
       "Kihaya": "Omuwathu",
       "Kizaramo": "Mwathu"
     },
-    "category": "Medicinal plants, Ornamental trees",
+    "category": "Medicinal plants, Indangered trees, Ornamental trees",
     "conservationStatus": "Least Concern",
     "description": "A small tree found in montane forests, with yellow flowers and medicinal properties.",
     "ethnobotany": "Bark and roots used in traditional medicine for treating fever and skin conditions.",
@@ -8918,5 +8918,925 @@
     "funFact": "The wood is extremely heavy and dense, making it resistant to termites and decay.",
     "climateImpact": "Drought tolerant. Thrives in semi-arid conditions.",
     "commonDiseases": ["Leaf spot", "Termite attack"]
+  },
+  {
+    "id": "446",
+    "scientificName": "Calodendrum eickii",
+    "commonName": "Eick's Calodendrum",
+    "localName": "Mkamba mwitu",
+    "tribeNames": {
+      "Kichaga": "Mkamba",
+      "Kisukuma": "Ntundu ya Mkamba",
+      "Kihaya": "Omukamba",
+      "Kizaramo": "Mkamba"
+    },
+    "category": "Indangered trees, Timber trees",
+    "conservationStatus": "Critically Endangered",
+    "description": "A rare tree species endemic to Tanzania, critically endangered due to habitat loss. Found in the Eastern Arc Mountains.",
+    "ethnobotany": "Wood used for carving and construction. Bark used in traditional medicine.",
+    "imagePath": "assets/images/tree_446.jpg",
+    "funFact": "This species is one of the rarest trees in Tanzania, with only a few individuals remaining in the wild.",
+    "climateImpact": "Sensitive to deforestation and climate change.",
+    "commonDiseases": ["Leaf spot", "Root rot"]
+  },
+  {
+    "id": "447",
+    "scientificName": "Erythrina schliebenii",
+    "commonName": "Schlieben's Coral Tree",
+    "localName": "Mryiri mwekundu",
+    "tribeNames": {
+      "Kichaga": "Mryiri mwekundu",
+      "Kisukuma": "Ntundu ya Mryiri mwekundu",
+      "Kihaya": "Omuryiri mwekundu",
+      "Kizaramo": "Mryiri mwekundu"
+    },
+    "category": "Indangered trees, Ornamental trees, Medicinal plants",
+    "conservationStatus": "Critically Endangered",
+    "description": "A critically endangered tree with brilliant red flowers, endemic to Tanzania. Threatened by habitat loss and deforestation.",
+    "ethnobotany": "Bark used for treating malaria and stomach problems. Planted as an ornamental tree.",
+    "imagePath": "assets/images/tree_447.jpg",
+    "funFact": "This species was first discovered by German botanist Schlieben in the 1930s and is now on the brink of extinction.",
+    "climateImpact": "Highly sensitive to habitat destruction.",
+    "commonDiseases": ["Stem canker", "Leaf spot"]
+  },
+  {
+    "id": "448",
+    "scientificName": "Garcinia tanzaniensis",
+    "commonName": "Tanzanian Garcinia",
+    "localName": "Msambia wa Tanzania",
+    "tribeNames": {
+      "Kichaga": "Msambia",
+      "Kisukuma": "Ntundu ya Msambia",
+      "Kihaya": "Omusambia",
+      "Kizaramo": "Msambia"
+    },
+    "category": "Indangered trees, Fruits trees",
+    "conservationStatus": "Critically Endangered",
+    "description": "A critically endangered fruit tree endemic to Tanzania. Known for its edible fruits and medicinal properties.",
+    "ethnobotany": "Fruits eaten fresh. Bark used in traditional medicine for treating digestive issues.",
+    "imagePath": "assets/images/tree_448.jpg",
+    "funFact": "This species is closely related to the mangosteen and produces similar fruits.",
+    "climateImpact": "Requires moist forest conditions. Threatened by deforestation.",
+    "commonDiseases": ["Leaf spot", "Fruit fly"]
+  },
+  {
+    "id": "449",
+    "scientificName": "Cola porphyrantha",
+    "commonName": "Purple Cola",
+    "localName": "Mkola wa purpuri",
+    "tribeNames": {
+      "Kichaga": "Mkola",
+      "Kisukuma": "Ntundu ya Mkola",
+      "Kihaya": "Omukola",
+      "Kizaramo": "Mkola"
+    },
+    "category": "Indangered trees, Fruits trees",
+    "conservationStatus": "Critically Endangered",
+    "description": "A critically endangered tree producing edible fruits. Endemic to the coastal forests of Tanzania.",
+    "ethnobotany": "Fruits eaten fresh. Seeds used in traditional medicine.",
+    "imagePath": "assets/images/tree_449.jpg",
+    "funFact": "This species is related to the kola nut tree and has similar properties.",
+    "climateImpact": "Highly sensitive to habitat loss and deforestation.",
+    "commonDiseases": ["Leaf spot", "Fruit fly"]
+  },
+  {
+    "id": "450",
+    "scientificName": "Afzelia parviflora",
+    "commonName": "Small-flowered Afzelia",
+    "localName": "Mkola mdogo",
+    "tribeNames": {
+      "Kichaga": "Mkola mdogo",
+      "Kisukuma": "Ntundu ya Mkola mdogo",
+      "Kihaya": "Omukola mdogo",
+      "Kizaramo": "Mkola mdogo"
+    },
+    "category": "Indangered trees, Timber trees",
+    "conservationStatus": "Critically Endangered",
+    "description": "A critically endangered timber tree endemic to Tanzania's coastal forests. Highly valued for its durable wood.",
+    "ethnobotany": "Timber used for furniture and construction. Seeds used in traditional jewelry.",
+    "imagePath": "assets/images/tree_450.jpg",
+    "funFact": "This species is one of the rarest timber trees in Tanzania, with only a few remaining populations.",
+    "climateImpact": "Threatened by overharvesting and habitat loss.",
+    "commonDiseases": ["Heart rot", "Termite attack"]
+  },
+  {
+    "id": "451",
+    "scientificName": "Karomia gigas",
+    "commonName": "Giant Karomia",
+    "localName": "Mkaromia",
+    "tribeNames": {
+      "Kichaga": "Mkaromia",
+      "Kisukuma": "Ntundu ya Mkaromia",
+      "Kihaya": "Omukaromia",
+      "Kizaramo": "Mkaromia"
+    },
+    "category": "Indangered trees, Timber trees",
+    "conservationStatus": "Critically Endangered",
+    "description": "A critically endangered tree found in the coastal forests of Tanzania. Known for its large size and valuable timber.",
+    "ethnobotany": "Timber used for construction and furniture. Bark used in traditional medicine.",
+    "imagePath": "assets/images/tree_451.jpg",
+    "funFact": "This species was once thought to be extinct until rediscovered in the 1990s.",
+    "climateImpact": "Highly threatened by habitat loss and logging.",
+    "commonDiseases": ["Heart rot", "Termite attack"]
+  },
+  {
+    "id": "452",
+    "scientificName": "Vepris hanangensis var. unifoliolata",
+    "commonName": "Hanang Vepris",
+    "localName": "Mvepri wa Hanang",
+    "tribeNames": {
+      "Kichaga": "Mvepri",
+      "Kisukuma": "Ntundu ya Mvepri",
+      "Kihaya": "Omuvepri",
+      "Kizaramo": "Mvepri"
+    },
+    "category": "Indangered trees, Medicinal plants",
+    "conservationStatus": "Critically Endangered",
+    "description": "A critically endangered tree endemic to the Hanang Mountains in Tanzania. Known for its medicinal properties.",
+    "ethnobotany": "Bark and leaves used in traditional medicine for treating fever and stomach issues.",
+    "imagePath": "assets/images/tree_452.jpg",
+    "funFact": "This species is found only on Mount Hanang and is threatened by agricultural expansion.",
+    "climateImpact": "Requires cool mountain conditions. Threatened by climate change.",
+    "commonDiseases": ["Leaf spot", "Root rot"]
+  },
+  {
+    "id": "453",
+    "scientificName": "Gigasiphon macrosiphon",
+    "commonName": "Gigasiphon",
+    "localName": "Mgigasi",
+    "tribeNames": {
+      "Kichaga": "Mgigasi",
+      "Kisukuma": "Ntundu ya Mgigasi",
+      "Kihaya": "Omugigasi",
+      "Kizaramo": "Mgigasi"
+    },
+    "category": "Indangered trees, Bee folders trees",
+    "conservationStatus": "Endangered",
+    "description": "An endangered tree found in Tanzania's coastal and lowland forests. Known for its large flowers that attract bees.",
+    "ethnobotany": "Flowers used by bees for honey production. Wood used for construction.",
+    "imagePath": "assets/images/tree_453.jpg",
+    "funFact": "This species has some of the largest flowers in the pea family.",
+    "climateImpact": "Sensitive to deforestation and habitat fragmentation.",
+    "commonDiseases": ["Leaf spot", "Scale insects"]
+  },
+  {
+    "id": "454",
+    "scientificName": "Millettia sacleuxii",
+    "commonName": "Sacleux's Millettia",
+    "localName": "Mkunguwe wa Sacleux",
+    "tribeNames": {
+      "Kichaga": "Mkunguwe",
+      "Kisukuma": "Ntundu ya Mkunguwe",
+      "Kihaya": "Omukunguwe",
+      "Kizaramo": "Mkunguwe"
+    },
+    "category": "Indangered trees, Timber trees",
+    "conservationStatus": "Endangered",
+    "description": "An endangered timber tree found in Tanzania's coastal forests. Valued for its durable wood.",
+    "ethnobotany": "Timber for construction and furniture. Bark used in traditional medicine.",
+    "imagePath": "assets/images/tree_454.jpg",
+    "funFact": "This species is named after French botanist Sacleux who collected it in the 19th century.",
+    "climateImpact": "Threatened by overharvesting and habitat loss.",
+    "commonDiseases": ["Heart rot", "Termite attack"]
+  },
+  {
+    "id": "455",
+    "scientificName": "Afrocarpus usambarensis",
+    "commonName": "Usambara Yellowwood",
+    "localName": "Msambara",
+    "tribeNames": {
+      "Kichaga": "Msambara",
+      "Kisukuma": "Ntundu ya Msambara",
+      "Kihaya": "Omusambara",
+      "Kizaramo": "Msambara"
+    },
+    "category": "Indangered trees, Timber trees, Water Source Protection Trees",
+    "conservationStatus": "Endangered",
+    "description": "An endangered conifer endemic to the Usambara Mountains. Valued for its high-quality timber and watershed protection.",
+    "ethnobotany": "Timber used for construction and furniture. Planted for watershed protection.",
+    "imagePath": "assets/images/tree_455.jpg",
+    "funFact": "This species is known as the 'Usambara yellowwood' and is one of the few conifers native to Tanzania.",
+    "climateImpact": "Requires cool, moist conditions. Threatened by deforestation.",
+    "commonDiseases": ["Root rot", "Leaf spot"]
+  },
+  {
+    "id": "456",
+    "scientificName": "Annickia kummeriae",
+    "commonName": "Annickia",
+    "localName": "Mkumeria",
+    "tribeNames": {
+      "Kichaga": "Mkumeria",
+      "Kisukuma": "Ntundu ya Mkumeria",
+      "Kihaya": "Omukumeria",
+      "Kizaramo": "Mkumeria"
+    },
+    "category": "Indangered trees, Medicinal plants",
+    "conservationStatus": "Endangered",
+    "description": "An endangered tree found in Tanzania's lowland forests. Known for its medicinal properties.",
+    "ethnobotany": "Bark and leaves used in traditional medicine for treating fever and pain.",
+    "imagePath": "assets/images/tree_456.jpg",
+    "funFact": "This species is related to the ylang-ylang tree and produces fragrant flowers.",
+    "climateImpact": "Sensitive to deforestation and habitat fragmentation.",
+    "commonDiseases": ["Leaf spot", "Root rot"]
+  },
+  {
+    "id": "457",
+    "scientificName": "Zenkerella perplexa",
+    "commonName": "Zenkerella",
+    "localName": "Mzenkeri",
+    "tribeNames": {
+      "Kichaga": "Mzenkeri",
+      "Kisukuma": "Ntundu ya Mzenkeri",
+      "Kihaya": "Omusenkeri",
+      "Kizaramo": "Mzenkeri"
+    },
+    "category": "Indangered trees, Timber trees",
+    "conservationStatus": "Endangered",
+    "description": "An endangered tree found in Tanzania's coastal forests. Produces valuable timber.",
+    "ethnobotany": "Timber for construction and furniture. Bark used in traditional medicine.",
+    "imagePath": "assets/images/tree_457.jpg",
+    "funFact": "This species is known for its distinctive bark and durable wood.",
+    "climateImpact": "Threatened by logging and habitat loss.",
+    "commonDiseases": ["Heart rot", "Termite attack"]
+  },
+  {
+    "id": "458",
+    "scientificName": "Cynometra longipedicellata",
+    "commonName": "Cynometra",
+    "localName": "Msinone",
+    "tribeNames": {
+      "Kichaga": "Msinone",
+      "Kisukuma": "Ntundu ya Msinone",
+      "Kihaya": "Omusinone",
+      "Kizaramo": "Msinone"
+    },
+    "category": "Indangered trees, Shade trees",
+    "conservationStatus": "Endangered",
+    "description": "An endangered tree found in Tanzania's coastal and lowland forests. Provides excellent shade.",
+    "ethnobotany": "Provides shade. Wood used for construction.",
+    "imagePath": "assets/images/tree_458.jpg",
+    "funFact": "This species is part of the legume family and fixes nitrogen in the soil.",
+    "climateImpact": "Sensitive to habitat loss and deforestation.",
+    "commonDiseases": ["Leaf spot", "Root rot"]
+  },
+  {
+    "id": "459",
+    "scientificName": "Baphia macrocalyx",
+    "commonName": "Baphia",
+    "localName": "Mpande",
+    "tribeNames": {
+      "Kichaga": "Mpande",
+      "Kisukuma": "Ntundu ya Mpande",
+      "Kihaya": "Omupande",
+      "Kizaramo": "Mpande"
+    },
+    "category": "Indangered trees, Timber trees",
+    "conservationStatus": "Endangered",
+    "description": "An endangered tree found in Tanzania's coastal forests. Valued for its timber.",
+    "ethnobotany": "Timber used for construction and carving. Bark used in traditional medicine.",
+    "imagePath": "assets/images/tree_459.jpg",
+    "funFact": "This species is closely related to the African blackwood family.",
+    "climateImpact": "Threatened by logging and habitat loss.",
+    "commonDiseases": ["Heart rot", "Termite attack"]
+  },
+  {
+    "id": "460",
+    "scientificName": "Baphia polhilliana",
+    "commonName": "Polhill's Baphia",
+    "localName": "Mpande wa Polhill",
+    "tribeNames": {
+      "Kichaga": "Mpande",
+      "Kisukuma": "Ntundu ya Mpande",
+      "Kihaya": "Omupande",
+      "Kizaramo": "Mpande"
+    },
+    "category": "Indangered trees, Timber trees",
+    "conservationStatus": "Endangered",
+    "description": "An endangered tree named after British botanist Polhill. Found in Tanzania's forests.",
+    "ethnobotany": "Timber for construction and furniture. Bark used in traditional medicine.",
+    "imagePath": "assets/images/tree_460.jpg",
+    "funFact": "This species is named after Roger Polhill, a renowned botanist who studied East African flora.",
+    "climateImpact": "Threatened by habitat loss.",
+    "commonDiseases": ["Heart rot", "Termite attack"]
+  },
+  {
+    "id": "461",
+    "scientificName": "Croton alienus",
+    "commonName": "Croton",
+    "localName": "Mkarakara",
+    "tribeNames": {
+      "Kichaga": "Mkarakara",
+      "Kisukuma": "Ntundu ya Mkarakara",
+      "Kihaya": "Omukarakara",
+      "Kizaramo": "Mkarakara"
+    },
+    "category": "Indangered trees, Medicinal plants",
+    "conservationStatus": "Endangered",
+    "description": "An endangered tree found in Tanzania's forests. Used in traditional medicine.",
+    "ethnobotany": "Bark and leaves used for treating skin diseases and wounds.",
+    "imagePath": "assets/images/tree_461.jpg",
+    "funFact": "This species has medicinal properties used by traditional healers.",
+    "climateImpact": "Sensitive to deforestation.",
+    "commonDiseases": ["Leaf spot", "Canker"]
+  },
+  {
+    "id": "462",
+    "scientificName": "Croton dictyogynus",
+    "commonName": "Croton",
+    "localName": "Mkarakara",
+    "tribeNames": {
+      "Kichaga": "Mkarakara",
+      "Kisukuma": "Ntundu ya Mkarakara",
+      "Kihaya": "Omukarakara",
+      "Kizaramo": "Mkarakara"
+    },
+    "category": "Indangered trees, Medicinal plants",
+    "conservationStatus": "Endangered",
+    "description": "An endangered tree species found in Tanzania's lowland forests.",
+    "ethnobotany": "Bark and leaves used in traditional medicine.",
+    "imagePath": "assets/images/tree_462.jpg",
+    "funFact": "This species is known for its distinctive leaf pattern.",
+    "climateImpact": "Sensitive to habitat loss.",
+    "commonDiseases": ["Leaf spot", "Canker"]
+  },
+  {
+    "id": "463",
+    "scientificName": "Croton megistocarpus",
+    "commonName": "Croton",
+    "localName": "Mkarakara",
+    "tribeNames": {
+      "Kichaga": "Mkarakara",
+      "Kisukuma": "Ntundu ya Mkarakara",
+      "Kihaya": "Omukarakara",
+      "Kizaramo": "Mkarakara"
+    },
+    "category": "Indangered trees, Medicinal plants",
+    "conservationStatus": "Endangered",
+    "description": "An endangered tree with large fruits, found in Tanzania's forests.",
+    "ethnobotany": "Bark and leaves used in traditional medicine.",
+    "imagePath": "assets/images/tree_463.jpg",
+    "funFact": "This species produces some of the largest fruits in the Croton genus.",
+    "climateImpact": "Threatened by deforestation.",
+    "commonDiseases": ["Leaf spot", "Canker"]
+  },
+  {
+    "id": "464",
+    "scientificName": "Diospyros natalensis subsp. nummularia",
+    "commonName": "Natal Ebony",
+    "localName": "Mpingo wa Natal",
+    "tribeNames": {
+      "Kichaga": "Mpingo",
+      "Kisukuma": "Ntundu ya Mpingo",
+      "Kihaya": "Omupingo",
+      "Kizaramo": "Mpingo"
+    },
+    "category": "Indangered trees, Timber trees, Fruits trees",
+    "conservationStatus": "Endangered",
+    "description": "An endangered subspecies of ebony found in Tanzania's coastal forests.",
+    "ethnobotany": "Timber used for carving and furniture. Fruits eaten fresh.",
+    "imagePath": "assets/images/tree_464.jpg",
+    "funFact": "This subspecies is known for its small, coin-shaped leaves.",
+    "climateImpact": "Threatened by overharvesting and habitat loss.",
+    "commonDiseases": ["Leaf spot", "Fruit fly"]
+  },
+  {
+    "id": "465",
+    "scientificName": "Drypetes usambarica",
+    "commonName": "Usambara Drypetes",
+    "localName": "Mkole Usambara",
+    "tribeNames": {
+      "Kichaga": "Mkole Usambara",
+      "Kisukuma": "Ntundu ya Mkole Usambara",
+      "Kihaya": "Omukole Usambara",
+      "Kizaramo": "Mkole Usambara"
+    },
+    "category": "Indangered trees, Timber trees",
+    "conservationStatus": "Endangered",
+    "description": "An endangered tree endemic to the Usambara Mountains. Valued for its timber.",
+    "ethnobotany": "Timber for construction and furniture. Bark used in traditional medicine.",
+    "imagePath": "assets/images/tree_465.jpg",
+    "funFact": "This species is found only in the Usambara Mountains.",
+    "climateImpact": "Requires moist montane conditions.",
+    "commonDiseases": ["Leaf spot", "Root rot"]
+  },
+  {
+    "id": "466",
+    "scientificName": "Eugenia capensis subsp. zeyheri",
+    "commonName": "Cape Eugenia",
+    "localName": "Mrasili",
+    "tribeNames": {
+      "Kichaga": "Mrasili",
+      "Kisukuma": "Ntundu ya Mrasili",
+      "Kihaya": "Omurasili",
+      "Kizaramo": "Mrasili"
+    },
+    "category": "Indangered trees, Fruits trees",
+    "conservationStatus": "Endangered",
+    "description": "An endangered tree found in Tanzania's forests. Produces edible fruits.",
+    "ethnobotany": "Fruits eaten fresh. Leaves used in traditional medicine.",
+    "imagePath": "assets/images/tree_466.jpg",
+    "funFact": "This species is related to the clove tree and has aromatic leaves.",
+    "climateImpact": "Sensitive to habitat loss.",
+    "commonDiseases": ["Leaf spot", "Fruit fly"]
+  },
+  {
+    "id": "467",
+    "scientificName": "Eugenia mwanihanaensis",
+    "commonName": "Mwanihana Eugenia",
+    "localName": "Mrasili wa Mwanihana",
+    "tribeNames": {
+      "Kichaga": "Mrasili",
+      "Kisukuma": "Ntundu ya Mrasili",
+      "Kihaya": "Omurasili",
+      "Kizaramo": "Mrasili"
+    },
+    "category": "Indangered trees, Fruits trees",
+    "conservationStatus": "Endangered",
+    "description": "An endangered tree endemic to the Mwanihana Forest in Tanzania.",
+    "ethnobotany": "Fruits eaten by wildlife. Wood for fuel.",
+    "imagePath": "assets/images/tree_467.jpg",
+    "funFact": "This species is found only in the Mwanihana Forest Reserve.",
+    "climateImpact": "Requires protected forest habitat.",
+    "commonDiseases": ["Leaf spot", "Fruit fly"]
+  },
+  {
+    "id": "468",
+    "scientificName": "Eugenia singampattiana",
+    "commonName": "Singampatti Eugenia",
+    "localName": "Mrasili",
+    "tribeNames": {
+      "Kichaga": "Mrasili",
+      "Kisukuma": "Ntundu ya Mrasili",
+      "Kihaya": "Omurasili",
+      "Kizaramo": "Mrasili"
+    },
+    "category": "Indangered trees, Fruits trees",
+    "conservationStatus": "Endangered",
+    "description": "An endangered tree found in Tanzania's lowland forests.",
+    "ethnobotany": "Fruits eaten fresh. Leaves used in traditional medicine.",
+    "imagePath": "assets/images/tree_468.jpg",
+    "funFact": "This species is also found in India and Sri Lanka.",
+    "climateImpact": "Sensitive to deforestation.",
+    "commonDiseases": ["Leaf spot", "Fruit fly"]
+  },
+  {
+    "id": "469",
+    "scientificName": "Ficus amadiensis",
+    "commonName": "Amadi Fig",
+    "localName": "Mkuyu wa Amadi",
+    "tribeNames": {
+      "Kichaga": "Mkuyu",
+      "Kisukuma": "Ntundu ya Mkuyu",
+      "Kihaya": "Omukuyu",
+      "Kizaramo": "Mkuyu"
+    },
+    "category": "Indangered trees, Shade trees, Fruits trees",
+    "conservationStatus": "Endangered",
+    "description": "An endangered fig tree found in Tanzania's forests. Provides shade and edible fruits.",
+    "ethnobotany": "Fruits eaten by birds and wildlife. Bark used in traditional medicine.",
+    "imagePath": "assets/images/tree_469.jpg",
+    "funFact": "This fig tree is an important food source for forest wildlife.",
+    "climateImpact": "Sensitive to deforestation.",
+    "commonDiseases": ["Fig rust", "Leaf blight"]
+  },
+  {
+    "id": "470",
+    "scientificName": "Ficus morobensis",
+    "commonName": "Morobe Fig",
+    "localName": "Mkuyu wa Morobe",
+    "tribeNames": {
+      "Kichaga": "Mkuyu",
+      "Kisukuma": "Ntundu ya Mkuyu",
+      "Kihaya": "Omukuyu",
+      "Kizaramo": "Mkuyu"
+    },
+    "category": "Indangered trees, Shade trees, Fruits trees",
+    "conservationStatus": "Endangered",
+    "description": "An endangered fig tree found in Tanzania's lowland forests.",
+    "ethnobotany": "Fruits eaten by wildlife. Provides shade.",
+    "imagePath": "assets/images/tree_470.jpg",
+    "funFact": "This species is also found in Papua New Guinea.",
+    "climateImpact": "Threatened by habitat loss.",
+    "commonDiseases": ["Fig rust", "Leaf blight"]
+  },
+  {
+    "id": "471",
+    "scientificName": "Greenwayodendron usambaricum",
+    "commonName": "Usambara Greenwayodendron",
+    "localName": "Mkole Usambara",
+    "tribeNames": {
+      "Kichaga": "Mkole Usambara",
+      "Kisukuma": "Ntundu ya Mkole Usambara",
+      "Kihaya": "Omukole Usambara",
+      "Kizaramo": "Mkole Usambara"
+    },
+    "category": "Indangered trees, Timber trees",
+    "conservationStatus": "Endangered",
+    "description": "An endangered tree endemic to the Usambara Mountains. Valued for its durable timber.",
+    "ethnobotany": "Timber for construction and furniture. Bark used in traditional medicine.",
+    "imagePath": "assets/images/tree_471.jpg",
+    "funFact": "This species is named after the Greenway family who were early explorers in East Africa.",
+    "climateImpact": "Requires moist montane conditions.",
+    "commonDiseases": ["Heart rot", "Termite attack"]
+  },
+  {
+    "id": "472",
+    "scientificName": "Haplocoelum gallense",
+    "commonName": "Gall Haplocoelum",
+    "localName": "Mkole",
+    "tribeNames": {
+      "Kichaga": "Mkole",
+      "Kisukuma": "Ntundu ya Mkole",
+      "Kihaya": "Omukole",
+      "Kizaramo": "Mkole"
+    },
+    "category": "Indangered trees, Fruits trees",
+    "conservationStatus": "Endangered",
+    "description": "An endangered tree found in Tanzania's dry woodlands. Produces edible fruits.",
+    "ethnobotany": "Fruits eaten fresh. Wood used for fuel and fencing.",
+    "imagePath": "assets/images/tree_472.jpg",
+    "funFact": "This species is known for its distinctive gall-like growths on branches.",
+    "climateImpact": "Drought tolerant but threatened by habitat loss.",
+    "commonDiseases": ["Leaf spot", "Fruit fly"]
+  },
+  {
+    "id": "473",
+    "scientificName": "Hymenaea verrucosa",
+    "commonName": "Warty Hymenaea",
+    "localName": "Mhymenaea",
+    "tribeNames": {
+      "Kichaga": "Mhimenia",
+      "Kisukuma": "Ntundu ya Mhimenia",
+      "Kihaya": "Omuhimenia",
+      "Kizaramo": "Mhimenia"
+    },
+    "category": "Indangered trees, Timber trees",
+    "conservationStatus": "Endangered",
+    "description": "An endangered tree found in Tanzania's coastal forests. Valued for its timber and resin.",
+    "ethnobotany": "Timber for construction and furniture. Resin used in traditional medicine.",
+    "imagePath": "assets/images/tree_473.jpg",
+    "funFact": "This species produces a resin similar to copal used in varnishes.",
+    "climateImpact": "Threatened by logging and habitat loss.",
+    "commonDiseases": ["Heart rot", "Termite attack"]
+  },
+  {
+    "id": "474",
+    "scientificName": "Keetia zanzibarica",
+    "commonName": "Zanzibar Keetia",
+    "localName": "Mkeetia",
+    "tribeNames": {
+      "Kichaga": "Mkeetia",
+      "Kisukuma": "Ntundu ya Mkeetia",
+      "Kihaya": "Omukeetia",
+      "Kizaramo": "Mkeetia"
+    },
+    "category": "Indangered trees, Medicinal plants",
+    "conservationStatus": "Endangered",
+    "description": "An endangered tree found on Zanzibar and coastal Tanzania. Known for its medicinal properties.",
+    "ethnobotany": "Bark and leaves used in traditional medicine.",
+    "imagePath": "assets/images/tree_474.jpg",
+    "funFact": "This species is named after Keet, a South African botanist.",
+    "climateImpact": "Threatened by coastal development.",
+    "commonDiseases": ["Leaf spot", "Scale insects"]
+  },
+  {
+    "id": "475",
+    "scientificName": "Memecylon amaniensis",
+    "commonName": "Amani Memecylon",
+    "localName": "Mmemecylon",
+    "tribeNames": {
+      "Kichaga": "Mmeme",
+      "Kisukuma": "Ntundu ya Mmeme",
+      "Kihaya": "Omumeme",
+      "Kizaramo": "Mmeme"
+    },
+    "category": "Indangered trees, Fruits trees",
+    "conservationStatus": "Endangered",
+    "description": "An endangered tree endemic to the Amani Forest Reserve in Tanzania.",
+    "ethnobotany": "Fruits eaten by wildlife. Leaves used in traditional medicine.",
+    "imagePath": "assets/images/tree_475.jpg",
+    "funFact": "This species is found only in the Amani Forest Reserve.",
+    "climateImpact": "Requires protected forest habitat.",
+    "commonDiseases": ["Leaf spot", "Fruit fly"]
+  },
+  {
+    "id": "476",
+    "scientificName": "Memecylon bangweolense",
+    "commonName": "Bangweolo Memecylon",
+    "localName": "Mmemecylon",
+    "tribeNames": {
+      "Kichaga": "Mmeme",
+      "Kisukuma": "Ntundu ya Mmeme",
+      "Kihaya": "Omumeme",
+      "Kizaramo": "Mmeme"
+    },
+    "category": "Indangered trees, Fruits trees",
+    "conservationStatus": "Endangered",
+    "description": "An endangered tree found in Tanzania's forests.",
+    "ethnobotany": "Fruits eaten by wildlife. Leaves used in traditional medicine.",
+    "imagePath": "assets/images/tree_476.jpg",
+    "funFact": "This species is also found in Zambia and Malawi.",
+    "climateImpact": "Sensitive to habitat loss.",
+    "commonDiseases": ["Leaf spot", "Fruit fly"]
+  },
+  {
+    "id": "477",
+    "scientificName": "Monodora minor",
+    "commonName": "Monodora",
+    "localName": "Mnonodora",
+    "tribeNames": {
+      "Kichaga": "Mnonodora",
+      "Kisukuma": "Ntundu ya Mnonodora",
+      "Kihaya": "Omunonodora",
+      "Kizaramo": "Mnonodora"
+    },
+    "category": "Indangered trees, Fruits trees",
+    "conservationStatus": "Endangered",
+    "description": "An endangered tree found in Tanzania's lowland forests. Produces edible fruits.",
+    "ethnobotany": "Fruits eaten fresh. Seeds used in traditional medicine.",
+    "imagePath": "assets/images/tree_477.jpg",
+    "funFact": "This species is related to the custard apple family.",
+    "climateImpact": "Sensitive to deforestation.",
+    "commonDiseases": ["Leaf spot", "Fruit fly"]
+  },
+  {
+    "id": "478",
+    "scientificName": "Monodora carolinae",
+    "commonName": "Caroline's Monodora",
+    "localName": "Mnonodora",
+    "tribeNames": {
+      "Kichaga": "Mnonodora",
+      "Kisukuma": "Ntundu ya Mnonodora",
+      "Kihaya": "Omunonodora",
+      "Kizaramo": "Mnonodora"
+    },
+    "category": "Indangered trees, Fruits trees",
+    "conservationStatus": "Endangered",
+    "description": "An endangered tree found in Tanzania's forests.",
+    "ethnobotany": "Fruits eaten fresh. Wood used for construction.",
+    "imagePath": "assets/images/tree_478.jpg",
+    "funFact": "This species is named after Caroline, a plant collector.",
+    "climateImpact": "Threatened by habitat loss.",
+    "commonDiseases": ["Leaf spot", "Fruit fly"]
+  },
+  {
+    "id": "479",
+    "scientificName": "Newtonia erlangeri",
+    "commonName": "Erlanger's Newtonia",
+    "localName": "Mnewtonia",
+    "tribeNames": {
+      "Kichaga": "Mnewtonia",
+      "Kisukuma": "Ntundu ya Mnewtonia",
+      "Kihaya": "Omunewtonia",
+      "Kizaramo": "Mnewtonia"
+    },
+    "category": "Indangered trees, Timber trees",
+    "conservationStatus": "Endangered",
+    "description": "An endangered tree found in Tanzania's forests. Valued for its timber.",
+    "ethnobotany": "Timber for construction and furniture. Bark used in traditional medicine.",
+    "imagePath": "assets/images/tree_479.jpg",
+    "funFact": "This species is named after Erlanger, a German explorer.",
+    "climateImpact": "Threatened by logging and habitat loss.",
+    "commonDiseases": ["Heart rot", "Termite attack"]
+  },
+  {
+    "id": "480",
+    "scientificName": "Ocotea kenyensis",
+    "commonName": "Kenyan Ocotea",
+    "localName": "Mkole Kenya",
+    "tribeNames": {
+      "Kichaga": "Mkole",
+      "Kisukuma": "Ntundu ya Mkole",
+      "Kihaya": "Omukole",
+      "Kizaramo": "Mkole"
+    },
+    "category": "Indangered trees, Timber trees, Water Source Protection Trees",
+    "conservationStatus": "Endangered",
+    "description": "An endangered tree found in montane forests of Tanzania and Kenya. Valued for timber and watershed protection.",
+    "ethnobotany": "Timber for construction. Bark used in traditional medicine.",
+    "imagePath": "assets/images/tree_480.jpg",
+    "funFact": "This species is also known as the 'African camphor tree'.",
+    "climateImpact": "Requires cool, moist montane conditions.",
+    "commonDiseases": ["Heart rot", "Termite attack"]
+  },
+  {
+    "id": "481",
+    "scientificName": "Pavetta linearifolia",
+    "commonName": "Linear-leaved Pavetta",
+    "localName": "Mpavetta",
+    "tribeNames": {
+      "Kichaga": "Mpavetta",
+      "Kisukuma": "Ntundu ya Mpavetta",
+      "Kihaya": "Omupavetta",
+      "Kizaramo": "Mpavetta"
+    },
+    "category": "Indangered trees, Medicinal plants",
+    "conservationStatus": "Endangered",
+    "description": "An endangered tree found in Tanzania's coastal and lowland forests.",
+    "ethnobotany": "Leaves used in traditional medicine. Wood for fuel.",
+    "imagePath": "assets/images/tree_481.jpg",
+    "funFact": "This species has distinctive linear leaves.",
+    "climateImpact": "Sensitive to habitat loss.",
+    "commonDiseases": ["Leaf spot", "Scale insects"]
+  },
+  {
+    "id": "482",
+    "scientificName": "Premna mwadimei",
+    "commonName": "Mwadime's Premna",
+    "localName": "Mteresi",
+    "tribeNames": {
+      "Kichaga": "Mteresi",
+      "Kisukuma": "Ntundu ya Mteresi",
+      "Kihaya": "Omuteresi",
+      "Kizaramo": "Mteresi"
+    },
+    "category": "Indangered trees, Medicinal plants",
+    "conservationStatus": "Endangered",
+    "description": "An endangered tree found in Tanzania's forests. Used in traditional medicine.",
+    "ethnobotany": "Bark and leaves used in traditional medicine.",
+    "imagePath": "assets/images/tree_482.jpg",
+    "funFact": "This species is named after Mr. Mwadime who discovered it.",
+    "climateImpact": "Threatened by deforestation.",
+    "commonDiseases": ["Leaf spot", "Scale insects"]
+  },
+  {
+    "id": "483",
+    "scientificName": "Psychotria petitii",
+    "commonName": "Petit's Psychotria",
+    "localName": "Mkole petit",
+    "tribeNames": {
+      "Kichaga": "Mkole",
+      "Kisukuma": "Ntundu ya Mkole",
+      "Kihaya": "Omukole",
+      "Kizaramo": "Mkole"
+    },
+    "category": "Indangered trees, Medicinal plants",
+    "conservationStatus": "Endangered",
+    "description": "An endangered tree found in Tanzania's forests.",
+    "ethnobotany": "Bark and leaves used in traditional medicine.",
+    "imagePath": "assets/images/tree_483.jpg",
+    "funFact": "This species is named after Petit, a plant collector.",
+    "climateImpact": "Sensitive to habitat loss.",
+    "commonDiseases": ["Leaf spot", "Root rot"]
+  },
+  {
+    "id": "484",
+    "scientificName": "Rinorea angustifolia",
+    "commonName": "Rinorea",
+    "localName": "Mrinorea",
+    "tribeNames": {
+      "Kichaga": "Mrinorea",
+      "Kisukuma": "Ntundu ya Mrinorea",
+      "Kihaya": "Omurinorea",
+      "Kizaramo": "Mrinorea"
+    },
+    "category": "Indangered trees, Medicinal plants",
+    "conservationStatus": "Endangered",
+    "description": "An endangered tree found in Tanzania's lowland forests.",
+    "ethnobotany": "Bark and leaves used in traditional medicine.",
+    "imagePath": "assets/images/tree_484.jpg",
+    "funFact": "This species has narrow leaves adapted to forest understory.",
+    "climateImpact": "Sensitive to deforestation.",
+    "commonDiseases": ["Leaf spot", "Root rot"]
+  },
+  {
+    "id": "485",
+    "scientificName": "Sorindeia madagascariensis",
+    "commonName": "Sorindeia",
+    "localName": "Msorindeia",
+    "tribeNames": {
+      "Kichaga": "Msorindeia",
+      "Kisukuma": "Ntundu ya Msorindeia",
+      "Kihaya": "Omusorindeia",
+      "Kizaramo": "Msorindeia"
+    },
+    "category": "Indangered trees, Fruits trees",
+    "conservationStatus": "Endangered",
+    "description": "An endangered tree found in Tanzania's forests. Produces edible fruits.",
+    "ethnobotany": "Fruits eaten fresh. Wood for construction.",
+    "imagePath": "assets/images/tree_485.jpg",
+    "funFact": "This species is also found in Madagascar.",
+    "climateImpact": "Threatened by habitat loss.",
+    "commonDiseases": ["Leaf spot", "Fruit fly"]
+  },
+  {
+    "id": "486",
+    "scientificName": "Synsepalum kassneri",
+    "commonName": "Kassner's Synsepalum",
+    "localName": "Msynsepalum",
+    "tribeNames": {
+      "Kichaga": "Msynsepalum",
+      "Kisukuma": "Ntundu ya Msynsepalum",
+      "Kihaya": "Omusynsepalum",
+      "Kizaramo": "Msynsepalum"
+    },
+    "category": "Indangered trees, Fruits trees",
+    "conservationStatus": "Endangered",
+    "description": "An endangered tree found in Tanzania's forests. Produces edible fruits.",
+    "ethnobotany": "Fruits eaten fresh. Bark used in traditional medicine.",
+    "imagePath": "assets/images/tree_486.jpg",
+    "funFact": "This species is related to the miracle fruit tree.",
+    "climateImpact": "Sensitive to habitat loss.",
+    "commonDiseases": ["Leaf spot", "Fruit fly"]
+  },
+  {
+    "id": "487",
+    "scientificName": "Tarenna hutchinsonii",
+    "commonName": "Hutchinson's Tarenna",
+    "localName": "Mkole Hutchinson",
+    "tribeNames": {
+      "Kichaga": "Mkole",
+      "Kisukuma": "Ntundu ya Mkole",
+      "Kihaya": "Omukole",
+      "Kizaramo": "Mkole"
+    },
+    "category": "Indangered trees, Medicinal plants",
+    "conservationStatus": "Endangered",
+    "description": "An endangered tree found in Tanzania's forests. Used in traditional medicine.",
+    "ethnobotany": "Bark and leaves used in traditional medicine.",
+    "imagePath": "assets/images/tree_487.jpg",
+    "funFact": "This species is named after Hutchinson, a British botanist.",
+    "climateImpact": "Threatened by deforestation.",
+    "commonDiseases": ["Leaf spot", "Root rot"]
+  },
+  {
+    "id": "488",
+    "scientificName": "Turraea kimbozensis",
+    "commonName": "Kimboza Turraea",
+    "localName": "Mkole Kimboza",
+    "tribeNames": {
+      "Kichaga": "Mkole",
+      "Kisukuma": "Ntundu ya Mkole",
+      "Kihaya": "Omukole",
+      "Kizaramo": "Mkole"
+    },
+    "category": "Indangered trees, Medicinal plants, Bee folders trees",
+    "conservationStatus": "Endangered",
+    "description": "An endangered tree found in the Kimboza Forest Reserve in Tanzania. Known for its medicinal properties and bee forage.",
+    "ethnobotany": "Bark and leaves used in traditional medicine. Flowers attract bees.",
+    "imagePath": "assets/images/tree_488.jpg",
+    "funFact": "This species is found only in the Kimboza Forest Reserve.",
+    "climateImpact": "Requires protected forest habitat.",
+    "commonDiseases": ["Leaf spot", "Scale insects"]
+  },
+  {
+    "id": "489",
+    "scientificName": "Vepris amaniensis",
+    "commonName": "Amani Vepris",
+    "localName": "Mvepri Amani",
+    "tribeNames": {
+      "Kichaga": "Mvepri",
+      "Kisukuma": "Ntundu ya Mvepri",
+      "Kihaya": "Omuvepri",
+      "Kizaramo": "Mvepri"
+    },
+    "category": "Indangered trees, Medicinal plants",
+    "conservationStatus": "Endangered",
+    "description": "An endangered tree endemic to the Amani Forest Reserve in Tanzania.",
+    "ethnobotany": "Bark and leaves used in traditional medicine.",
+    "imagePath": "assets/images/tree_489.jpg",
+    "funFact": "This species is found only in the Amani Forest Reserve.",
+    "climateImpact": "Requires protected forest habitat.",
+    "commonDiseases": ["Leaf spot", "Root rot"]
+  },
+  {
+    "id": "490",
+    "scientificName": "Xylopia mwasumbii",
+    "commonName": "Mwasumbi's Xylopia",
+    "localName": "Mxylopia",
+    "tribeNames": {
+      "Kichaga": "Mxylopia",
+      "Kisukuma": "Ntundu ya Mxylopia",
+      "Kihaya": "Omuxylopia",
+      "Kizaramo": "Mxylopia"
+    },
+    "category": "Indangered trees, Fruits trees, Medicinal plants",
+    "conservationStatus": "Endangered",
+    "description": "An endangered tree found in Tanzania's coastal forests. Produces edible fruits and has medicinal properties.",
+    "ethnobotany": "Fruits eaten fresh. Bark and leaves used in traditional medicine.",
+    "imagePath": "assets/images/tree_490.jpg",
+    "funFact": "This species is named after Mwasumbi, a Tanzanian plant collector.",
+    "climateImpact": "Threatened by habitat loss and deforestation.",
+    "commonDiseases": ["Leaf spot", "Fruit fly"]
+  },
+  {
+    "id": "491",
+    "scientificName": "Warburgia salutaris",
+    "commonName": "Pepper-bark Tree",
+    "localName": "Msokone",
+    "tribeNames": {
+      "Kichaga": "Msokone",
+      "Kisukuma": "Ntundu ya Msokone",
+      "Kihaya": "Omusokone",
+      "Kizaramo": "Msokone"
+    },
+    "category": "Indangered trees, Medicinal plants, Agroforestry trees",
+    "conservationStatus": "Endangered",
+    "description": "An endangered medicinal tree known as the 'pepper-bark tree'. Bark is highly valued for its medicinal properties. Found in Tanzania's coastal and montane forests.",
+    "ethnobotany": "Bark used for treating fever, colds, and respiratory infections. Also used as a spice and in traditional ceremonies.",
+    "imagePath": "assets/images/tree_491.jpg",
+    "funFact": "The bark is known as 'pepper-bark' because of its hot, peppery taste when chewed.",
+    "climateImpact": "Sensitive to overharvesting and deforestation.",
+    "commonDiseases": ["Leaf spot", "Root rot", "Scale insects"]
   }
 ]
