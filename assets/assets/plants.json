@@ -374,7 +374,7 @@
     "conservationStatus": "Least Concern",
     "description": "Distinctive greenish-yellow bark, grows near water sources. Known for its medicinal properties and unique appearance.",
     "ethnobotany": "Bark used for treating fevers, wood for fencing. Also used in traditional rituals.",
-    "imagePath": "assets/images/acacia_xanthophloea.jpg",
+    "imagePath": "assets/images/tree_19.jpg",
     "funFact": "Called 'fever tree' because early settlers thought it caused malaria, but it actually grows in malaria-prone areas.",
     "climateImpact": "Tolerant to seasonal flooding.",
     "commonDiseases": ["Gall wasp", "Leaf spot"]
@@ -394,7 +394,7 @@
     "conservationStatus": "Vulnerable",
     "description": "Highly valuable timber tree producing black, dense wood. Used for musical instruments and fine furniture.",
     "ethnobotany": "Wood used for musical instruments, carvings, and fine furniture. Bark used in traditional medicine.",
-    "imagePath": "assets/images/mpingo.jpg",
+    "imagePath": "assets/images/tree_20.jpg",
     "funFact": "Mpingo wood is so dense it sinks in water, making it one of the hardest woods in the world.",
     "climateImpact": "Slow growing. Threatened by overharvesting.",
     "commonDiseases": ["Heart rot", "Dieback"]
@@ -414,7 +414,7 @@
     "conservationStatus": "Vulnerable",
     "description": "Large mahogany tree prized for its high-quality timber. Found in Tanzania's tropical forests.",
     "ethnobotany": "Wood used for furniture, doors. Bark used in traditional medicine. Timber is exported internationally.",
-    "imagePath": "assets/images/mkangazi.jpg",
+    "imagePath": "assets/images/tree_21.jpg",
     "funFact": "Mkangazi can grow up to 60 meters tall, making it one of the tallest trees in Africa.",
     "climateImpact": "Sensitive to deforestation. Requires tropical forest.",
     "commonDiseases": ["Heart rot", "Termite attack"]
@@ -434,7 +434,7 @@
     "conservationStatus": "Least Concern",
     "description": "Unique tree that sheds leaves during the rainy season. Valuable for agroforestry and soil improvement.",
     "ethnobotany": "Leaves used as fodder, wood for construction, pods for animal feed. Improves soil fertility.",
-    "imagePath": "assets/images/mkole.jpg",
+    "imagePath": "assets/images/tree_22.jpg",
     "funFact": "Called the 'fertilizer tree' because it fixes nitrogen, enriching soil for surrounding crops.",
     "climateImpact": "Drought tolerant. Beneficial for agriculture.",
     "commonDiseases": ["Leaf spot", "Mistletoe"]
@@ -454,7 +454,7 @@
     "conservationStatus": "Least Concern",
     "description": "Iconic umbrella-shaped tree of African savannas. Provides shade and food for wildlife.",
     "ethnobotany": "Wood used for fencing, bark for tanning, gum for food. Also used as livestock fodder.",
-    "imagePath": "assets/images/acacia_tortilis.jpg",
+    "imagePath": "assets/images/tree_23.jpg",
     "funFact": "Provides shade and food for giraffes and elephants, making it a keystone species in savanna ecosystems.",
     "climateImpact": "Highly drought tolerant.",
     "commonDiseases": ["Gall wasp", "Leaf spot"]
@@ -474,7 +474,7 @@
     "conservationStatus": "Least Concern",
     "description": "Aromatic tree with knobbly bark, used widely in traditional medicine. Common in Tanzania's dry woodlands.",
     "ethnobotany": "Bark and leaves used for malaria, stomach problems, and toothaches. Also used as a spice.",
-    "imagePath": "assets/images/zanthoxylum.jpg",
+    "imagePath": "assets/images/tree_24.jpg",
     "funFact": "The bark and leaves have a strong citrus-like smell when crushed, similar to lemon or lime.",
     "climateImpact": "Drought tolerant.",
     "commonDiseases": ["Leaf spot", "Canker"]
@@ -614,7 +614,7 @@
     "conservationStatus": "Least Concern",
     "description": "A tree that produces flowers rich in nectar, important for beekeeping and honey production.",
     "ethnobotany": "Bark used for cough and fever medicine. Flowers are a source of high-quality honey.",
-    "imagePath": "assets/images/combretum_molle.jpg",
+    "imagePath": "assets/images/tree_31.jpg",
     "funFact": "The flowers bloom during the dry season, providing food for bees when other sources are scarce.",
     "climateImpact": "Drought tolerant.",
     "commonDiseases": ["Leaf blight", "Powdery mildew"]
@@ -634,7 +634,7 @@
     "conservationStatus": "Least Concern",
     "description": "A major honey tree in miombo woodlands, producing flowers with abundant nectar.",
     "ethnobotany": "A major source of honey. Bark used for treating diarrhea.",
-    "imagePath": "assets/images/combretum_zeyheri.jpg",
+    "imagePath": "assets/images/tree_32.jpg",
     "funFact": "Honey from this tree has a distinct brown color and is known for its high quality.",
     "climateImpact": "Drought tolerant.",
     "commonDiseases": ["Leaf spot", "Powdery mildew"]
@@ -654,7 +654,7 @@
     "conservationStatus": "Vulnerable",
     "description": "Valuable tree producing small flowers with a sweet fragrance that attracts bees in large numbers.",
     "ethnobotany": "Flowers used by bees for honey production. Wood used for musical instruments.",
-    "imagePath": "assets/images/mpingo.jpg",
+    "imagePath": "assets/images/tree_33.jpg",
     "funFact": "Mpingo is the national tree of Tanzania. Its wood is black and extremely heavy.",
     "climateImpact": "Slow growing. Threatened by overharvesting.",
     "commonDiseases": ["Heart rot", "Dieback"]
@@ -674,7 +674,7 @@
     "conservationStatus": "Least Concern",
     "description": "A tree with yellow flowers rich in pollen and nectar, important for beekeeping.",
     "ethnobotany": "Flowers are a good source of honey. Bark used for toothache and cough.",
-    "imagePath": "assets/images/acacia_nilotica.jpg",
+    "imagePath": "assets/images/tree_34.jpg",
     "funFact": "Honey from this tree has a brown color and distinct, rich flavor.",
     "climateImpact": "Drought tolerant.",
     "commonDiseases": ["Powdery mildew", "Leaf spot", "Gall wasp"]
@@ -694,7 +694,7 @@
     "conservationStatus": "Least Concern",
     "description": "A tree with sweet-smelling flowers that attract bees from long distances.",
     "ethnobotany": "Flowers used for beekeeping. Bark used for treating diarrhea.",
-    "imagePath": "assets/images/acacia_mellifera.jpg",
+    "imagePath": "assets/images/tree_35.jpg",
     "funFact": "The sweet fragrance of the flowers can attract bees from great distances.",
     "climateImpact": "Drought tolerant.",
     "commonDiseases": ["Gall wasp", "Leaf spot"]
@@ -714,7 +714,7 @@
     "conservationStatus": "Least Concern",
     "description": "A major tree in miombo woodlands, producing honey that is famous worldwide.",
     "ethnobotany": "A major source of honey, with a large market. The tree is important for beekeeping.",
-    "imagePath": "assets/images/brachystegia_spiciformis.jpg",
+    "imagePath": "assets/images/tree_36.jpg",
     "funFact": "Miombo honey is known worldwide for its exceptional quality and flavor.",
     "climateImpact": "Fire adapted.",
     "commonDiseases": ["Leaf rust", "Canker"]
@@ -734,7 +734,7 @@
     "conservationStatus": "Least Concern",
     "description": "A miombo tree that produces flowers rich in nectar, important for beekeeping.",
     "ethnobotany": "Produces high-quality honey. Bark used for cough medicine.",
-    "imagePath": "assets/images/brachystegia_boehmii.jpg",
+    "imagePath": "assets/images/tree_37.jpg",
     "funFact": "Honey from this tree has a light color and sweet taste, prized by local communities.",
     "climateImpact": "Fire adapted. Tolerant to drought.",
     "commonDiseases": ["Leaf rust", "Canker"]
@@ -754,7 +754,7 @@
     "conservationStatus": "Least Concern",
     "description": "A miombo tree producing flowers rich in nectar, important for beekeeping and honey production.",
     "ethnobotany": "A source of honey. Bark used for toothache and oral hygiene.",
-    "imagePath": "assets/images/julbernardia_globiflora.jpg",
+    "imagePath": "assets/images/tree_38.jpg",
     "funFact": "This tree can grow in poor soils and still produce abundant flowers for honey bees.",
     "climateImpact": "Fire adapted.",
     "commonDiseases": ["Leaf rust", "Canker"]
@@ -774,7 +774,7 @@
     "conservationStatus": "Least Concern",
     "description": "A small tree with large yellow flowers, a good source of pollen for bees.",
     "ethnobotany": "Flowers attract bees and birds. The tree is good for landscaping and beekeeping.",
-    "imagePath": "assets/images/markhamia_obtusifolia.jpg",
+    "imagePath": "assets/images/tree_39.jpg",
     "funFact": "The flowers resemble those of the cashew tree but are much larger and more colorful.",
     "climateImpact": "Moderately drought tolerant.",
     "commonDiseases": ["Leaf spot", "Aphids"]
@@ -794,7 +794,7 @@
     "conservationStatus": "Least Concern",
     "description": "A tree producing flowers rich in nectar, important for beekeeping in dry areas.",
     "ethnobotany": "Honey from this tree has a light color and sweet taste. Bark used in traditional medicine.",
-    "imagePath": "assets/images/lannea_schweinfurthii.jpg",
+    "imagePath": "assets/images/tree_40.jpg",
     "funFact": "This tree can thrive in dry areas and still produce abundant flowers for bees.",
     "climateImpact": "Highly drought tolerant.",
     "commonDiseases": ["Leaf spot", "Root rot"]
@@ -814,7 +814,7 @@
     "conservationStatus": "Least Concern",
     "description": "A tree with yellow flowers rich in pollen, important for bees in dry areas.",
     "ethnobotany": "Flowers are a source of honey. Pods used for livestock fodder.",
-    "imagePath": "assets/images/acacia_tortilis.jpg",
+    "imagePath": "assets/images/tree_41.jpg",
     "funFact": "This tree has an umbrella shape and provides excellent shade in hot savanna regions.",
     "climateImpact": "Highly drought tolerant.",
     "commonDiseases": ["Gall wasp", "Leaf spot"]
@@ -834,7 +834,7 @@
     "conservationStatus": "Least Concern",
     "description": "A large tree producing large white flowers rich in nectar. The flowers bloom at night and attract bees.",
     "ethnobotany": "Fruits rich in vitamin C, leaves eaten as vegetable, bark for rope.",
-    "imagePath": "assets/images/baobab.jpg",
+    "imagePath": "assets/images/tree_42.jpg",
     "funFact": "Baobab can store up to 120,000 liters of water in its trunk, allowing it to survive long droughts.",
     "climateImpact": "Highly drought tolerant.",
     "commonDiseases": ["Root rot", "Leaf spot"]
@@ -854,7 +854,7 @@
     "conservationStatus": "Least Concern",
     "description": "A tree with bright red flowers rich in nectar. The flowers attract bees and birds in large numbers.",
     "ethnobotany": "Flowers attract bees. Bark used for malaria and stomach problems.",
-    "imagePath": "assets/images/erythrina_abyssinica.jpg",
+    "imagePath": "assets/images/tree_43.jpg",
     "funFact": "The bright red flowers attract birds and bees from long distances.",
     "climateImpact": "Moderately drought tolerant.",
     "commonDiseases": ["Stem canker", "Leaf spot"]
@@ -874,7 +874,7 @@
     "conservationStatus": "Least Concern",
     "description": "A tree producing large red flowers rich in nectar. The flowers bloom at night and attract bees.",
     "ethnobotany": "Flowers used by bees. Fruits used for skin treatments and diabetes.",
-    "imagePath": "assets/images/kigelia_africana.jpg",
+    "imagePath": "assets/images/tree_44.jpg",
     "funFact": "The sausage-shaped fruits can grow up to 1 meter long and weigh several kilograms.",
     "climateImpact": "Drought tolerant.",
     "commonDiseases": ["Leaf spot", "Fruit rot"]
@@ -894,7 +894,7 @@
     "conservationStatus": "Least Concern",
     "description": "A tree producing red flowers rich in nectar. Produces large amounts of honey during the flowering season.",
     "ethnobotany": "Flowers attract bees. Wood used for furniture.",
-    "imagePath": "assets/images/schotia_brachypetala.jpg",
+    "imagePath": "assets/images/tree_45.jpg",
     "funFact": "The flowers produce so much nectar that it drips from the tree during the flowering season.",
     "climateImpact": "Drought tolerant.",
     "commonDiseases": ["Leaf spot", "Canker"]
@@ -914,7 +914,7 @@
     "conservationStatus": "Least Concern",
     "description": "A tree highly preferred by livestock, especially goats. Has a preference score of 1.8 (high) and good digestibility.",
     "ethnobotany": "Excellent fodder for livestock, fruits eaten by birds, bark used for medicine.",
-    "imagePath": "assets/images/grewia_similis.jpg",
+    "imagePath": "assets/images/tree_46.jpg",
     "funFact": "This tree is considered the best fodder for goats compared to other trees.",
     "climateImpact": "Drought tolerant.",
     "commonDiseases": ["Leaf spot", "Powdery mildew"]
@@ -934,7 +934,7 @@
     "conservationStatus": "Least Concern",
     "description": "A tree preferred by livestock, especially during the dry season. Has a preference score of 1.7 (high).",
     "ethnobotany": "Leaves used as livestock fodder, especially during drought periods.",
-    "imagePath": "assets/images/haplocoelum_foliolosum.jpg",
+    "imagePath": "assets/images/tree_47.jpg",
     "funFact": "This tree is an excellent choice for fodder during severe drought periods.",
     "climateImpact": "Drought tolerant.",
     "commonDiseases": ["Leaf spot", "Scale insects"]
@@ -954,7 +954,7 @@
     "conservationStatus": "Least Concern",
     "description": "A tree or shrub used as livestock fodder, especially for goats and sheep. Has multiple uses (fodder, medicine, food).",
     "ethnobotany": "Leaves used as fodder, fruits eaten by birds, bark used for medicine.",
-    "imagePath": "assets/images/grewia_bicolor.jpg",
+    "imagePath": "assets/images/tree_48.jpg",
     "funFact": "This tree has yellow flowers and can thrive in dry areas.",
     "climateImpact": "Drought tolerant.",
     "commonDiseases": ["Leaf spot", "Powdery mildew"]
@@ -974,7 +974,7 @@
     "conservationStatus": "Least Concern",
     "description": "A tree recommended by pastoralists as livestock fodder, especially for cattle and goats.",
     "ethnobotany": "Excellent fodder, leaves and small branches eaten by all livestock.",
-    "imagePath": "assets/images/combretum_hereroense.jpg",
+    "imagePath": "assets/images/tree_49.jpg",
     "funFact": "This tree can grow in poor soils and still produce abundant leaves for livestock.",
     "climateImpact": "Drought tolerant.",
     "commonDiseases": ["Leaf blight", "Powdery mildew"]
@@ -994,7 +994,7 @@
     "conservationStatus": "Least Concern",
     "description": "An important tree for livestock fodder, especially during the dry season. Leaves and pods are eaten by goats and cattle.",
     "ethnobotany": "Excellent fodder for livestock, wood for construction, bark for tanning.",
-    "imagePath": "assets/images/acacia_tortilis.jpg",
+    "imagePath": "assets/images/tree_50.jpg",
     "funFact": "Wildlife such as giraffes and elephants also love the leaves of this tree.",
     "climateImpact": "Highly drought tolerant.",
     "commonDiseases": ["Gall wasp", "Leaf spot"]
@@ -1014,7 +1014,7 @@
     "conservationStatus": "Least Concern",
     "description": "A small to medium tree used as livestock fodder. Has many uses (food, medicine, fodder).",
     "ethnobotany": "Fruits eaten, leaves are fodder, bark used for toothache.",
-    "imagePath": "assets/images/cordia_sinensis.jpg",
+    "imagePath": "assets/images/tree_51.jpg",
     "funFact": "This tree has many uses including food, fodder, medicine, and firewood.",
     "climateImpact": "Drought tolerant.",
     "commonDiseases": ["Leaf spot", "Root rot"]
@@ -1034,7 +1034,7 @@
     "conservationStatus": "Least Concern",
     "description": "A tree producing pods and leaves that are preferred by livestock, especially during the dry season.",
     "ethnobotany": "Pods used as fodder, bark for toothache and cough.",
-    "imagePath": "assets/images/acacia_nilotica.jpg",
+    "imagePath": "assets/images/tree_52.jpg",
     "funFact": "Mkaa pods are rich in protein and are highly preferred by livestock.",
     "climateImpact": "Drought tolerant.",
     "commonDiseases": ["Powdery mildew", "Leaf spot", "Gall wasp"]
@@ -1054,7 +1054,7 @@
     "conservationStatus": "Least Concern",
     "description": "A tree producing leaves rich in protein, important for livestock fodder during the dry season.",
     "ethnobotany": "Excellent fodder for cattle and goats, wood for firewood.",
-    "imagePath": "assets/images/acacia_mellifera.jpg",
+    "imagePath": "assets/images/tree_53.jpg",
     "funFact": "The flowers have a sweet fragrance that attracts bees.",
     "climateImpact": "Drought tolerant.",
     "commonDiseases": ["Gall wasp", "Leaf spot"]
@@ -1074,7 +1074,7 @@
     "conservationStatus": "Least Concern",
     "description": "A shrub or small tree used as fodder for goats and sheep, especially during the dry season.",
     "ethnobotany": "Leaves eaten by livestock, wood for high-quality firewood and charcoal.",
-    "imagePath": "assets/images/dichrostachys_cinerea.jpg",
+    "imagePath": "assets/images/tree_54.jpg",
     "funFact": "This tree has thorns and can be used as a natural fence.",
     "climateImpact": "Drought tolerant.",
     "commonDiseases": ["Leaf spot", "Root rot"]
@@ -1094,7 +1094,7 @@
     "conservationStatus": "Least Concern",
     "description": "A tree producing gum arabic and protein-rich leaves for livestock fodder.",
     "ethnobotany": "Gum used for food and medicine, leaves are fodder, bark for tanning.",
-    "imagePath": "assets/images/acacia_senegal.jpg",
+    "imagePath": "assets/images/tree_55.jpg",
     "funFact": "Gum arabic from this tree is used in Coca-Cola and many candies.",
     "climateImpact": "Drought tolerant.",
     "commonDiseases": ["Powdery mildew", "Leaf spot"]
@@ -1114,7 +1114,7 @@
     "conservationStatus": "Least Concern",
     "description": "A shrub or small tree used as livestock fodder, especially for goats and cattle.",
     "ethnobotany": "Leaves are excellent fodder, fruits eaten by birds.",
-    "imagePath": "assets/images/grewia_forbesii.jpg",
+    "imagePath": "assets/images/tree_56.jpg",
     "funFact": "This tree can grow in areas with poor soil conditions.",
     "climateImpact": "Drought tolerant.",
     "commonDiseases": ["Leaf spot", "Powdery mildew"]
@@ -1134,7 +1134,7 @@
     "conservationStatus": "Least Concern",
     "description": "A tree producing protein-rich leaves, important for livestock fodder.",
     "ethnobotany": "Excellent fodder, wood for construction, bark for medicine.",
-    "imagePath": "assets/images/acacia_abyssinica.jpg",
+    "imagePath": "assets/images/tree_57.jpg",
     "funFact": "This tree has thorns and grows quickly in mountainous areas.",
     "climateImpact": "Moderately drought tolerant.",
     "commonDiseases": ["Gall wasp", "Leaf spot"]
@@ -1154,7 +1154,7 @@
     "conservationStatus": "Least Concern",
     "description": "A small tree used as livestock fodder, especially during the dry season.",
     "ethnobotany": "Leaves eaten by livestock, bark used for cough medicine.",
-    "imagePath": "assets/images/bauhinia_thonningii.jpg",
+    "imagePath": "assets/images/tree_58.jpg",
     "funFact": "The flowers of this tree resemble butterflies and are beautiful in landscaping.",
     "climateImpact": "Drought tolerant.",
     "commonDiseases": ["Leaf spot", "Powdery mildew"]
@@ -1174,7 +1174,7 @@
     "conservationStatus": "Least Concern",
     "description": "A tree producing leaves preferred by livestock, especially during the dry season.",
     "ethnobotany": "Excellent fodder, wood for construction, bark for medicine.",
-    "imagePath": "assets/images/burkea_africana.jpg",
+    "imagePath": "assets/images/tree_59.jpg",
     "funFact": "This tree has yellow flowers with a sweet fragrance.",
     "climateImpact": "Drought tolerant.",
     "commonDiseases": ["Leaf spot", "Root rot"]
@@ -1194,7 +1194,7 @@
     "conservationStatus": "Least Concern",
     "description": "A tree producing leaves preferred by livestock, especially during the dry season.",
     "ethnobotany": "Excellent fodder, wood for construction, bark for toothache.",
-    "imagePath": "assets/images/terminalia_brownii.jpg",
+    "imagePath": "assets/images/tree_60 .jpg",
     "funFact": "This tree can grow up to 25 meters tall.",
     "climateImpact": "Drought tolerant.",
     "commonDiseases": ["Leaf spot", "Root rot"]
@@ -1214,7 +1214,7 @@
     "conservationStatus": "Near Threatened",
     "description": "A valuable timber tree producing hard, durable wood with a beautiful grain pattern. Found in Tanzania's coastal and miombo woodlands.",
     "ethnobotany": "High-quality timber for furniture, construction, and flooring. Seeds used in traditional jewelry.",
-    "imagePath": "assets/images/tree_31.jpg",
+    "imagePath": "assets/images/tree_61.jpg",
     "funFact": "The wood is so durable that it is often used for railway sleepers and heavy construction.",
     "climateImpact": "Moderately drought tolerant. Prefers well-drained soils.",
     "commonDiseases": ["Heart rot", "Termite attack"]
@@ -1234,7 +1234,7 @@
     "conservationStatus": "Least Concern",
     "description": "A medicinal tree used to treat intestinal worms and parasites. Common in Tanzania's dry woodlands.",
     "ethnobotany": "Bark and roots used as a dewormer for livestock and humans. Also used for fever treatment.",
-    "imagePath": "assets/images/tree_32.jpg",
+    "imagePath": "assets/images/tree_62.jpg",
     "funFact": "The bark has powerful anti-parasitic properties and is used in traditional veterinary medicine.",
     "climateImpact": "Drought tolerant. Thrives in semi-arid conditions.",
     "commonDiseases": ["Leaf spot", "Root rot"]
@@ -1254,7 +1254,7 @@
     "conservationStatus": "Least Concern",
     "description": "A beautiful ornamental tree with distinctive butterfly-shaped leaves and white flowers. Native to eastern Africa.",
     "ethnobotany": "Planted for shade and ornament. Leaves used as fodder. Wood for light construction.",
-    "imagePath": "assets/images/tree_33.jpg",
+    "imagePath": "assets/images/tree_63.jpg",
     "funFact": "The leaves fold up at night and during dry weather, resembling a butterfly resting.",
     "climateImpact": "Drought tolerant. Grows in various soil types.",
     "commonDiseases": ["Leaf spot", "Aphids"]
@@ -1274,7 +1274,7 @@
     "conservationStatus": "Least Concern",
     "description": "A fast-growing evergreen tree widely planted in urban areas for shade and as a living fence. Native to Southeast Asia but naturalized in Tanzania.",
     "ethnobotany": "Provides excellent shade. Wood used for furniture and construction. Leaves used as green manure.",
-    "imagePath": "assets/images/tree_34.jpg",
+    "imagePath": "assets/images/tree_64.jpg",
     "funFact": "This tree can grow up to 15 meters tall and is highly tolerant of urban pollution.",
     "climateImpact": "Drought tolerant. Thrives in tropical climates.",
     "commonDiseases": ["Leaf spot", "Aphids"]
@@ -1294,7 +1294,7 @@
     "conservationStatus": "Least Concern",
     "description": "A small tree with distinctive peeling bark, producing aromatic resin used in traditional medicine. Found in Tanzania's dry regions.",
     "ethnobotany": "Resin used for wound healing and as a general remedy. Wood for firewood and charcoal.",
-    "imagePath": "assets/images/tree_35.jpg",
+    "imagePath": "assets/images/tree_65.jpg",
     "funFact": "The resin has a pleasant fragrance and is sometimes used as incense.",
     "climateImpact": "Highly drought tolerant. Thrives in rocky, arid areas.",
     "commonDiseases": ["Leaf spot", "Scale insects"]
@@ -1314,7 +1314,7 @@
     "conservationStatus": "Least Concern",
     "description": "A medium-sized tree producing sweet, edible fruits. Common in Tanzania's highlands and along rivers.",
     "ethnobotany": "Fruits eaten fresh. Wood used for furniture and carving. Leaves used as fodder.",
-    "imagePath": "assets/images/tree_36.jpg",
+    "imagePath": "assets/images/tree_66.jpg",
     "funFact": "The fruits are loved by birds and are often harvested from the wild.",
     "climateImpact": "Requires moist conditions. Grows well near water sources.",
     "commonDiseases": ["Leaf spot", "Root rot"]
@@ -1334,7 +1334,7 @@
     "conservationStatus": "Least Concern",
     "description": "A forest tree with medicinal properties, used for treating skin diseases and wounds. Found in Tanzania's moist forests.",
     "ethnobotany": "Bark and leaves used for skin conditions. Wood for light construction and firewood.",
-    "imagePath": "assets/images/tree_37.jpg",
+    "imagePath": "assets/images/tree_67.jpg",
     "funFact": "The sap has antimicrobial properties and is used in traditional wound healing.",
     "climateImpact": "Sensitive to drought. Requires humid conditions.",
     "commonDiseases": ["Leaf spot", "Canker"]
@@ -1354,7 +1354,7 @@
     "conservationStatus": "Vulnerable",
     "description": "A valuable timber tree producing hard, durable wood with a beautiful grain. Found in Tanzania's dry forests.",
     "ethnobotany": "High-quality timber for furniture, carving, and construction. Bark used for traditional medicine.",
-    "imagePath": "assets/images/tree_38.jpg",
+    "imagePath": "assets/images/tree_68.jpg",
     "funFact": "The wood is highly resistant to termites and can last for generations.",
     "climateImpact": "Drought tolerant. Prefers well-drained soils.",
     "commonDiseases": ["Heart rot", "Dieback"]
@@ -1374,7 +1374,7 @@
     "conservationStatus": "Least Concern",
     "description": "A thorny shrub or small tree found in savanna regions. Provides browse for livestock and habitat for wildlife.",
     "ethnobotany": "Leaves used as fodder. Wood for high-quality firewood and charcoal. Used as a natural fence.",
-    "imagePath": "assets/images/tree_39.jpg",
+    "imagePath": "assets/images/tree_69.jpg",
     "funFact": "This tree has distinctive two-colored flowers and is highly drought resistant.",
     "climateImpact": "Drought tolerant. Thrives in semi-arid conditions.",
     "commonDiseases": ["Leaf spot", "Powdery mildew"]
@@ -1394,7 +1394,7 @@
     "conservationStatus": "Least Concern",
     "description": "A large evergreen tree producing sweet, edible fruits similar to persimmons. Common along rivers and in miombo woodlands.",
     "ethnobotany": "Fruits eaten fresh or dried. Wood for construction and furniture. Bark for traditional medicine.",
-    "imagePath": "assets/images/tree_40.jpg",
+    "imagePath": "assets/images/tree_70.jpg",
     "funFact": "The fruits are rich in vitamin C and are harvested during the dry season.",
     "climateImpact": "Drought tolerant. Grows near water sources.",
     "commonDiseases": ["Leaf spot", "Root rot"]
@@ -1414,7 +1414,7 @@
     "conservationStatus": "Least Concern",
     "description": "A beautiful tree with large, showy white flowers. Popular in gardens and parks in Tanzania.",
     "ethnobotany": "Planted for ornament and shade. Bark used for rope and fiber.",
-    "imagePath": "assets/images/tree_41.jpg",
+    "imagePath": "assets/images/tree_71.jpg",
     "funFact": "The flowers attract bees and butterflies, making it a favorite in pollinator gardens.",
     "climateImpact": "Moderately drought tolerant. Prefers well-drained soils.",
     "commonDiseases": ["Leaf spot", "Aphids"]
@@ -1434,7 +1434,7 @@
     "conservationStatus": "Least Concern",
     "description": "A large fig tree providing excellent shade. Found in rocky areas and along rivers in Tanzania.",
     "ethnobotany": "Provides shade. Fruits eaten by birds and wildlife. Bark for traditional medicine.",
-    "imagePath": "assets/images/tree_42.jpg",
+    "imagePath": "assets/images/tree_72.jpg",
     "funFact": "This fig tree can grow on rocky outcrops, sending roots deep into cracks for water.",
     "climateImpact": "Moderately drought tolerant. Grows in various soil types.",
     "commonDiseases": ["Fig rust", "Leaf blight"]
@@ -1454,7 +1454,7 @@
     "conservationStatus": "Least Concern",
     "description": "A small tree with fragrant white flowers, related to the gardenia. Found in Tanzania's savanna woodlands.",
     "ethnobotany": "Flowers used for perfume. Fruits used in traditional medicine. Wood for carving.",
-    "imagePath": "assets/images/tree_43.jpg",
+    "imagePath": "assets/images/tree_73.jpg",
     "funFact": "The flowers have a strong, sweet fragrance that fills the air at night.",
     "climateImpact": "Drought tolerant. Thrives in rocky, well-drained soils.",
     "commonDiseases": ["Leaf spot", "Scale insects"]
@@ -1474,7 +1474,7 @@
     "conservationStatus": "Least Concern",
     "description": "A small tree or shrub used in agroforestry for soil improvement and livestock fodder.",
     "ethnobotany": "Leaves used as fodder. Bark for rope and medicine. Fruits eaten by wildlife.",
-    "imagePath": "assets/images/tree_44.jpg",
+    "imagePath": "assets/images/tree_74.jpg",
     "funFact": "This tree is highly valued for its ability to improve soil quality.",
     "climateImpact": "Drought tolerant. Grows in poor soils.",
     "commonDiseases": ["Leaf spot", "Powdery mildew"]
@@ -1494,7 +1494,7 @@
     "conservationStatus": "Vulnerable",
     "description": "A large mahogany tree producing high-quality timber. Widely planted for its valuable wood.",
     "ethnobotany": "High-quality timber for furniture, boats, and construction. Bark used in traditional medicine.",
-    "imagePath": "assets/images/tree_45.jpg",
+    "imagePath": "assets/images/tree_75.jpg",
     "funFact": "Mahogany wood is highly prized for its rich color and durability.",
     "climateImpact": "Requires tropical climates with reliable rainfall.",
     "commonDiseases": ["Heart rot", "Termite attack"]
@@ -1514,7 +1514,7 @@
     "conservationStatus": "Least Concern",
     "description": "A medium-sized tree producing edible fruits. Found in Tanzania's savanna and woodland areas.",
     "ethnobotany": "Fruits eaten fresh or dried. Wood for light construction. Bark for traditional medicine.",
-    "imagePath": "assets/images/tree_46.jpg",
+    "imagePath": "assets/images/tree_76.jpg",
     "funFact": "The fruits ripen during the dry season, providing food for wildlife and humans.",
     "climateImpact": "Drought tolerant.",
     "commonDiseases": ["Leaf spot", "Fruit fly"]
@@ -1534,7 +1534,7 @@
     "conservationStatus": "Least Concern",
     "description": "A valuable timber tree producing hard, durable wood. Found in Tanzania's dry forests.",
     "ethnobotany": "Wood for construction and furniture. Bark used in traditional medicine.",
-    "imagePath": "assets/images/tree_47.jpg",
+    "imagePath": "assets/images/tree_77.jpg",
     "funFact": "The wood is resistant to termites and decay, making it ideal for outdoor use.",
     "climateImpact": "Drought tolerant. Prefers well-drained soils.",
     "commonDiseases": ["Heart rot", "Leaf spot"]
@@ -1554,7 +1554,7 @@
     "conservationStatus": "Least Concern",
     "description": "A medium-sized tree producing sweet, edible fruits. Found in Tanzania's coastal forests.",
     "ethnobotany": "Fruits eaten fresh. Wood for construction and furniture. Latex used in traditional medicine.",
-    "imagePath": "assets/images/tree_48.jpg",
+    "imagePath": "assets/images/tree_78.jpg",
     "funFact": "The fruits are rich in vitamins and are often harvested from the wild.",
     "climateImpact": "Sensitive to drought. Requires moist, well-drained soils.",
     "commonDiseases": ["Leaf spot", "Root rot"]
@@ -1574,7 +1574,7 @@
     "conservationStatus": "Least Concern",
     "description": "A valuable timber tree found in Tanzania's miombo woodlands. Produces hard, durable wood.",
     "ethnobotany": "Wood for construction, furniture, and firewood. Bark used in traditional medicine.",
-    "imagePath": "assets/images/tree_49.jpg",
+    "imagePath": "assets/images/tree_79.jpg",
     "funFact": "This tree is an important source of timber for local communities.",
     "climateImpact": "Drought tolerant. Grows in poor, sandy soils.",
     "commonDiseases": ["Leaf spot", "Termite attack"]
@@ -1594,7 +1594,7 @@
     "conservationStatus": "Least Concern",
     "description": "A wild olive tree producing small, edible fruits. Found in Tanzania's highlands and dry forests.",
     "ethnobotany": "Fruits eaten fresh or pressed for oil. Wood for carving and furniture.",
-    "imagePath": "assets/images/tree_50.jpg",
+    "imagePath": "assets/images/tree_80.jpg",
     "funFact": "Olive oil from this tree is highly prized for its flavor and nutritional value.",
     "climateImpact": "Drought tolerant. Thrives in well-drained soils.",
     "commonDiseases": ["Leaf spot", "Scale insects"]
@@ -1614,7 +1614,7 @@
     "conservationStatus": "Vulnerable",
     "description": "A valuable timber tree producing hard, durable wood with a beautiful grain. Found in Tanzania's tropical forests.",
     "ethnobotany": "High-quality timber for furniture, flooring, and construction. Bark used in traditional medicine.",
-    "imagePath": "assets/images/tree_51.jpg",
+    "imagePath": "assets/images/tree_81.jpg",
     "funFact": "The wood is highly resistant to decay and insects.",
     "climateImpact": "Sensitive to drought. Requires tropical climate.",
     "commonDiseases": ["Heart rot", "Termite attack"]
@@ -1634,7 +1634,7 @@
     "conservationStatus": "Least Concern",
     "description": "A small tree used in agroforestry for soil improvement, shade, and fodder. Common in Tanzania's dry savannas.",
     "ethnobotany": "Leaves used as fodder. Pods for animal feed. Bark for traditional medicine.",
-    "imagePath": "assets/images/tree_52.jpg",
+    "imagePath": "assets/images/tree_82.jpg",
     "funFact": "This tree is highly valued for its ability to improve soil fertility.",
     "climateImpact": "Drought tolerant. Grows in poor, sandy soils.",
     "commonDiseases": ["Leaf spot", "Powdery mildew"]
@@ -1654,7 +1654,7 @@
     "conservationStatus": "Least Concern",
     "description": "A beautiful shrub or small tree with large, showy flowers. Found in Tanzania's highland grasslands.",
     "ethnobotany": "Planted for ornament. Flowers used in floral arrangements. Wood for carving.",
-    "imagePath": "assets/images/tree_53.jpg",
+    "imagePath": "assets/images/tree_83.jpg",
     "funFact": "Protea flowers are adapted to fire and can regenerate quickly after wildfires.",
     "climateImpact": "Moderately drought tolerant. Prefers well-drained soils.",
     "commonDiseases": ["Leaf spot", "Root rot"]
@@ -1674,7 +1674,7 @@
     "conservationStatus": "Vulnerable",
     "description": "A valuable timber tree producing red, durable wood. Found in Tanzania's tropical forests.",
     "ethnobotany": "High-quality timber for furniture, construction, and musical instruments.",
-    "imagePath": "assets/images/tree_54.jpg",
+    "imagePath": "assets/images/tree_84.jpg",
     "funFact": "The wood is used to make traditional musical instruments, including drums.",
     "climateImpact": "Sensitive to deforestation. Requires tropical forest.",
     "commonDiseases": ["Heart rot", "Termite attack"]
@@ -1694,7 +1694,7 @@
     "conservationStatus": "Least Concern",
     "description": "A small tree with medicinal properties, used to treat skin conditions and wounds. Found in Tanzania's dry woodlands.",
     "ethnobotany": "Bark and leaves used for skin treatments. Wood for firewood and small crafts.",
-    "imagePath": "assets/images/tree_55.jpg",
+    "imagePath": "assets/images/tree_85.jpg",
     "funFact": "The sap can cause skin irritation but is also used in traditional medicine.",
     "climateImpact": "Drought tolerant. Thrives in rocky, well-drained soils.",
     "commonDiseases": ["Leaf spot", "Powdery mildew"]
@@ -1714,7 +1714,7 @@
     "conservationStatus": "Least Concern",
     "description": "A climbing shrub or small tree producing sweet, edible fruits. Found along rivers and in forest edges.",
     "ethnobotany": "Fruits eaten fresh. Leaves used as fodder. Bark for traditional medicine.",
-    "imagePath": "assets/images/tree_56.jpg",
+    "imagePath": "assets/images/tree_86.jpg",
     "funFact": "The fruits are similar to passion fruit and are highly nutritious.",
     "climateImpact": "Requires moist conditions. Grows near water sources.",
     "commonDiseases": ["Leaf spot", "Fruit fly"]
@@ -1734,7 +1734,7 @@
     "conservationStatus": "Least Concern",
     "description": "A valuable timber tree producing hard, durable wood. Found in Tanzania's highland forests.",
     "ethnobotany": "Wood for construction, furniture, and carving. Bark used in traditional medicine.",
-    "imagePath": "assets/images/tree_57.jpg",
+    "imagePath": "assets/images/tree_87.jpg",
     "funFact": "The wood is highly prized for its strength and beautiful grain.",
     "climateImpact": "Moderately drought tolerant. Prefers well-drained soils.",
     "commonDiseases": ["Heart rot", "Leaf spot"]
@@ -1754,7 +1754,7 @@
     "conservationStatus": "Least Concern",
     "description": "A valuable timber tree producing hard, durable wood. Found in Tanzania's dry woodlands.",
     "ethnobotany": "Wood for construction, furniture, and firewood. Bark used in traditional medicine.",
-    "imagePath": "assets/images/tree_58.jpg",
+    "imagePath": "assets/images/tree_88.jpg",
     "funFact": "The sap is toxic and is used as arrow poison in some communities.",
     "climateImpact": "Drought tolerant. Thrives in semi-arid conditions.",
     "commonDiseases": ["Leaf spot", "Termite attack"]
@@ -1774,7 +1774,7 @@
     "conservationStatus": "Least Concern",
     "description": "A small tree with medicinal properties, used to treat fever and digestive problems. Found in Tanzania's dry areas.",
     "ethnobotany": "Bark and leaves for treating fever and stomach issues. Wood for firewood.",
-    "imagePath": "assets/images/tree_59.jpg",
+    "imagePath": "assets/images/tree_89.jpg",
     "funFact": "This tree is highly valued in traditional medicine for its healing properties.",
     "climateImpact": "Drought tolerant. Grows in rocky, well-drained soils.",
     "commonDiseases": ["Leaf spot", "Powdery mildew"]
@@ -1794,7 +1794,7 @@
     "conservationStatus": "Least Concern",
     "description": "A large tree providing excellent shade. Found in Tanzania's dry woodlands and savannas.",
     "ethnobotany": "Provides shade. Wood for carving and construction. Bark for traditional medicine.",
-    "imagePath": "assets/images/tree_60.jpg",
+    "imagePath": "assets/images/tree_90.jpg",
     "funFact": "The tree produces large, woody pods that are used in traditional crafts.",
     "climateImpact": "Drought tolerant. Grows in various soil types.",
     "commonDiseases": ["Leaf spot", "Root rot"]
@@ -1814,7 +1814,7 @@
     "conservationStatus": "Least Concern",
     "description": "A spiny tree producing sweet, edible fruits. Found in Tanzania's savanna woodlands.",
     "ethnobotany": "Fruits eaten fresh. Wood for construction. Bark for traditional medicine.",
-    "imagePath": "assets/images/tree_61.jpg",
+    "imagePath": "assets/images/tree_91.jpg",
     "funFact": "The fruits are rich in vitamins and are popular in rural communities.",
     "climateImpact": "Drought tolerant. Thrives in well-drained soils.",
     "commonDiseases": ["Leaf spot", "Fruit fly"]
@@ -1834,7 +1834,7 @@
     "conservationStatus": "Least Concern",
     "description": "A medium-sized tree producing sweet, edible fruits. Found along rivers and in highland forests.",
     "ethnobotany": "Fruits eaten fresh or used in drinks. Wood for construction and furniture.",
-    "imagePath": "assets/images/tree_62.jpg",
+    "imagePath": "assets/images/tree_92.jpg",
     "funFact": "The fruits are used to make a refreshing drink similar to lemonade.",
     "climateImpact": "Requires moist conditions. Grows near water sources.",
     "commonDiseases": ["Leaf spot", "Root rot"]
@@ -1854,7 +1854,7 @@
     "conservationStatus": "Least Concern",
     "description": "A large fruit tree producing sweet and sour fruits. Commonly used to make beverages and traditional dishes.",
     "ethnobotany": "Fruits used for food and drinks. Bark for treating diarrhea. Wood for furniture.",
-    "imagePath": "assets/images/tree_63.jpg",
+    "imagePath": "assets/images/tree_93.jpg",
     "funFact": "Tamarind can live for over 200 years and is known as the 'date of India'.",
     "climateImpact": "Drought tolerant.",
     "commonDiseases": ["Leaf spot", "Root rot"]
@@ -1874,7 +1874,7 @@
     "conservationStatus": "Least Concern",
     "description": "A small tree with medicinal properties, used to treat various ailments. Found in Tanzania's forests.",
     "ethnobotany": "Bark and leaves used in traditional medicine. Wood for firewood and small crafts.",
-    "imagePath": "assets/images/tree_64.jpg",
+    "imagePath": "assets/images/tree_94.jpg",
     "funFact": "This tree is highly valued in traditional medicine for its healing properties.",
     "climateImpact": "Moderately drought tolerant. Prefers well-drained soils.",
     "commonDiseases": ["Leaf spot", "Powdery mildew"]
@@ -1894,7 +1894,7 @@
     "conservationStatus": "Least Concern",
     "description": "A tree producing oil-rich fruits used in cosmetics and traditional medicine. Found in Tanzania's forests.",
     "ethnobotany": "Fruits used for oil. Bark for traditional medicine. Wood for construction.",
-    "imagePath": "assets/images/tree_65.jpg",
+    "imagePath": "assets/images/tree_95.jpg",
     "funFact": "The oil from the seeds is highly valued in natural skincare products.",
     "climateImpact": "Requires moist, well-drained soils.",
     "commonDiseases": ["Leaf spot", "Fruit fly"]
@@ -1914,7 +1914,7 @@
     "conservationStatus": "Least Concern",
     "description": "A medium-sized tree producing sweet, edible fruits. Found in miombo woodlands across Tanzania.",
     "ethnobotany": "Fruits eaten fresh. Wood for construction and furniture. Bark for traditional medicine.",
-    "imagePath": "assets/images/tree_66.jpg",
+    "imagePath": "assets/images/tree_96.jpg",
     "funFact": "The fruits are popular with both humans and wildlife.",
     "climateImpact": "Drought tolerant. Grows in sandy soils.",
     "commonDiseases": ["Leaf spot", "Root rot"]
@@ -1934,7 +1934,7 @@
     "conservationStatus": "Least Concern",
     "description": "A small tree producing sweet, edible fruits. Found in Tanzania's dry woodlands and savannas.",
     "ethnobotany": "Fruits eaten fresh. Wood for firewood. Bark for traditional medicine.",
-    "imagePath": "assets/images/tree_67.jpg",
+    "imagePath": "assets/images/tree_97.jpg",
     "funFact": "The fruits are popular with birds and small mammals.",
     "climateImpact": "Drought tolerant. Thrives in well-drained soils.",
     "commonDiseases": ["Leaf spot", "Fruit fly"]
@@ -1954,7 +1954,7 @@
     "conservationStatus": "Least Concern",
     "description": "A tree producing sweet, edible fruits used in traditional dishes. Found in Tanzania's forests and woodlands.",
     "ethnobotany": "Fruits eaten fresh or used in cooking. Wood for construction. Bark for traditional medicine.",
-    "imagePath": "assets/images/tree_68.jpg",
+    "imagePath": "assets/images/tree_98.jpg",
     "funFact": "The fruits are rich in vitamins and are often used in traditional porridge.",
     "climateImpact": "Moderately drought tolerant. Prefers moist soils.",
     "commonDiseases": ["Leaf spot", "Root rot"]
@@ -1974,7 +1974,7 @@
     "conservationStatus": "Least Concern",
     "description": "A small tree producing sour, edible fruits. Found in Tanzania's dry woodlands and savannas.",
     "ethnobotany": "Fruits eaten fresh or used in drinks. Wood for firewood. Bark for traditional medicine.",
-    "imagePath": "assets/images/tree_69.jpg",
+    "imagePath": "assets/images/tree_99.jpg",
     "funFact": "The sour fruits are used to make a refreshing drink similar to lemonade.",
     "climateImpact": "Highly drought tolerant.",
     "commonDiseases": ["Leaf spot", "Fruit fly"]
@@ -1994,7 +1994,7 @@
     "conservationStatus": "Least Concern",
     "description": "A spiny tree producing sweet, edible fruits. Found in Tanzania's savannas and along rivers.",
     "ethnobotany": "Fruits eaten fresh. Wood for fencing and construction. Leaves used as fodder.",
-    "imagePath": "assets/images/tree_70.jpg",
+    "imagePath": "assets/images/tree_100.jpg",
     "funFact": "The fruits are rich in vitamin C and are harvested during the dry season.",
     "climateImpact": "Drought tolerant. Thrives in various soil types.",
     "commonDiseases": ["Leaf spot", "Fruit fly"]
