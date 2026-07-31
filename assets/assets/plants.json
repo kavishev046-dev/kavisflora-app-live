@@ -37,7 +37,10 @@
   "conservationStatus": "Least Concern",
   "description": "A thorny tree with yellow flowers, used for charcoal and traditional medicine. Common in Tanzania's dry savanna regions.",
   "ethnobotany": "Bark used for toothache, gum for cough. Charcoal for cooking. Gum used in traditional crafts.",
-  "imagePaths": ["assets/images/tree_2.jpg"],
+  "imagePaths": [
+    "assets/images/tree_2.jpg",
+    "assets/images/tree_2_bark.jpg"
+  ],
   "funFact": "The gum from this tree is used to make gum arabic, a common food additive.",
   "climateImpact": "Drought tolerant and resilient to climate variations.",
   "commonDiseases": ["Leaf spot", "Powdery mildew"]
